@@ -17,6 +17,7 @@ I am a full stack web developer, and these are my sills:
 - Python 
 	- Django, Django REST Framework, Djoser (Authentication), 
 		Django Ninja
+	- GraphQL, Graphene, Graphene-Django
 	- Flask, Pydantic, SQLAlchemy
 	- Testing
 - JavaScript
