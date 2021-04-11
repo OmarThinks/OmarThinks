@@ -35,7 +35,7 @@ I am currently learning new technologies.
 
 
 ### What Am I doing Currently:
-Studying GraphQL
+Studying Material-UI.
 
 
 
