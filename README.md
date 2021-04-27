@@ -35,7 +35,7 @@ I am currently learning new technologies.
 
 
 ### What Am I doing Currently:
-Studying Material-UI.
+Studying C#, I am about to learn ASP.NET
 
 
 
