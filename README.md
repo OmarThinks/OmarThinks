@@ -37,8 +37,7 @@ I am currently learning new technologies.
 
 
 ### What Am I doing Currently:
-Studying C#, I am about to learn ASP.NET
-
+- I have learnt C#, Now I am studying ASP.NET.
 
 
 ### Employment:
