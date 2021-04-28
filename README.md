@@ -23,7 +23,9 @@ I am a full stack web developer, and these are my sills:
 - JavaScript
 	- React, Redux
 	- Node.js, EJS, Express.js
+- C#
 </b>
+
 
 
 ### Example:
