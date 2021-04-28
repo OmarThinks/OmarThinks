@@ -1,8 +1,5 @@
 
-### Personal Informarion:
-Hi there 👋! I am Omar Magdy, 27 years old, 
-Live in 6th of October City, Giza, Egypt. 
-This is like my CV.
+Hi there 👋! My name is Omar Magdy, I live in Egypt. 
 
 
 
