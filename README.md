@@ -1,26 +1,170 @@
 
-Hi there 👋! My name is Omar Magdy, I live in Egypt. 
+Hi there 👋! My name is Omar Magdy, I live in Egypt, 
+Giza, 6th of October city. 
 
 
 
 ### Skills?
-I am a full stack web developer, and these are my sills:
+I am a full stack web developer, and these are my skills:
 
 <b>
 
 
 - Basic Web Technologies:
-	- HTML, CSS, BootStrap
-- Python 
-	- Django, Django REST Framework, Djoser (Authentication), 
-		Django Ninja
-	- GraphQL, Graphene, Graphene-Django
-	- Flask, Pydantic, SQLAlchemy
-	- Testing
-- JavaScript
-	- React, Redux
-	- Node.js, EJS, Express.js
-- C#
+	- 
+
+
+<ul>
+	<li>Basic Web Technologies:</li>
+	<ul>
+		<li>
+			<a href="https://www.w3schools.com/html/">HTML</a>,
+			<a href="https://www.w3schools.com/css/default.asp">CSS</a>,
+			<a href="https://getbootstrap.com/">
+			BootStrap</a>
+		</li>
+	</ul>
+
+
+
+
+
+
+
+
+<li>
+	<a href="https://www.python.org/">
+	Python:</a>
+</li>
+
+<ul>
+	<li>
+		<a href="https://docs.djangoproject.com">
+		Django</a>,
+		<a href="https://www.django-rest-framework.org/">
+		Django REST Framework (DRF)</a>,
+		<a 
+		href="https://djoser.readthedocs.io">
+		Djoser</a>,
+		<a 
+		href="https://django-ninja.rest-framework.com/">
+		Django Ninja</a>
+	</li>
+</ul>
+
+<ul>
+	<li>
+		<a href="https://graphql.org/">
+		GraphQL</a>,
+		<a href="https://graphene-python.org/">
+		Graphene</a>,
+		<a 
+		href="https://docs.graphene-python.org/projects/django">
+		Graphene-Django</a>
+	</li>
+</ul>
+<ul>
+	<li>
+		<a href="https://flask.palletsprojects.com">
+		Flask</a>,
+		<a href="https://pydantic-docs.helpmanual.io/">
+		Pydantic</a>,
+		<a 
+		href="https://www.sqlalchemy.org/">
+		SQLAlchemy</a>
+	</li>
+</ul>
+<ul>
+	<li>
+		<a 
+		href="https://docs.python.org/3/library/unittest.html">
+		Testing</a>,
+	</li>
+</ul>
+
+
+
+
+
+
+
+
+
+<li>
+	<a href="https://www.w3schools.com/js/DEFAULT.asp">
+	JavaScript:</a>
+</li>
+<ul>
+	<li>
+		<a href="https://reactjs.org/">
+		React</a>,
+		<a href="https://redux.js.org/">
+		Redux</a>
+	</li>
+</ul>
+<ul>
+	<li>
+		<a href="https://nodejs.org/en/">
+		Node.js</a>,
+		<a href="https://ejs.co/">
+		EJS</a>,
+		<a 
+		href="https://expressjs.com/">
+		Express.js</a>
+	</li>
+</ul>
+
+
+
+
+
+<li>
+	<a href="https://www.w3schools.com/cs/">
+	C#</a>
+</li>
+
+
+
+<li>
+	<a href="https://www.docker.com/">
+	Docker</a>
+</li>
+
+
+
+
+<li>
+	<a href="https://git-scm.com/">
+	Git</a>,
+	<a href="https://github.com/">
+	Github</a> 
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</ul>
+
+
+
+
+
+
+
+
 </b>
 
 
