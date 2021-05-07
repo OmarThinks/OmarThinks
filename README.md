@@ -78,7 +78,7 @@ I am a full stack web developer, and these are my skills:
 	<li>
 		<a 
 		href="https://docs.python.org/3/library/unittest.html">
-		Testing</a>,
+		Testing</a>
 	</li>
 </ul>
 
