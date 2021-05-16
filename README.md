@@ -10,9 +10,6 @@ I am a full stack web developer, and these are my skills:
 <b>
 
 
-- Basic Web Technologies:
-	- 
-
 
 <ul>
 	<li>Basic Web Technologies:</li>
