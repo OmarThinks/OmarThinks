@@ -33,6 +33,39 @@ I am a full stack web developer, and these are my skills:
 
 
 <li>
+	<a href="https://www.w3schools.com/js/DEFAULT.asp">
+	JavaScript:</a>
+</li>
+<ul>
+	<li>
+		<a href="https://reactjs.org/">
+		React</a>,
+		<a href="https://redux.js.org/">
+		Redux</a>
+	</li>
+</ul>
+<ul>
+	<li>
+		<a href="https://nodejs.org/en/">
+		Node.js</a>,
+		<a href="https://ejs.co/">
+		EJS</a>,
+		<a 
+		href="https://expressjs.com/">
+		Express.js</a>
+	</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+<li>
 	<a href="https://www.python.org/">
 	Python:</a>
 </li>
@@ -89,39 +122,53 @@ I am a full stack web developer, and these are my skills:
 
 
 
-
-<li>
-	<a href="https://www.w3schools.com/js/DEFAULT.asp">
-	JavaScript:</a>
-</li>
-<ul>
-	<li>
-		<a href="https://reactjs.org/">
-		React</a>,
-		<a href="https://redux.js.org/">
-		Redux</a>
-	</li>
-</ul>
-<ul>
-	<li>
-		<a href="https://nodejs.org/en/">
-		Node.js</a>,
-		<a href="https://ejs.co/">
-		EJS</a>,
-		<a 
-		href="https://expressjs.com/">
-		Express.js</a>
-	</li>
-</ul>
-
-
-
-
-
 <li>
 	<a href="https://www.w3schools.com/cs/">
 	C#</a>
 </li>
+
+<ul>
+	
+
+<li>
+
+<a href="https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core">
+ASP.NET (Core)</a></li>
+	<ul>
+		<li>
+			<a href="https://www.nuget.org/">
+			NuGet</a>,
+			<a href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages">
+			Razor Pages</a>,
+			<a 
+			href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc">
+			MVC</a>,
+			<a 
+			href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api">
+			Web API</a>
+		</li>
+		<li>
+			<a href="https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity">
+			Identity</a>
+		</li>
+		<li>
+			<a href="https://docs.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator">
+			Code Generator</a>
+		</li>
+	</ul>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -178,7 +225,12 @@ I am currently learning new technologies.
 
 
 ### What Am I doing Currently:
-- I have learnt C#, Now I am studying ASP.NET.
+
+
+
+If God willed, I will study <b>CI/CD</b>.  
+So I am learning <b><a href="https://circleci.com/">
+CircleCI</a></b> now
 
 
 ### Employment:
