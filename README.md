@@ -4,12 +4,16 @@ Giza, 6th of October city.
 
 
 
+
 ### Skills?
 I am a full stack web developer, and these are my skills:
 
-
-
 <b>
+
+- Web development
+- Backend, ORM, NoSQL (MongoDB), GraphQL
+- Frontend, React
+- Testing
 
 
 
