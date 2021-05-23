@@ -11,8 +11,8 @@ I am a full stack web developer, and these are my skills:
 <b>
 
 - Summary:
-	- Web development, Templating, Restful APIs
-	- Backend, ORM, NoSQL (MongoDB), GraphQL
+	- Web development, Templating, RESTful APIs
+	- Backend, ORM, SQL, No-SQL (MongoDB), GraphQL
 	- Frontend, React
 	- Testing
 
