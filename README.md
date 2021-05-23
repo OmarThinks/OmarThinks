@@ -71,13 +71,13 @@ I am a full stack web developer, and these are my skills:
 
 <li>
 	<a href="https://www.python.org/">
-	Python:</a>
+	Python</a> (The best I have seen so far):
 </li>
 
 <ul>
 	<li>
 		<a href="https://docs.djangoproject.com">
-		Django</a>,
+		Django</a> (The best I have seen so far),
 		<a href="https://www.django-rest-framework.org/">
 		Django REST Framework (DRF)</a>,
 		<a 
