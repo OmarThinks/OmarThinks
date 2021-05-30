@@ -12,7 +12,7 @@ I am a full stack web developer, and these are my skills:
 
 - Summary:
 	- Web development, Templating, RESTful APIs
-	- Backend, ORM, SQL, No-SQL (MongoDB), GraphQL
+	- Backend, ORM, SQL, GraphQL
 	- Frontend, React
 	- Testing
 
@@ -70,14 +70,14 @@ I am a full stack web developer, and these are my skills:
 
 
 <li>
-	<a href="https://www.python.org/">
-	Python</a> (The best I have seen so far):
+	<a href="https://www.w3schools.com/python/default.asp">
+	Python</a>:
 </li>
 
 <ul>
 	<li>
 		<a href="https://docs.djangoproject.com">
-		Django</a> (The best I have seen so far),
+		Django</a>,
 		<a href="https://www.django-rest-framework.org/">
 		Django REST Framework (DRF)</a>,
 		<a 
@@ -118,7 +118,10 @@ I am a full stack web developer, and these are my skills:
 	<li>
 		<a 
 		href="https://docs.python.org/3/library/unittest.html">
-		Testing</a>
+		unittest</a>, 
+		<a 
+		href="https://pypi.org/project/pytest/">
+		pytest</a>, 		
 	</li>
 </ul>
 
