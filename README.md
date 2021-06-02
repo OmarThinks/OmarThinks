@@ -5,33 +5,62 @@ Giza, 6th of October city.
 
 
 
-### Skills?
+## Skills?
 I am a full stack web developer, and these are my skills:
 
 <b>
 
-- Summary:
-	- Web development, Templating, RESTful APIs
-	- Backend, ORM, SQL, GraphQL
-	- Frontend, React
-	- Testing
+### Summary:
 
-
-
-<ul>
-	<li>Basic Web Technologies:</li>
-	<ul>
-		<li>
-			<a href="https://www.w3schools.com/html/">HTML</a>,
-			<a href="https://www.w3schools.com/css/default.asp">CSS</a>,
-			<a href="https://getbootstrap.com/">
-			BootStrap</a>
-		</li>
-	</ul>
+- Full Stack Web developer (I build websites)
+- Backend, RESTful APIs, ORM, GraphQL, Testing
+- Frontend, HTMK, CSS, React, Templating
+- Docker, CI/CD
 
 
 
 
+### Basic Web Technologies:
+- [HTML](https://www.w3schools.com/html/),
+	[CSS](https://www.w3schools.com/css/default.asp),
+	[BootStrap](https://getbootstrap.com/)
+
+### Frontend:
+- [JavaScript]()
+	- React
+	- Redux
+	- EJS
+	- AJAX
+	- Axios
+
+### Backend:
+- Python:
+	- Django, Django REST Framework (DRF), Djoser
+	- GraphQL, Graphene, Graphene-Django
+	- Flask, SQLAlchemy, Pydantic
+	- unittest, pytest
+- JavaScript:
+	- ExpressJS, Sequelize
+- C#:
+	- ASP.NET (Core):
+		- NuGet, Razor Pages, MVC, Web API
+		- Identity
+		- Code generator
+
+### DevOps:
+- Docker
+- CircleCI (CI/CD)
+
+### Others:
+- Git, Github
+
+
+
+
+
+
+
+---
 
 
 
