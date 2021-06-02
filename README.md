@@ -26,7 +26,7 @@ I am a full stack web developer, and these are my skills:
 	[BootStrap](https://getbootstrap.com/)
 
 ### Frontend:
-- [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
+- [JavaScript](https://www.w3schools.com/js/)
 	- [React](https://reactjs.org/), [Redux](https://redux.js.org/)
 	- [jQuery.ajax](https://api.jquery.com/jquery.ajax/), 
 		[Axios](https://axios-http.com/)
