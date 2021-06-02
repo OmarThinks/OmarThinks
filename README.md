@@ -50,7 +50,7 @@ I am a full stack web developer, and these are my skills:
 		[Sequelize](https://sequelize.org/)
 - [C#](https://www.w3schools.com/cs/):
 	- [ASP.NET (Core)](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core):
-		- [NuGet](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages), 
+		- [NuGet](https://www.nuget.org/), 
 			[Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages), 
 			[MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc), 
 			[Web API](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api)
@@ -91,6 +91,7 @@ I am a full stack web developer, and these are my skills:
 
 
 ### What Am I doing Currently:
+Applying for jobs, and studying more about web development.  
 If God willed, I will continue studying <b>DevOps</b>.  
 So I am learning <b><a href="https://kubernetes.io/">
 Kubernetes</a></b> now.  
