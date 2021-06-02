@@ -26,31 +26,46 @@ I am a full stack web developer, and these are my skills:
 	[BootStrap](https://getbootstrap.com/)
 
 ### Frontend:
-- [JavaScript]()
-	- [React](), [Redux]()
-	- [AJAX](), [Axios]()
-	- [EJS]()
+- [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
+	- [React](https://reactjs.org/), [Redux](https://redux.js.org/)
+	- [jQuery.ajax](https://api.jquery.com/jquery.ajax/), 
+		[Axios](https://axios-http.com/)
+	- [EJS](https://ejs.co/)
 
 ### Backend:
-- [Python]():
-	- [Django](), [Django REST Framework (DRF)](), [Djoser]()
-	- [GraphQL](), [Graphene](), [Graphene-Django]()
-	- [Flask](), [SQLAlchemy](), [Pydantic]()
-	- [unittest](), [pytest]()
-- [JavaScript]():
-	- [ExpressJS](), [Sequelize]()
-- [C#]():
-	- [ASP.NET (Core)]():
-		- [NuGet](), [Razor Pages](), [MVC](), [Web API]()
-		- [Identity]()
-		- [Code generator]()
+- [Python](https://www.w3schools.com/python/):
+	- [Django](https://docs.djangoproject.com), 
+		[Django REST Framework](https://www.django-rest-framework.org/) (DRF), 
+		[Djoser](https://djoser.readthedocs.io)
+	- [GraphQL](https://graphql.org/), 
+		[Graphene](https://graphene-python.org/), 
+		[Graphene-Django](https://docs.graphene-python.org/projects/django)
+	- [Flask](https://flask.palletsprojects.com), 
+		[SQLAlchemy](https://www.sqlalchemy.org/), 
+		[Pydantic](https://pydantic-docs.helpmanual.io/)
+	- [unittest](https://docs.python.org/3/library/unittest.html), 
+		[pytest](https://pypi.org/project/pytest/)
+- [JavaScript](https://www.w3schools.com/js/):
+	- [ExpressJS](https://expressjs.com/), 
+		[Sequelize](https://sequelize.org/)
+- [C#](https://www.w3schools.com/cs/):
+	- [ASP.NET (Core)](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core):
+		- [NuGet](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages), 
+			[Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages), 
+			[MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc), 
+			[Web API](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api)
+		- [Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
+		- [Code generator](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator)
 
 ### DevOps:
-- [Docker]()
-- [CircleCI (CI/CD)]()
+- [Docker](https://www.docker.com/)
+- [CircleCI](https://circleci.com/) (CI/CD)
 
 ### Others:
-- [Git](), [Github]()
+- [Git](https://git-scm.com/), [Github](https://github.com/)
+
+
+
 
 
 
@@ -64,7 +79,7 @@ I am a full stack web developer, and these are my skills:
 
 
 <li>
-	<a href="https://www.w3schools.com/js/DEFAULT.asp">
+	<a href="https://www.w3schools.com/js">
 	JavaScript:</a>
 </li>
 <ul>
@@ -86,9 +101,6 @@ I am a full stack web developer, and these are my skills:
 		Express.js</a>
 	</li>
 </ul>
-
-
-
 
 
 
@@ -159,6 +171,13 @@ I am a full stack web developer, and these are my skills:
 
 
 
+
+
+
+
+
+
+
 <li>
 	<a href="https://www.w3schools.com/cs/">
 	C#</a>
@@ -204,11 +223,6 @@ ASP.NET (Core)</a></li>
 
 
 
-
-
-
-
-
 <li>
 	<a href="https://www.docker.com/">
 	Docker</a>
@@ -223,6 +237,8 @@ ASP.NET (Core)</a></li>
 	<a href="https://github.com/">
 	Github</a> 
 </li>
+
+
 
 
 
