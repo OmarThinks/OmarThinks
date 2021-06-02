@@ -12,10 +12,10 @@ I am a full stack web developer, and these are my skills:
 
 ### Summary:
 
-- Full Stack Web developer (I build websites)
+- Full Stack Web Developer (I build websites)
 - Backend, RESTful APIs, ORM, GraphQL, Testing
-- Frontend, HTMK, CSS, React, Templating
-- Docker, CI/CD
+- Frontend, HTML, CSS, React, Templating
+- Docker, CI/CD, Git and Github
 
 
 
@@ -27,32 +27,30 @@ I am a full stack web developer, and these are my skills:
 
 ### Frontend:
 - [JavaScript]()
-	- React
-	- Redux
-	- EJS
-	- AJAX
-	- Axios
+	- [React](), [Redux]()
+	- [AJAX](), [Axios]()
+	- [EJS]()
 
 ### Backend:
-- Python:
-	- Django, Django REST Framework (DRF), Djoser
-	- GraphQL, Graphene, Graphene-Django
-	- Flask, SQLAlchemy, Pydantic
-	- unittest, pytest
-- JavaScript:
-	- ExpressJS, Sequelize
-- C#:
-	- ASP.NET (Core):
-		- NuGet, Razor Pages, MVC, Web API
-		- Identity
-		- Code generator
+- [Python]():
+	- [Django](), [Django REST Framework (DRF)](), [Djoser]()
+	- [GraphQL](), [Graphene](), [Graphene-Django]()
+	- [Flask](), [SQLAlchemy](), [Pydantic]()
+	- [unittest](), [pytest]()
+- [JavaScript]():
+	- [ExpressJS](), [Sequelize]()
+- [C#]():
+	- [ASP.NET (Core)]():
+		- [NuGet](), [Razor Pages](), [MVC](), [Web API]()
+		- [Identity]()
+		- [Code generator]()
 
 ### DevOps:
-- Docker
-- CircleCI (CI/CD)
+- [Docker]()
+- [CircleCI (CI/CD)]()
 
 ### Others:
-- Git, Github
+- [Git](), [Github]()
 
 
 
