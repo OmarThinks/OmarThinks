@@ -92,9 +92,9 @@ I am a full stack web developer, and these are my skills:
 
 ### What Am I doing Currently:
 Applying for jobs, and studying more about web development.  
-If God willed, I will continue studying <b>DevOps</b>.  
-So I am learning <b><a href="https://kubernetes.io/">
-Kubernetes</a></b> now.  
+If God willed, I will study NoSQL.  
+So I am learning <a href="https://www.mongodb.com/">
+MongoDB</a> now.  
 🌱
 
 
