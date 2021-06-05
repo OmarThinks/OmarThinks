@@ -90,11 +90,11 @@ I am a full stack web developer, and these are my skills:
 
 
 
-### What Am I doing Currently:
+### What Am I Doing With My Life?
 Applying for jobs, and studying more about web development.  
-If God willed, I will study NoSQL.  
-So I am learning <a href="https://www.mongodb.com/">
-MongoDB</a> now.  
+If God willed, I want to continue studying DevOps.  
+So I am learning <a href="https://docs.github.com/en/actions">
+Github Actions</a> now.  
 🌱
 
 
