@@ -91,7 +91,8 @@ I am a full stack web developer, and these are my skills:
 
 
 ### What Am I Doing With My Life?
-Applying for jobs, and studying more about web development.  
+Applying for jobs, I want to increase my probability of 
+getting a job in the field of programming.  
 If God willed, I want to continue studying DevOps.  
 So I am learning <a href="https://docs.github.com/en/actions">
 Github Actions</a> now.  
