@@ -12,10 +12,10 @@ I am a full stack web developer, and these are my skills:
 
 ### Summary:
 
-- Full Stack Web Developer (I build websites)
-- Backend, RESTful APIs, ORM, GraphQL, Testing
-- Frontend, HTML, CSS, React, Templating
-- Docker, CI/CD, Git and Github
+- Full Stack Web Developer (I Build Websites)
+- DevOps: Docker, CI/CD, Git and Github
+- Backend: RESTful APIs, ORM, GraphQL, Testing
+- Frontend: HTML, CSS, React, Templating
 
 
 
@@ -25,12 +25,6 @@ I am a full stack web developer, and these are my skills:
 	[CSS](https://www.w3schools.com/css/default.asp),
 	[BootStrap](https://getbootstrap.com/)
 
-### Frontend:
-- [JavaScript](https://www.w3schools.com/js/)
-	- [React](https://reactjs.org/), [Redux](https://redux.js.org/)
-	- [jQuery.ajax](https://api.jquery.com/jquery.ajax/), 
-		[Axios](https://axios-http.com/)
-	- [EJS](https://ejs.co/)
 
 ### Backend:
 - [Python](https://www.w3schools.com/python/):
@@ -59,7 +53,23 @@ I am a full stack web developer, and these are my skills:
 
 ### DevOps:
 - [Docker](https://www.docker.com/)
-- [CircleCI](https://circleci.com/) (CI/CD)
+- CI/CD
+	- [CircleCI](https://circleci.com/)
+	- [Github Actions](https://docs.github.com/en/actions)
+
+
+
+
+
+
+### Frontend:
+- [JavaScript](https://www.w3schools.com/js/)
+	- [React](https://reactjs.org/), [Redux](https://redux.js.org/)
+	- [jQuery.ajax](https://api.jquery.com/jquery.ajax/), 
+		[Axios](https://axios-http.com/)
+	- [EJS](https://ejs.co/)
+
+
 
 ### Others:
 - [Git](https://git-scm.com/), [Github](https://github.com/)
