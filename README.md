@@ -112,10 +112,9 @@ Job Seeker, I am actively applying for jobs.
 
 
 
-### What Am I Doing With My Life?
-Applying for jobs, I want to increase my probability of 
-getting a job in the field of programming.  
-So I am studying <a href="https://laravel.com/docs">
+### What Am I Doing Now?
+Applying for jobs.  
+And studying <a href="https://laravel.com/docs">
 Laravel</a> now.  
 🌱
 
