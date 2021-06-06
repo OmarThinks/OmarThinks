@@ -5,28 +5,49 @@ Giza, 6th of October city.
 
 
 
-## Skills?
+# Skills?
 I am a full stack web developer, and these are my skills:
+
+
+## Summary:
+
+- Full Stack Web Developer (I Build Websites)
+- **DevOps**, Docker, CI/CD, Git and Github
+- **Frontend**, HTML, CSS, BootStrap,React, Templating
+- **Backend**, RESTful APIs, ORM, GraphQL, Testing
 
 <b>
 
-### Summary:
 
-- Full Stack Web Developer (I Build Websites)
-- DevOps: Docker, CI/CD, Git and Github
-- Backend: RESTful APIs, ORM, GraphQL, Testing
-- Frontend: HTML, CSS, React, Templating
-
-
-
-
-### Basic Web Technologies:
+## Basic Web Technologies:
 - [HTML](https://www.w3schools.com/html/),
 	[CSS](https://www.w3schools.com/css/default.asp),
 	[BootStrap](https://getbootstrap.com/)
 
 
-### Backend:
+## DevOps:
+- [Docker](https://www.docker.com/)
+- CI/CD
+	- [CircleCI](https://circleci.com/)
+	- [Github Actions](https://docs.github.com/en/actions)
+
+
+
+
+
+
+## Frontend:
+- [JavaScript](https://www.w3schools.com/js/)
+	- [React](https://reactjs.org/), [Redux](https://redux.js.org/)
+	- [jQuery.ajax](https://api.jquery.com/jquery.ajax/), 
+		[Axios](https://axios-http.com/)
+	- [EJS](https://ejs.co/)
+
+
+
+
+
+## Backend:
 - [Python](https://www.w3schools.com/python/):
 	- [Django](https://docs.djangoproject.com), 
 		[Django REST Framework](https://www.django-rest-framework.org/) (DRF), 
@@ -51,27 +72,12 @@ I am a full stack web developer, and these are my skills:
 		- [Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
 		- [Code generator](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator)
 
-### DevOps:
-- [Docker](https://www.docker.com/)
-- CI/CD
-	- [CircleCI](https://circleci.com/)
-	- [Github Actions](https://docs.github.com/en/actions)
 
 
 
 
 
-
-### Frontend:
-- [JavaScript](https://www.w3schools.com/js/)
-	- [React](https://reactjs.org/), [Redux](https://redux.js.org/)
-	- [jQuery.ajax](https://api.jquery.com/jquery.ajax/), 
-		[Axios](https://axios-http.com/)
-	- [EJS](https://ejs.co/)
-
-
-
-### Others:
+## Others:
 - [Git](https://git-scm.com/), [Github](https://github.com/)
 
 
@@ -94,8 +100,14 @@ I am a full stack web developer, and these are my skills:
 
 
 
-### Example:
+## Example:
 **https://www.cantiin.com**
+
+
+### Employment:
+Job Seeker, I am actively applying for jobs.
+
+
 
 
 
@@ -103,14 +115,9 @@ I am a full stack web developer, and these are my skills:
 ### What Am I Doing With My Life?
 Applying for jobs, I want to increase my probability of 
 getting a job in the field of programming.  
-If God willed, I want to continue studying DevOps.  
-So I am learning <a href="https://docs.github.com/en/actions">
-Github Actions</a> now.  
+So I am studying <a href="https://laravel.com/docs">
+Laravel</a> now.  
 🌱
-
-
-### Employment:
-Job Seeker, I am actively applying for jobs.
 
 
 
