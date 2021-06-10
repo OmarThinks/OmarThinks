@@ -105,19 +105,17 @@ I am a full stack web developer, and these are my skills:
 
 
 ### Employment:
-Job Seeker, I am actively applying for jobs.
+I have started an internship in https://www.garment.io  
 
 
 
 
 
-
+<!--
 ### What Am I Doing Now?
-Applying for jobs.  
-And studying <a href="https://laravel.com/docs">
-Laravel</a> now.  
+I am 
 🌱
-
+-->
 
 
 ### Contacts:
