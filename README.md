@@ -105,7 +105,8 @@ I am a full stack web developer, and these are my skills:
 
 
 ### Employment:
-I have started an internship in https://www.garment.io  
+Thank God!  
+I have started an internship in https://www.garment.io 
 
 
 
