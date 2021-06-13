@@ -7,7 +7,8 @@ Giza, 6th of October city.
 
 ### Employment:
 Thank God!  
-I have started an internship in **https://www.garment.io**, as a 
+I have started an internship at 
+**[Garment IO](https://garment.io/)**, as a 
 software tester.
 
 
