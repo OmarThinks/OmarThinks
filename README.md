@@ -25,7 +25,7 @@ I am a full stack web developer, and these are my skills:
 
 - Full Stack Web Developer (I Build Websites)
 - **DevOps**, Docker, CI/CD, Git and Github
-- **Frontend**, HTML, CSS, BootStrap,React, Templating
+- **Frontend**, HTML, CSS, BootStrap, React, Templating
 - **Backend**, RESTful APIs, ORM, GraphQL, Testing
 
 <b>
