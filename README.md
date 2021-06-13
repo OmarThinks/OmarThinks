@@ -5,8 +5,20 @@ Giza, 6th of October city.
 
 
 
+### Employment:
+Thank God!  
+I have started an internship in **https://www.garment.io**, as a 
+software tester.
+
+
+
+
+
+
 # Skills?
 I am a full stack web developer, and these are my skills:
+
+
 
 
 ## Summary:
@@ -48,38 +60,29 @@ I am a full stack web developer, and these are my skills:
 
 
 ## Backend:
-- [Python](https://www.w3schools.com/python/):
+- [Python](https://www.w3schools.com/python/) (The Best):
 	- [Django](https://docs.djangoproject.com), 
-		[Django REST Framework](https://www.django-rest-framework.org/) (DRF), 
-		[Djoser](https://djoser.readthedocs.io)
+		[Django REST Framework](https://www.django-rest-framework.org/) (DRF)
+		 (The Best Framework I Have Seen)
+	- [Djoser](https://djoser.readthedocs.io) (Authentication)
 	- [GraphQL](https://graphql.org/), 
 		[Graphene](https://graphene-python.org/), 
 		[Graphene-Django](https://docs.graphene-python.org/projects/django)
-	- [Flask](https://flask.palletsprojects.com), 
-		[SQLAlchemy](https://www.sqlalchemy.org/), 
-		[Pydantic](https://pydantic-docs.helpmanual.io/)
 	- [unittest](https://docs.python.org/3/library/unittest.html), 
 		[pytest](https://pypi.org/project/pytest/)
-- [JavaScript](https://www.w3schools.com/js/):
-	- [ExpressJS](https://expressjs.com/), 
-		[Sequelize](https://sequelize.org/)
-- [C#](https://www.w3schools.com/cs/):
-	- [ASP.NET (Core)](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core):
-		- [NuGet](https://www.nuget.org/), 
-			[Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages), 
-			[MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc), 
-			[Web API](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api)
-		- [Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
-		- [Code generator](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator)
 
 
-
+- [C#](https://www.w3schools.com/cs/): [ASP.NET (Core)](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core)
+- [Flask](https://flask.palletsprojects.com), 
+	[SQLAlchemy](https://www.sqlalchemy.org/)
+- [ExpressJS](https://expressjs.com/), 
+	[Sequelize](https://sequelize.org/)
 
 
 
 ## Others:
 - [Git](https://git-scm.com/), [Github](https://github.com/)
-
+- [Postman](https://www.postman.com/)
 
 
 
@@ -104,19 +107,13 @@ I am a full stack web developer, and these are my skills:
 **https://www.cantiin.com**
 
 
-### Employment:
-Thank God!  
-I have started an internship in https://www.garment.io 
 
 
 
-
-
-<!--
-### What Am I Doing Now?
-I am 
+### What Am I Learing Now?
+I am Studying 
+[Django OAuth Toolkit](https://django-oauth-toolkit.readthedocs.io/en/latest/)  
 🌱
--->
 
 
 ### Contacts:
