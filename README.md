@@ -61,7 +61,7 @@ I am a full stack web developer, and these are my skills:
 - [Python](https://www.w3schools.com/python/) (The Best):
 	- [Django](https://docs.djangoproject.com), 
 		[Django REST Framework](https://www.django-rest-framework.org/) (DRF)
-		 (The Best Framework I Have Seen) :muscle:
+		 (The Best Framework I Have Seen)
 	- [Djoser](https://djoser.readthedocs.io) (Authentication)
 	- [GraphQL](https://graphql.org/), 
 		[Graphene](https://graphene-python.org/), 
