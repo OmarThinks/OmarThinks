@@ -5,12 +5,9 @@ Giza, 6th of October city.
 
 
 
-### Employment:
-Thank God!  
-I have started an internship at 
-**[Garment IO](https://garment.io/)**, as a 
-software tester.
+### Experience:
 
+Software Tester Internship at **[Garment IO](https://garment.io/)**.
 
 
 
@@ -27,7 +24,7 @@ I am a full stack web developer, and these are my skills:
 - Full Stack Web Developer (I Build Websites)
 - **DevOps**, Docker, CI/CD, Git and Github
 - **Frontend**, HTML, CSS, BootStrap, React, Templating
-- **Backend**, RESTful APIs, ORM, GraphQL, Testing
+- **Backend** :muscle: , RESTful APIs, ORM, GraphQL, Testing
 
 <b>
 
@@ -74,10 +71,6 @@ I am a full stack web developer, and these are my skills:
 
 
 - [C#](https://www.w3schools.com/cs/): [ASP.NET (Core)](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core)
-- [Flask](https://flask.palletsprojects.com), 
-	[SQLAlchemy](https://www.sqlalchemy.org/)
-- [ExpressJS](https://expressjs.com/), 
-	[Sequelize](https://sequelize.org/)
 
 
 
@@ -111,9 +104,10 @@ I am a full stack web developer, and these are my skills:
 
 
 
-### What Am I Learing Now?
-I am Studying 
-[Django OAuth Toolkit](https://django-oauth-toolkit.readthedocs.io/en/latest/)  
+### What Am I Doing Now?
+I am a job seeker, so I am actively applying for jobs.  
+Also, I am Studying 
+[Django OAuth Toolkit](https://django-oauth-toolkit.readthedocs.io/en/latest/).  
 🌱
 
 
