@@ -62,7 +62,7 @@ I am a full stack web developer, and these are my skills:
 
 
 ## Backend :muscle: :
-- [Python](https://www.w3schools.com/python/) (The Best):
+- [Python](https://www.w3schools.com/python/) (My Favourite):
 	- [Django](https://docs.djangoproject.com), 
 		[Django REST Framework](https://www.django-rest-framework.org/) (DRF)
 		 (The Best Framework I Have Seen)
