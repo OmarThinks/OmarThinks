@@ -7,7 +7,13 @@ Giza, 6th of October city.
 
 ### Experience:
 
-Software Tester Internship at **[Garment IO](https://garment.io/)**.
+Software Tester at **[Garment IO](https://garment.io/)**.
+
+
+
+## Example:
+**https://www.cantiin.com**
+
 
 
 
@@ -93,10 +99,6 @@ I am a full stack web developer, and these are my skills:
 
 </b>
 
-
-
-## Example:
-**https://www.cantiin.com**
 
 
 
