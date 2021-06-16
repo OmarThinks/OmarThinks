@@ -8,7 +8,7 @@ Giza, 6th of October city.
 ### Experience:
 
 - Software Tester at **[Garment IO](https://garment.io/)**.
-- Full Stack Development Nano Degree (With Egypt FWD):   
+- Full Stack Web Development Nano Degree (With Egypt FWD):   
 https://graduation.udacity.com/confirm/ELAEXGHP
 
 
@@ -21,14 +21,13 @@ https://graduation.udacity.com/confirm/ELAEXGHP
 
 
 # Skills?
-I am a full stack web developer, and these are my skills:
+I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
 
 ## Summary:
 
-- Full Stack Web Developer (I Build Websites)
 - **DevOps**, Docker, CI/CD, Git and Github
 - **Frontend**, HTML, CSS, BootStrap, React, Templating
 - **Backend** :muscle: , RESTful APIs, ORM, GraphQL, Testing
