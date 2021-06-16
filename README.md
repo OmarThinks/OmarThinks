@@ -107,7 +107,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 ### What Am I Doing Now?
 I am a job seeker, so I am actively applying for jobs.  
 Also, I am Studying 
-[Django OAuth Toolkit](https://django-oauth-toolkit.readthedocs.io/en/latest/).  
+[Odoo](https://www.odoo.com/).  
 🌱
 
 
