@@ -102,15 +102,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
-
-
-### What Am I Doing Now?
-I am a job seeker, so I am actively applying for jobs.  
-Also, I am Studying 
-[Odoo](https://www.odoo.com/).  
-🌱
-
-
 ### Contacts:
 - Linkedin: https://www.linkedin.com/in/omar-magdy-28497a200/
 - Facebook: https://www.facebook.com/profile.php?id=100030832995538
