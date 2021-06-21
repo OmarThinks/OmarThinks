@@ -92,6 +92,12 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
+## What am I doing now?
+Applying for jobs.  
+And studying [django-cms](https://docs.django-cms.org/en/latest/)
+
+
+
 
 
 
