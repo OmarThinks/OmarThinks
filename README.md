@@ -7,12 +7,15 @@ Giza, 6th of October city.
 
 ### Experience:
 
-- Software Tester at **[Garment IO](https://garment.io/)**.
+- Software Tester at **[Garment IO](https://garment.io/)** (Until 2021/6/17).
+
+
+### Certificates:
+
 - Full Stack Web Development Nano Degree (With Egypt FWD):   
 https://graduation.udacity.com/confirm/ELAEXGHP
 
-
-## Example:
+### Example:
 **https://www.cantiin.com**
 
 
@@ -88,22 +91,23 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
+</b>
+
+
+
 
 
 
 
 ## What am I doing now?
 Applying for jobs.  
-And studying [django-cms](https://docs.django-cms.org/en/latest/)
+And studying more 
+[ASP.NET (Core)](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core)
 
 
 
 
 
-
-
-
-</b>
 
 
 
