@@ -65,10 +65,11 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 ## Backend :muscle: :
-- [Python](https://www.w3schools.com/python/) (My Favourite):
+- [C#](https://www.w3schools.com/cs/): [ASP.NET (Core)](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core)
+
+- [Python](https://www.w3schools.com/python/):
 	- [Django](https://docs.djangoproject.com), 
 		[Django REST Framework](https://www.django-rest-framework.org/) (DRF)
-		 (The Best Framework I Have Seen)
 	- [Djoser](https://djoser.readthedocs.io) (Authentication)
 	- [GraphQL](https://graphql.org/), 
 		[Graphene](https://graphene-python.org/), 
@@ -77,7 +78,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 		[pytest](https://pypi.org/project/pytest/)
 
 
-- [C#](https://www.w3schools.com/cs/): [ASP.NET (Core)](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core)
 
 
 
@@ -100,7 +100,8 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 ## What am I doing now?
-Applying for jobs.  
+Currently, I am unemployed.  
+So, I am applying for jobs.  
 And studying more 
 [ASP.NET (Core)](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core)
 
