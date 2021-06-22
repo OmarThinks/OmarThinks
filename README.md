@@ -67,7 +67,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 ## Backend :muscle: :
 
 
-- [C#](https://www.w3schools.com/cs/):
+- [C#](https://www.w3schools.com/cs/)
 	- [ASP.NET (Core)](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core):
 		- [Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/)
 
@@ -79,7 +79,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
-- [Python](https://www.w3schools.com/python/):
+- [Python](https://www.w3schools.com/python/)
 	- [Django](https://docs.djangoproject.com), 
 		[Django REST Framework](https://www.django-rest-framework.org/) (DRF)
 	- [Djoser](https://djoser.readthedocs.io) (Authentication)
