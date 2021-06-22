@@ -58,14 +58,26 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 ## Frontend:
 - [JavaScript](https://www.w3schools.com/js/)
 	- [React](https://reactjs.org/), [Redux](https://redux.js.org/)
-	-  [Axios](https://axios-http.com/)
+	- [Axios](https://axios-http.com/)
 
 
 
 
 
 ## Backend :muscle: :
-- [C#](https://www.w3schools.com/cs/): [ASP.NET (Core)](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core)
+
+
+- [C#](https://www.w3schools.com/cs/):
+	- [ASP.NET (Core)](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core):
+		- [Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/)
+
+
+
+
+
+
+
+
 
 - [Python](https://www.w3schools.com/python/):
 	- [Django](https://docs.djangoproject.com), 
