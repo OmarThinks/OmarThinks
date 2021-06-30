@@ -61,17 +61,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 ## Backend :muscle: :
 
 
-- [C#](https://www.w3schools.com/cs/)
-	- [ASP.NET (Core)](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core):
-		- [Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/)
-
-
-
-
-
-
-
-
 
 - [Python](https://www.w3schools.com/python/)
 	- [Django](https://docs.djangoproject.com), 
@@ -108,9 +97,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 ## What am I doing now?
 Currently, I am unemployed.  
 So, I am applying for jobs.  
-And studying more 
-[ASP.NET (Core)](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core)
-
+And studying more Rebuilding https://www.canttin.com 
 
 
 
