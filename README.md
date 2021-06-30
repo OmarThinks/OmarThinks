@@ -9,8 +9,13 @@ Giza, 6th of October city.
 - Full Stack Web Development Nano Degree (With Egypt FWD):   
 https://graduation.udacity.com/confirm/ELAEXGHP
 
-### Example:
-**https://www.cantiin.com**
+### Examples:
+- Cantiin: **https://www.cantiin.com**
+	- An ecommerce website using python and flask
+- Cantiin-Django: https://github.com/OmarThinks/cantiin_django 
+	- Rebuilding Cantiin using Django, and Django REST Framework
+
+
 
 
 
@@ -25,7 +30,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 ## Summary:
 
-- **DevOps**, Docker, CI/CD, Git and Github
 - **Frontend**, HTML, CSS, BootStrap, React, Templating
 - **Backend** :muscle: , RESTful APIs, ORM, GraphQL, Testing
 
@@ -36,13 +40,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 - [HTML](https://www.w3schools.com/html/),
 	[CSS](https://www.w3schools.com/css/default.asp),
 	[BootStrap](https://getbootstrap.com/)
-
-
-## DevOps:
-- [Docker](https://www.docker.com/)
-- CI/CD
-	- [CircleCI](https://circleci.com/)
-	- [Github Actions](https://docs.github.com/en/actions)
 
 
 
@@ -59,8 +56,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 ## Backend :muscle: :
-
-
 
 - [Python](https://www.w3schools.com/python/)
 	- [Django](https://docs.djangoproject.com), 
@@ -79,6 +74,9 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 ## Others:
 - [Git](https://git-scm.com/), [Github](https://github.com/)
 - [Postman](https://www.postman.com/)
+- [Docker](https://www.docker.com/)
+- CI/CD
+	- [CircleCI](https://circleci.com/)
 
 
 
