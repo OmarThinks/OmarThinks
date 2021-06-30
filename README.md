@@ -4,12 +4,6 @@ Giza, 6th of October city.
 
 
 
-
-### Experience:
-
-- Software Tester at **[Garment IO](https://garment.io/)** (Until 2021/6/17).
-
-
 ### Certificates:
 
 - Full Stack Web Development Nano Degree (With Egypt FWD):   
