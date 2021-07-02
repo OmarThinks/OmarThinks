@@ -1,6 +1,8 @@
 
 Hi there 👋! My name is Omar Magdy, I live in Egypt, 
-Giza, 6th of October city. 
+Giza, 6th of October city.  
+I am looking for a work from home opportunity.
+
 
 
 
@@ -10,6 +12,8 @@ Giza, 6th of October city.
 https://graduation.udacity.com/confirm/ELAEXGHP
 
 ### Examples:
+- .NET-MVC-Project **https://github.com/OmarThinks/.NET-MVC-Project**
+	- A project using .NET MVC
 - Cantiin: **https://www.cantiin.com**
 	- An ecommerce website using python and flask
 - Cantiin-Django: https://github.com/OmarThinks/cantiin_django 
@@ -30,16 +34,11 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 ## Summary:
 
-- **Frontend**, HTML, CSS, BootStrap, React, Templating
-- **Backend** :muscle: , RESTful APIs, ORM, GraphQL, Testing
+- **Frontend**: HTML, CSS, React, Templating
+- **Backend**: RESTful APIs, SQL, ORM, GraphQL, Testing
 
 <b>
 
-
-## Basic Web Technologies:
-- [HTML](https://www.w3schools.com/html/),
-	[CSS](https://www.w3schools.com/css/default.asp),
-	[BootStrap](https://getbootstrap.com/)
 
 
 
@@ -47,15 +46,32 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 ## Frontend:
+- [HTML](https://www.w3schools.com/html/)
+	[CSS](https://www.w3schools.com/css/default.asp),
 - [JavaScript](https://www.w3schools.com/js/)
-	- [React](https://reactjs.org/), [Redux](https://redux.js.org/)
-	- [Axios](https://axios-http.com/)
+	- [NPM (Node)](https://www.npmjs.com/)
+		- [React](https://reactjs.org/), [Redux](https://redux.js.org/)
+		- [Axios](https://axios-http.com/)
 
 
 
 
 
-## Backend :muscle: :
+## Backend:
+
+
+
+- [C#](https://www.w3schools.com/cs/):
+	- [ASP.NET (Core)](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core):
+		- [NuGet](https://www.nuget.org/), 
+			[Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages), 
+			[MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc), 
+			[Web API](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api)
+		- [Code generator](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator)
+		-[Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
+
+
+
 
 - [Python](https://www.w3schools.com/python/)
 	- [Django](https://docs.djangoproject.com), 
@@ -75,9 +91,8 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 - [Git](https://git-scm.com/), [Github](https://github.com/)
 - [Postman](https://www.postman.com/)
 - [Docker](https://www.docker.com/)
-- CI/CD
-	- [CircleCI](https://circleci.com/)
-
+- [CircleCI](https://circleci.com/) (CI/CD Pipelines)
+- Scrum
 
 
 
@@ -95,8 +110,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 ## What am I doing now?
 Currently, I am unemployed.  
 So, I am applying for jobs.  
-And studying more Rebuilding https://www.canttin.com 
-
+And studying more [ASP.NET (Core)](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core)
 
 
 
