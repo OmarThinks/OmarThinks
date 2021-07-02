@@ -1,7 +1,6 @@
 
 Hi there 👋! My name is Omar Magdy, I live in Egypt, 
 Giza, 6th of October city.  
-I am looking for a work from home opportunity.
 
 
 
