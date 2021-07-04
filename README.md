@@ -7,8 +7,7 @@ Giza, 6th of October city.
 
 ### Certificates:
 
-- Full Stack Web Development Nano Degree (With Egypt FWD):   
-https://graduation.udacity.com/confirm/ELAEXGHP
+- **[Full Stack Web Development Nano Degree (With Egypt FWD)](https://graduation.udacity.com/confirm/ELAEXGHP)**
 
 ### Examples:
 - .NET-MVC-Project **https://github.com/OmarThinks/.NET-MVC-Project**
@@ -17,7 +16,6 @@ https://graduation.udacity.com/confirm/ELAEXGHP
 	- An ecommerce website using python and flask
 - Cantiin-Django: https://github.com/OmarThinks/cantiin_django 
 	- Rebuilding Cantiin using Django, and Django REST Framework
-
 
 
 
@@ -35,7 +33,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 - **Frontend**: HTML, CSS, React, Templating
 - **Backend**: RESTful APIs, SQL, ORM, GraphQL, Testing
-
+- **Software Development Process**: Waterfall, Agile
 <b>
 
 
@@ -48,7 +46,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 - [HTML](https://www.w3schools.com/html/)
 	[CSS](https://www.w3schools.com/css/default.asp),
 - [JavaScript](https://www.w3schools.com/js/)
-	- [NPM (Node)](https://www.npmjs.com/)
+	- [NPM](https://www.npmjs.com/) and NodeJS
 		- [React](https://reactjs.org/), [Redux](https://redux.js.org/)
 		- [Axios](https://axios-http.com/)
 
@@ -84,6 +82,13 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
+## Software Development Process:
+- Waterfall
+- Agile and (Iterative Models)
+	- SCRUM
+	- Kanban
+	- Extreme Programming (XP)
+
 
 
 ## Others:
@@ -91,7 +96,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 - [Postman](https://www.postman.com/)
 - [Docker](https://www.docker.com/)
 - [CircleCI](https://circleci.com/) (CI/CD Pipelines)
-- Scrum
 
 
 
