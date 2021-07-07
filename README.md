@@ -7,12 +7,10 @@ Giza, 6th of October city.
 
 ### Certificates:
 
-- **[Full Stack Web Development Nano Degree (With Egypt FWD)](https://graduation.udacity.com/confirm/ELAEXGHP)**
+- [Full Stack Web Development Nano Degree (With Egypt FWD)](https://graduation.udacity.com/confirm/ELAEXGHP)
 
 ### Examples:
-- .NET-MVC-Project **https://github.com/OmarThinks/.NET-MVC-Project**
-	- A project using .NET MVC
-- Cantiin: **https://www.cantiin.com**
+- Cantiin: https://www.cantiin.com
 	- An ecommerce website using python and flask
 - Cantiin-Django: https://github.com/OmarThinks/cantiin_django 
 	- Rebuilding Cantiin using Django, and Django REST Framework
@@ -25,16 +23,6 @@ Giza, 6th of October city.
 
 # Skills?
 I am a full stack web developer (I Build Websites), and these are my skills:
-
-
-
-
-## Summary:
-
-- **Frontend**: HTML, CSS, React, Templating
-- **Backend**: RESTful APIs, SQL, ORM, GraphQL, Testing
-- **Software Development Process**: Waterfall, Agile
-<b>
 
 
 
@@ -55,17 +43,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 ## Backend:
-
-
-
-- [C#](https://www.w3schools.com/cs/):
-	- [ASP.NET (Core)](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core):
-		- [NuGet](https://www.nuget.org/), 
-			[Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages), 
-			[MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc), 
-			[Web API](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api)
-		- [Code generator](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator)
-		-[Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
 
 
 
@@ -113,7 +90,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 ## What am I doing now?
 Currently, I am unemployed.  
 So, I am applying for jobs.  
-And studying more [ASP.NET (Core)](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core)
+And rebuilding cantiin.com using Django (cantiin_django).  
 
 
 
