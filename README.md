@@ -49,13 +49,21 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 - [Python](https://www.w3schools.com/python/)
 	- [Django](https://docs.djangoproject.com), 
-		[Django REST Framework](https://www.django-rest-framework.org/) (DRF)
+		[Django REST Framework](https://www.django-rest-framework.org/) (DRF), 
+		[django_filter](https://django-filter.readthedocs.io/en/stable/guide/rest_framework.html#quickstart)
 	- [Djoser](https://djoser.readthedocs.io) (Authentication)
+	- [unittest](https://docs.python.org/3/library/unittest.html), 
+		[pytest](https://pypi.org/project/pytest/)
+
+
+
+<!--
 	- [GraphQL](https://graphql.org/), 
 		[Graphene](https://graphene-python.org/), 
 		[Graphene-Django](https://docs.graphene-python.org/projects/django)
-	- [unittest](https://docs.python.org/3/library/unittest.html), 
-		[pytest](https://pypi.org/project/pytest/)
+
+-->
+
 
 
 
