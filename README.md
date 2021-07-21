@@ -2,20 +2,32 @@
 Hi there 👋! My name is Omar Magdy, I live in Egypt, 
 Giza, 6th of October city.  
 
+<b>
+
+### Experience:
+
+- Software Tester @ [Garment IO](https://garment.io/) (Until 2021/6/17)
 
 
+</b>
 
 ### Certificates:
 
 - [Full Stack Web Development Nano Degree (With Egypt FWD)](https://graduation.udacity.com/confirm/ELAEXGHP)
 
+
+<b>
+
 ### Examples:
-- Cantiin: https://www.cantiin.com
-	- An ecommerce website using python and flask
-- Cantiin-Django: https://github.com/OmarThinks/cantiin_django 
-	- Rebuilding Cantiin using Django, and Django REST Framework
+- [Cantiin](https://www.cantiin.com)
+	- An ecommerce website using python, flask and BootStrap
+- [Cantiin-Django](https://github.com/OmarThinks/cantiin_django) 
+	- Rebuilding Cantiin backend using Django, and Django REST Framework
+- [.NET-MVC-Project ](https://github.com/OmarThinks/.NET-MVC-Project),
+	[.NET-Razor-Pages-Project](https://github.com/OmarThinks/.NET-Razor-Pages-Project),
+	[.NET-Web-API-Project](https://github.com/OmarThinks/.NET-Web-API-Project)
 
-
+</b>
 
 
 
@@ -25,10 +37,15 @@ Giza, 6th of October city.
 I am a full stack web developer (I Build Websites), and these are my skills:
 
 
+## Summary:
+
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: RESTful APIs, SQL, ORM, Testing, Templating Engines
+- **Software Development Process**: Waterfall, Agile
+- **Others**: Github, Docker, CircleCI
 
 
-
-
+<b>
 
 ## Frontend:
 - [HTML](https://www.w3schools.com/html/)
@@ -49,30 +66,49 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 - [Python](https://www.w3schools.com/python/)
 	- [Django](https://docs.djangoproject.com), 
-		[Django REST Framework](https://www.django-rest-framework.org/) (DRF), 
-		[django_filter](https://django-filter.readthedocs.io/en/stable/guide/rest_framework.html#quickstart)
-	- [Djoser](https://djoser.readthedocs.io) (Authentication)
+	[Django REST Framework](https://www.django-rest-framework.org/) (DRF), 
+	[django_filter](https://django-filter.readthedocs.io/en/stable/guide/rest_framework.html#quickstart), 
+	[Djoser](https://djoser.readthedocs.io) (Authentication)
+	- [Flask](https://flask.palletsprojects.com/en/2.0.x/), 
+	[SQLAlchemy](https://www.sqlalchemy.org/), 
+	[Pydantic](https://pydantic-docs.helpmanual.io/)
+	- [Jinja](https://jinja.palletsprojects.com/)
 	- [unittest](https://docs.python.org/3/library/unittest.html), 
 		[pytest](https://pypi.org/project/pytest/)
+- [C#](https://www.w3schools.com/cs/):
+	- [ASP.NET (Core)](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core):
+		- [NuGet](https://www.nuget.org/), 
+			[Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages), 
+			[MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc), 
+			[Web API](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api)
+		- [Code Generator](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator)
+		-[Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
+- [JavaScript](https://www.w3schools.com/js/)
+	- [ExpressJS](https://expressjs.com/), 
+	[Sequelize](https://sequelize.org/master/), [Mocha](https://mochajs.org/), 
+	[Chai](https://www.chaijs.com/)
 
 
 
-<!--
-	- [GraphQL](https://graphql.org/), 
-		[Graphene](https://graphene-python.org/), 
-		[Graphene-Django](https://docs.graphene-python.org/projects/django)
 
--->
+
+
+
+
+	
+
+
+
+
+
+
 
 
 
 
 ## Software Development Process:
 - Waterfall
-- Agile and (Iterative Models)
-	- SCRUM
-	- Kanban
-	- Extreme Programming (XP)
+- Agile (SCRUM, Kanban, Extreme Programming (XP))
 
 
 
@@ -97,9 +133,9 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 ## What am I doing now?
 Currently, I am unemployed.  
-So, I am applying for jobs.  
-And rebuilding cantiin.com using Django (cantiin_django).  
-
+So, I am applying for work from home jobs.  
+And I am adding more skills.  
+Currently, revising [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 
 
 
