@@ -39,7 +39,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 ## Summary:
 
-- **Frontend**: HTML, CSS, JavaScript, React
+- **Frontend**: HTML, CSS, BottStrap, JavaScript, React
 - **Backend**: RESTful APIs, SQL, ORM, Testing, Templating Engines
 - **Software Development Process**: Waterfall, Agile
 - **Others**: Github, Docker, CircleCI
@@ -50,6 +50,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 ## Frontend:
 - [HTML](https://www.w3schools.com/html/)
 	[CSS](https://www.w3schools.com/css/default.asp),
+	[BootStrap](https://www.w3schools.com/bootstrap4/)
 - [JavaScript](https://www.w3schools.com/js/)
 	- [NPM](https://www.npmjs.com/) and NodeJS
 		- [React](https://reactjs.org/), [Redux](https://redux.js.org/)
@@ -63,7 +64,10 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
-
+- [JavaScript](https://www.w3schools.com/js/)
+	- [ExpressJS](https://expressjs.com/), 
+	[Sequelize](https://sequelize.org/master/), [Mocha](https://mochajs.org/), 
+	[Chai](https://www.chaijs.com/)
 - [Python](https://www.w3schools.com/python/)
 	- [Django](https://docs.djangoproject.com), 
 	[Django REST Framework](https://www.django-rest-framework.org/) (DRF), 
@@ -83,10 +87,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 			[Web API](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api)
 		- [Code Generator](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator)
 		-[Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
-- [JavaScript](https://www.w3schools.com/js/)
-	- [ExpressJS](https://expressjs.com/), 
-	[Sequelize](https://sequelize.org/master/), [Mocha](https://mochajs.org/), 
-	[Chai](https://www.chaijs.com/)
 
 
 
@@ -135,7 +135,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 Currently, I am unemployed.  
 So, I am applying for work from home jobs.  
 And I am adding more skills.  
-Currently, revising [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+Currently, learning NoSQL with MongoDB.
 
 
 
