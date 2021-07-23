@@ -19,18 +19,12 @@ Giza, 6th of October city.
 <b>
 
 ### Examples:
-- NodeJS:
-	- [expressjs_mongo_project](https://github.com/OmarThinks/expressjs_mongo_project)
-		- A RESTful API using ExpressJS and MongoDB
-- Python:
-	- [Cantiin](https://www.cantiin.com)
-		- An ecommerce website using python, flask and BootStrap
-	- [Cantiin-Django](https://github.com/OmarThinks/cantiin_django) 
-		- Rebuilding Cantiin backend using Django, and Django REST Framework
-- C#:
-	- [.NET-MVC-Project ](https://github.com/OmarThinks/.NET-MVC-Project),
-		[.NET-Razor-Pages-Project](https://github.com/OmarThinks/.NET-Razor-Pages-Project),
-		[.NET-Web-API-Project](https://github.com/OmarThinks/.NET-Web-API-Project)
+
+- [cantiin.com](https://www.cantiin.com) (Using Flask)
+- [Cantiin-Django](https://github.com/OmarThinks/cantiin_django) (Using Django)
+- [.NET-MVC-Project ](https://github.com/OmarThinks/.NET-MVC-Project)[.NET-Web-API-Project](https://github.com/OmarThinks/.NET-Web-API-Project) (Using ASP)
+- [expressjs_mongo_project](https://github.com/OmarThinks/expressjs_mongo_project)
+(Using ExpressJS and MongoDB)
 
 
 </b>
