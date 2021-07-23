@@ -19,13 +19,19 @@ Giza, 6th of October city.
 <b>
 
 ### Examples:
-- [Cantiin](https://www.cantiin.com)
-	- An ecommerce website using python, flask and BootStrap
-- [Cantiin-Django](https://github.com/OmarThinks/cantiin_django) 
-	- Rebuilding Cantiin backend using Django, and Django REST Framework
-- [.NET-MVC-Project ](https://github.com/OmarThinks/.NET-MVC-Project),
-	[.NET-Razor-Pages-Project](https://github.com/OmarThinks/.NET-Razor-Pages-Project),
-	[.NET-Web-API-Project](https://github.com/OmarThinks/.NET-Web-API-Project)
+- NodeJS:
+	- [expressjs_mongo_project](https://github.com/OmarThinks/expressjs_mongo_project)
+		- A RESTful API using ExpressJS and MongoDB
+- Python:
+	- [Cantiin](https://www.cantiin.com)
+		- An ecommerce website using python, flask and BootStrap
+	- [Cantiin-Django](https://github.com/OmarThinks/cantiin_django) 
+		- Rebuilding Cantiin backend using Django, and Django REST Framework
+- C#:
+	- [.NET-MVC-Project ](https://github.com/OmarThinks/.NET-MVC-Project),
+		[.NET-Razor-Pages-Project](https://github.com/OmarThinks/.NET-Razor-Pages-Project),
+		[.NET-Web-API-Project](https://github.com/OmarThinks/.NET-Web-API-Project)
+
 
 </b>
 
@@ -39,8 +45,8 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 ## Summary:
 
-- **Frontend**: HTML, CSS, BottStrap, JavaScript, React
-- **Backend**: RESTful APIs, SQL, ORM, Testing, Templating Engines
+- **Frontend**: HTML, CSS, BootStrap, JavaScript, React
+- **Backend**: RESTful APIs, Authentication, SQL, NoSQL, MongoDB, ORM, ODM, Testing, Templating Engines
 - **Software Development Process**: Waterfall, Agile
 - **Others**: Github, Docker, CircleCI
 
@@ -65,9 +71,11 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 - [JavaScript](https://www.w3schools.com/js/)
-	- [ExpressJS](https://expressjs.com/), 
-	[Sequelize](https://sequelize.org/master/), [Mocha](https://mochajs.org/), 
+	- [ExpressJS](https://expressjs.com/)
+	- [Mocha](https://mochajs.org/), 
 	[Chai](https://www.chaijs.com/)
+	- [Mongoose](https://www.npmjs.com/package/mongoose), 
+	[Sequelize](https://sequelize.org/master/)
 - [Python](https://www.w3schools.com/python/)
 	- [Django](https://docs.djangoproject.com), 
 	[Django REST Framework](https://www.django-rest-framework.org/) (DRF), 
