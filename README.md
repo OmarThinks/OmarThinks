@@ -93,8 +93,8 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 			[Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages), 
 			[MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc), 
 			[Web API](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api)
-		- [Code Generator](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator)
-		-[Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
+		- [Code Generator](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator), 
+		[Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
 
 
 
