@@ -11,25 +11,14 @@ Giza, 6th of October city.
 
 </b>
 
+
+
 ### Certificates:
 
 - [Full Stack Web Development Nano Degree (With Egypt FWD)](https://graduation.udacity.com/confirm/ELAEXGHP)
 
 
 <b>
-
-### Examples:
-
-- [cantiin.com](https://www.cantiin.com) (Using Flask)
-- [Cantiin-Django](https://github.com/OmarThinks/cantiin_django) (Using Django)
-- [.NET-MVC-Project ](https://github.com/OmarThinks/.NET-MVC-Project)[.NET-Web-API-Project](https://github.com/OmarThinks/.NET-Web-API-Project) (Using ASP)
-- [expressjs_mongo_project](https://github.com/OmarThinks/expressjs_mongo_project)
-(Using ExpressJS and MongoDB)
-
-
-</b>
-
-
 
 
 
@@ -126,6 +115,39 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 </b>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Examples:
+
+- [cantiin.com](https://www.cantiin.com) (Using Flask)
+- [Cantiin-Django](https://github.com/OmarThinks/cantiin_django) (Using Django)
+- [.NET-MVC-Project ](https://github.com/OmarThinks/.NET-MVC-Project)[.NET-Web-API-Project](https://github.com/OmarThinks/.NET-Web-API-Project) (Using ASP)
+- [expressjs_mongo_project](https://github.com/OmarThinks/expressjs_mongo_project)
+(Using ExpressJS and MongoDB)
+
+
+</b>
+
+
+
+
+
 
 
 
