@@ -18,7 +18,6 @@ Giza, 6th of October city.
 - [Full Stack Web Development Nano Degree (With Egypt FWD)](https://graduation.udacity.com/confirm/ELAEXGHP)
 
 
-<b>
 
 
 
@@ -159,8 +158,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 Currently, I am unemployed.  
 So, I am applying for work from home jobs.  
 And I am adding more skills.  
-Currently, I am getting into Data Science, So I am studying 
-[NumPy](https://www.w3schools.com/python/numpy/default.asp).
+I am updating the front-end of cantiin, and rebuilding it using django.
 
 
 
