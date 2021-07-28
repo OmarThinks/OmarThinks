@@ -156,8 +156,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 ## What am I doing now?
 Currently, I am unemployed.  
 So, I am applying for work from home jobs.  
-And I am adding more skills.  
-I am updating the front-end of cantiin, and rebuilding it using django.
+And I am adding more skills.
 
 
 
