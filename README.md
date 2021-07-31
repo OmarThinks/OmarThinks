@@ -110,8 +110,8 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 ### Examples:
-
-- [cantiin.com](https://www.cantiin.com) (Using Django)
+- Cantiin.com (Using Django) ([Website](https://www.cantiin.com), 
+[Source Code](https://github.com/OmarThinks/cantiin_django)) 
 - [expressjs_mongo_project](https://github.com/OmarThinks/expressjs_mongo_project)
 (Using ExpressJS and MongoDB)
 
