@@ -1,6 +1,7 @@
-
 Hi there 👋! My name is Omar Magdy, I live in Egypt, 
 Giza, 6th of October city.  
+
+
 
 <b>
 
@@ -51,13 +52,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 ## Backend:
 
 
-
-- [JavaScript](https://www.w3schools.com/js/)
-	- [ExpressJS](https://expressjs.com/)
-	- [Mocha](https://mochajs.org/), 
-	[Chai](https://www.chaijs.com/)
-	- [Mongoose](https://www.npmjs.com/package/mongoose), 
-	[Sequelize](https://sequelize.org/master/)
 - [Python](https://www.w3schools.com/python/)
 	- [Django](https://docs.djangoproject.com), 
 	[Django REST Framework](https://www.django-rest-framework.org/) (DRF), 
@@ -69,29 +63,13 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	- [Jinja](https://jinja.palletsprojects.com/)
 	- [unittest](https://docs.python.org/3/library/unittest.html), 
 		[pytest](https://pypi.org/project/pytest/)
-- [C#](https://www.w3schools.com/cs/):
-	- [ASP.NET (Core)](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core):
-		- [NuGet](https://www.nuget.org/), 
-			[Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages), 
-			[MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc), 
-			[Web API](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api)
-		- [Code Generator](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator), 
-		[Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
-
-
-
-
-
-
-
-
+- [JavaScript](https://www.w3schools.com/js/)
+	- [ExpressJS](https://expressjs.com/)
+	- [Mocha](https://mochajs.org/), 
+	[Chai](https://www.chaijs.com/)
+	- [Sequelize](https://sequelize.org/master/),
+	[Mongoose](https://www.npmjs.com/package/mongoose) 
 	
-
-
-
-
-
-
 
 
 
@@ -134,8 +112,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 ### Examples:
 
 - [cantiin.com](https://www.cantiin.com) (Using Flask)
-- [Cantiin-Django](https://github.com/OmarThinks/cantiin_django) (Using Django)
-- [.NET-MVC-Project ](https://github.com/OmarThinks/.NET-MVC-Project)[.NET-Web-API-Project](https://github.com/OmarThinks/.NET-Web-API-Project) (Using ASP)
+- [Cantiin-Django](https://www.cantiin.com) (Using Django)
 - [expressjs_mongo_project](https://github.com/OmarThinks/expressjs_mongo_project)
 (Using ExpressJS and MongoDB)
 
@@ -169,6 +146,15 @@ And I am adding more skills.
 
 
 ### Thank you for reading :)
+
+
+
+
+
+
+
+
+
 
 <!--
 **OmarThinks/OmarThinks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
