@@ -111,8 +111,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 ### Examples:
 
-- [cantiin.com](https://www.cantiin.com) (Using Flask)
-- [Cantiin-Django](https://www.cantiin.com) (Using Django)
+- [cantiin.com](https://www.cantiin.com) (Using Django)
 - [expressjs_mongo_project](https://github.com/OmarThinks/expressjs_mongo_project)
 (Using ExpressJS and MongoDB)
 
