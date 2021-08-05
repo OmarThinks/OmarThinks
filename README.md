@@ -29,7 +29,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 ## Summary:
 
 - **Frontend**: HTML, CSS, BootStrap, JavaScript, React
-- **Backend**: RESTful APIs, Authentication, SQL, NoSQL, MongoDB, ORM, ODM, Testing, Templating Engines
+- **Backend**: RESTful APIs, Authentication, SQL, NoSQL, MongoDB, ORM, ODM, Testing, Templating Engines, Redis
 - **Software Development Process**: Waterfall, Agile
 - **Others**: Github, Docker, CircleCI
 
@@ -51,7 +51,12 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 ## Backend:
 
-
+- [JavaScript](https://www.w3schools.com/js/)
+	- [ExpressJS](https://expressjs.com/)
+	- [Mocha](https://mochajs.org/), 
+	[Chai](https://www.chaijs.com/)
+	- [Sequelize](https://sequelize.org/master/),
+	[Mongoose](https://www.npmjs.com/package/mongoose) 
 - [Python](https://www.w3schools.com/python/)
 	- [Django](https://docs.djangoproject.com), 
 	[Django REST Framework](https://www.django-rest-framework.org/) (DRF), 
@@ -63,12 +68,8 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	- [Jinja](https://jinja.palletsprojects.com/)
 	- [unittest](https://docs.python.org/3/library/unittest.html), 
 		[pytest](https://pypi.org/project/pytest/)
-- [JavaScript](https://www.w3schools.com/js/)
-	- [ExpressJS](https://expressjs.com/)
-	- [Mocha](https://mochajs.org/), 
-	[Chai](https://www.chaijs.com/)
-	- [Sequelize](https://sequelize.org/master/),
-	[Mongoose](https://www.npmjs.com/package/mongoose) 
+	- [pymongo](https://pymongo.readthedocs.io/en/stable/tutorial.html)
+	- [redis-py](https://github.com/andymccurdy/redis-py)
 	
 
 
