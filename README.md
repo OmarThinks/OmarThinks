@@ -18,8 +18,17 @@ Giza, 6th of October city.
 
 - [Full Stack Web Development Nano Degree (With Egypt FWD)](https://graduation.udacity.com/confirm/ELAEXGHP)
 
+<b>
+
+### Examples:
+- [Youtube Video](https://www.youtube.com/watch?v=4RjUJZSEsS0&feature=youtu.be)
+- Cantiin.com (Using Django) ([Website](https://www.cantiin.com), 
+[Source Code](https://github.com/OmarThinks/cantiin_django)) 
+- [expressjs_mongo_project](https://github.com/OmarThinks/expressjs_mongo_project)
+(Using ExpressJS and MongoDB)
 
 
+</b>
 
 
 # Skills?
@@ -110,12 +119,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
-### Examples:
-- [Youtube Video](https://www.youtube.com/watch?v=4RjUJZSEsS0&feature=youtu.be)
-- Cantiin.com (Using Django) ([Website](https://www.cantiin.com), 
-[Source Code](https://github.com/OmarThinks/cantiin_django)) 
-- [expressjs_mongo_project](https://github.com/OmarThinks/expressjs_mongo_project)
-(Using ExpressJS and MongoDB)
 
 
 </b>
