@@ -3,14 +3,6 @@ Giza, 6th of October city.
 
 
 
-<b>
-
-### Experience:
-
-- Software Tester @ [Garment IO](https://garment.io/) (Until 2021/6/17)
-
-
-</b>
 
 
 
