@@ -31,8 +31,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 - **Frontend**: HTML, CSS, BootStrap, JavaScript, React
 - **Backend**: RESTful APIs, Authentication, SQL, NoSQL, MongoDB, ORM, ODM, Testing, Templating Engines, Redis
-- **Software Development Process**: Waterfall, Agile
-- **Others**: Github, Docker, CircleCI
+- **DevOps** (Intermediate): Docker, CircleCI, Kubernetes (Beginner)
 
 
 <b>
@@ -76,18 +75,18 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
-## Software Development Process:
-- Waterfall
-- Agile (SCRUM, Kanban, Extreme Programming (XP))
+## DevOps (Intermediate):
+- [Docker](https://www.docker.com/)
+- [CircleCI](https://circleci.com/) (CI/CD Pipelines)
+- [Kubernetes](https://kubernetes.io/) (Beginner Level)
+
 
 
 
 ## Others:
 - [Git](https://git-scm.com/), [Github](https://github.com/)
 - [Postman](https://www.postman.com/)
-- [Docker](https://www.docker.com/)
-- [CircleCI](https://circleci.com/) (CI/CD Pipelines)
-
+- Waterfall and Agile Frameworks
 
 
 
@@ -129,7 +128,8 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 ## What am I doing now?
 Currently, I am unemployed.  
 So, I am applying for work from home jobs.  
-And I am adding more skills.
+And I am adding more skills.  
+Currently Learning RabbitMQ to increase my backend skills.
 
 
 
