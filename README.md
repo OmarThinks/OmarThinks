@@ -13,7 +13,7 @@ Giza, 6th of October city.
 <b>
 
 ### Examples:
-- [Youtube Video](https://www.youtube.com/watch?v=4RjUJZSEsS0)
+- [Youtube Video](https://www.youtube.com/watch?v=vKo34O6E3O8)
 - Cantiin.com (Using Django) ([Website](https://www.cantiin.com), 
 [Source Code](https://github.com/OmarThinks/cantiin_django)) 
 - [expressjs_mongo_project](https://github.com/OmarThinks/expressjs_mongo_project)
@@ -51,12 +51,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 ## Backend:
 
-- [JavaScript](https://www.w3schools.com/js/)
-	- [ExpressJS](https://expressjs.com/)
-	- [Mocha](https://mochajs.org/), 
-	[Chai](https://www.chaijs.com/)
-	- [Sequelize](https://sequelize.org/master/),
-	[Mongoose](https://www.npmjs.com/package/mongoose) 
 - [Python](https://www.w3schools.com/python/)
 	- [Django](https://docs.djangoproject.com), 
 	[Django REST Framework](https://www.django-rest-framework.org/) (DRF), 
@@ -70,12 +64,18 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 		[pytest](https://pypi.org/project/pytest/)
 	- [pymongo](https://pymongo.readthedocs.io/en/stable/tutorial.html)
 	- [redis-py](https://github.com/andymccurdy/redis-py)
+- [JavaScript](https://www.w3schools.com/js/)
+	- [ExpressJS](https://expressjs.com/)
+	- [Mocha](https://mochajs.org/), 
+	[Chai](https://www.chaijs.com/)
+	- [Sequelize](https://sequelize.org/master/),
+	[Mongoose](https://www.npmjs.com/package/mongoose) 
 	
 
 
 
 
-## DevOps (Intermediate):
+## DevOps (Beginner):
 - [Docker](https://www.docker.com/)
 - [CircleCI](https://circleci.com/) (CI/CD Pipelines)
 - [Kubernetes](https://kubernetes.io/) (Beginner Level)
@@ -129,7 +129,8 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 Currently, I am unemployed.  
 So, I am applying for work from home jobs.  
 And I am adding more skills.  
-Currently Learning RabbitMQ to increase my backend skills.
+Currently Learning RabbitMQ to increase my backend skills.  
+I am learning Microservices.
 
 
 
