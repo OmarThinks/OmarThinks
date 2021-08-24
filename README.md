@@ -31,7 +31,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 - **Frontend**: HTML, CSS, BootStrap, JavaScript, React
 - **Backend**: RESTful APIs, Authentication, SQL, NoSQL, MongoDB, ORM, ODM, Testing, Templating Engines, Redis
-- **DevOps** (Intermediate): Docker, CircleCI, Kubernetes (Beginner)
+- **Microservices** (Beginner): Docker, Docker Compose, CircleCI
 
 
 <b>
@@ -75,10 +75,9 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
-## DevOps (Beginner):
+## Microservices Architecture (Beginner):
 - [Docker](https://www.docker.com/)
 - [CircleCI](https://circleci.com/) (CI/CD Pipelines)
-- [Kubernetes](https://kubernetes.io/) (Beginner Level)
 
 
 
