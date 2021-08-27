@@ -31,7 +31,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 - **Frontend**: HTML, CSS, BootStrap, JavaScript, React
 - **Backend**: RESTful APIs, Authentication, SQL, NoSQL, MongoDB, ORM, ODM, Testing, Templating Engines, Redis
-- **Microservices** (Beginner): Docker, Docker Compose, CircleCI
+- **Microservices** (Beginner): Docker, Docker Compose, Message Brokers, CircleCI
 
 
 <b>
@@ -76,8 +76,11 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 ## Microservices Architecture (Beginner):
-- [Docker](https://www.docker.com/)
-- [CircleCI](https://circleci.com/) (CI/CD Pipelines)
+- [Docker](https://www.docker.com/), 
+[Docker Compose](https://docs.docker.com/compose/)
+- CI/CD Pipelines: [CircleCI](https://circleci.com/)
+- RabbitMQ Message Broker: [pika](https://pika.readthedocs.io/en/stable/), 
+	[celery](https://docs.celeryproject.org/)
 
 
 
@@ -128,9 +131,9 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 Currently, I am unemployed.  
 So, I am applying for work from home jobs.  
 And I am adding more skills.  
-Currently Learning RabbitMQ to increase my backend skills.  
-I am learning Microservices.
-
+I studied Django, but Spring has more jobs, 
+because Microservices Architecture is the new normal.  
+So I am studying Java Spring.
 
 
 
