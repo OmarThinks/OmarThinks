@@ -131,9 +131,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 Currently, I am unemployed.  
 So, I am applying for work from home jobs.  
 And I am adding more skills.  
-I studied Django, but Spring has more jobs, 
-because Microservices Architecture is the new normal.  
-So I am studying Java Spring.
+
 
 
 
