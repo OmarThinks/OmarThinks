@@ -67,9 +67,9 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 ## Microservices Architecture (Beginner):
-- [Docker](https://www.docker.com/), 
-[Docker Compose](https://docs.docker.com/compose/)
-- CI/CD Pipelines: [CircleCI](https://circleci.com/)
+- [Docker](https://www.docker.com/)
+- [Docker Compose](https://docs.docker.com/compose/)
+- [CircleCI](https://circleci.com/)
 
 
 
