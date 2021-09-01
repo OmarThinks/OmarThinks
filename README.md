@@ -27,14 +27,7 @@ Giza, 6th of October city.
 I am a full stack web developer (I Build Websites), and these are my skills:
 
 
-<!--
 
-## Summary:
-
-- **Frontend**: HTML, CSS, BootStrap, JavaScript, React
-- **Backend**: RESTful APIs, Authentication, SQL, NoSQL, MongoDB, ORM, ODM, Testing, Templating Engines, Redis
-- **Microservices** (Beginner): Docker, Docker Compose, Message Brokers, CircleCI
--->
 
 <b>
 
@@ -60,34 +53,15 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 		[MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc), 
 		[Web API](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api)
 	- [Code generator](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator)
-	-[Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
+	- [Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
 - [Python](https://www.w3schools.com/python/)
 	- [Django](https://docs.djangoproject.com), 
 	[Django REST Framework](https://www.django-rest-framework.org/) (DRF), 
 	[django_filter](https://django-filter.readthedocs.io/en/stable/guide/rest_framework.html#quickstart), 
 	[Djoser](https://djoser.readthedocs.io) (Authentication)
 
-<!--
 
 
--->
-<!--
-	- [Flask](https://flask.palletsprojects.com/en/2.0.x/), 
-	[SQLAlchemy](https://www.sqlalchemy.org/), 
-	[Pydantic](https://pydantic-docs.helpmanual.io/) 
-- [JavaScript](https://www.w3schools.com/js/)
-	- [ExpressJS](https://expressjs.com/), [Sequelize](https://sequelize.org/master/),
-	[Mongoose](https://www.npmjs.com/package/mongoose) 
-	- [Mocha](https://mochajs.org/), 
-	[Chai](https://www.chaijs.com/) 
-	[Jinja](https://jinja.palletsprojects.com/)
-	- [unittest](https://docs.python.org/3/library/unittest.html), 
-		[pytest](https://pypi.org/project/pytest/)
-	- [pymongo](https://pymongo.readthedocs.io/en/stable/tutorial.html)
-	- [redis-py](https://github.com/andymccurdy/redis-py) 
-	- [pika](https://pika.readthedocs.io/en/stable/), 
-	[celery](https://docs.celeryproject.org/)
--->
 
 
 
@@ -133,6 +107,35 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
+
+<!--
+
+## Summary:
+
+- **Frontend**: HTML, CSS, BootStrap, JavaScript, React
+- **Backend**: RESTful APIs, Authentication, SQL, NoSQL, MongoDB, ORM, ODM, Testing, Templating Engines, Redis
+- **Microservices** (Beginner): Docker, Docker Compose, Message Brokers, CircleCI
+-->
+
+
+
+<!--
+	- [Flask](https://flask.palletsprojects.com/en/2.0.x/), 
+	[SQLAlchemy](https://www.sqlalchemy.org/), 
+	[Pydantic](https://pydantic-docs.helpmanual.io/) 
+- [JavaScript](https://www.w3schools.com/js/)
+	- [ExpressJS](https://expressjs.com/), [Sequelize](https://sequelize.org/master/),
+	[Mongoose](https://www.npmjs.com/package/mongoose) 
+	- [Mocha](https://mochajs.org/), 
+	[Chai](https://www.chaijs.com/) 
+	[Jinja](https://jinja.palletsprojects.com/)
+	- [unittest](https://docs.python.org/3/library/unittest.html), 
+		[pytest](https://pypi.org/project/pytest/)
+	- [pymongo](https://pymongo.readthedocs.io/en/stable/tutorial.html)
+	- [redis-py](https://github.com/andymccurdy/redis-py) 
+	- [pika](https://pika.readthedocs.io/en/stable/), 
+	[celery](https://docs.celeryproject.org/)
+-->
 
 
 
