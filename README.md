@@ -31,6 +31,35 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 <b>
 
+
+
+
+
+
+
+## Backend:
+
+- [C#](https://www.w3schools.com/cs/)
+	- [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core):
+		- [NuGet](https://www.nuget.org/)	
+		- [Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages), 
+			[MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc), 
+			[Web API](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api)
+		- [Code generator](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator)
+		- [Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
+- [Python](https://www.w3schools.com/python/)
+	- [Django](https://docs.djangoproject.com), 
+	[Django REST Framework](https://www.django-rest-framework.org/) (DRF), 
+	[django_filter](https://django-filter.readthedocs.io/en/stable/guide/rest_framework.html#quickstart), 
+	[Djoser](https://djoser.readthedocs.io) (Authentication)
+
+
+
+
+
+
+
+
 ## Frontend:
 - [HTML](https://www.w3schools.com/html/)
 	[CSS](https://www.w3schools.com/css/default.asp),
@@ -41,24 +70,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 		- [Axios](https://axios-http.com/)
 
 
-
-
-
-## Backend:
-
-
-- [C#](https://www.w3schools.com/cs/) ([ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core)):
-	- [NuGet](https://www.nuget.org/)	
-	- [Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages), 
-		[MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc), 
-		[Web API](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api)
-	- [Code generator](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator)
-	- [Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
-- [Python](https://www.w3schools.com/python/)
-	- [Django](https://docs.djangoproject.com), 
-	[Django REST Framework](https://www.django-rest-framework.org/) (DRF), 
-	[django_filter](https://django-filter.readthedocs.io/en/stable/guide/rest_framework.html#quickstart), 
-	[Djoser](https://djoser.readthedocs.io) (Authentication)
 
 
 
