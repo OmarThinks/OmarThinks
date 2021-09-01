@@ -14,9 +14,10 @@ Giza, 6th of October city.
 
 ### Examples:
 - [Youtube Video](https://www.youtube.com/watch?v=vKo34O6E3O8)
-- [ASP.NET-MVC-Project](https://github.com/OmarThinks/.NET-MVC-Project) (Using ASP.NET Core MVC)  
 - Cantiin.com (Using DRF) ([Website](https://www.cantiin.com), 
-[Source Code](https://github.com/OmarThinks/cantiin_django)) 
+[Source Code](https://github.com/OmarThinks/cantiin_django))
+- [ASP.NET-MVC-Project](https://github.com/OmarThinks/.NET-MVC-Project) (Using ASP.NET Core MVC)
+ 
 
 
 
@@ -39,21 +40,28 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 ## Backend:
 
+
+- [Python](https://www.w3schools.com/python/)
+	- [Django](https://docs.djangoproject.com), 
+	[Django REST Framework](https://www.django-rest-framework.org/) (DRF), 
+	[django_filter](https://django-filter.readthedocs.io/en/stable/guide/rest_framework.html#quickstart), 
+	[Djoser](https://djoser.readthedocs.io) (Authentication)
+	- [Flask](https://flask.palletsprojects.com/en/2.0.x/), 
+	[SQLAlchemy](https://www.sqlalchemy.org/), 
+	[Pydantic](https://pydantic-docs.helpmanual.io/) 
+	- [unittest](https://docs.python.org/3/library/unittest.html), 
+		[pytest](https://pypi.org/project/pytest/)
+	- [pymongo](https://pymongo.readthedocs.io/en/stable/tutorial.html)
+	- [redis-py](https://github.com/andymccurdy/redis-py) 
+	- [pika](https://pika.readthedocs.io/en/stable/), 
+	[celery](https://docs.celeryproject.org/)
 - [C#](https://www.w3schools.com/cs/)
 	- [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core):
 		- [NuGet](https://www.nuget.org/)	
 		- [Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages), 
 			[MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc), 
 			[Web API](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api)
-		- [Entity Framework](https://docs.microsoft.com/en-us/ef/core/)
-		- [Code generator](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator)
-		- [Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
-- [Python](https://www.w3schools.com/python/)
-	- [Django](https://docs.djangoproject.com), 
-	[Django REST Framework](https://www.django-rest-framework.org/) (DRF), 
-	[django_filter](https://django-filter.readthedocs.io/en/stable/guide/rest_framework.html#quickstart), 
-	[Djoser](https://djoser.readthedocs.io) (Authentication)
-
+		- [Entity Framework](https://docs.microsoft.com/en-us/ef/core/), [Code generator](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator), [Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
 
 
 
@@ -135,21 +143,16 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 <!--
-	- [Flask](https://flask.palletsprojects.com/en/2.0.x/), 
-	[SQLAlchemy](https://www.sqlalchemy.org/), 
-	[Pydantic](https://pydantic-docs.helpmanual.io/) 
+
+
+
 - [JavaScript](https://www.w3schools.com/js/)
 	- [ExpressJS](https://expressjs.com/), [Sequelize](https://sequelize.org/master/),
 	[Mongoose](https://www.npmjs.com/package/mongoose) 
 	- [Mocha](https://mochajs.org/), 
 	[Chai](https://www.chaijs.com/) 
 	[Jinja](https://jinja.palletsprojects.com/)
-	- [unittest](https://docs.python.org/3/library/unittest.html), 
-		[pytest](https://pypi.org/project/pytest/)
-	- [pymongo](https://pymongo.readthedocs.io/en/stable/tutorial.html)
-	- [redis-py](https://github.com/andymccurdy/redis-py) 
-	- [pika](https://pika.readthedocs.io/en/stable/), 
-	[celery](https://docs.celeryproject.org/)
+
 -->
 
 
