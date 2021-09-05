@@ -18,7 +18,8 @@ https://github.com/OmarThinks/react-cheat-sheet
 
 
 ## About:
-This is an example of using pure JavaScript with AJAX.  
+This is an example of using 
+**JavaScript, CSS, Bootstrap and AJAX**.  
 
 
 Cantiin is a website for ecommerce, it has  

@@ -10,18 +10,13 @@ Giza, 6th of October city.
 
 - [Full Stack Web Development Nano Degree (With Egypt FWD)](https://graduation.udacity.com/confirm/ELAEXGHP)
 
-<b>
+
 
 ### Examples:
-- [Youtube Video](https://www.youtube.com/watch?v=vKo34O6E3O8)
-- Cantiin.com (Using DRF) ([Website](https://www.cantiin.com), 
-[Source Code](https://github.com/OmarThinks/cantiin_django))
-- [ASP.NET-MVC-Project](https://github.com/OmarThinks/.NET-MVC-Project) (Using ASP.NET Core MVC)
- 
+- **My Website: https://www.cantiin.com/** (Using Django)
+- There are more examples related to each skill
 
 
-
-</b>
 
 
 # Skills?
@@ -31,6 +26,82 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 <b>
+
+
+
+
+
+
+
+## Backend:
+
+
+- Python
+	- Django, Django REST Framework (DRF), django_filter, 
+	Djoser
+	- Flask, SQLAlchemy, Pydantic 
+	- unittest, pytest
+	- pymongo, redis-py 
+	- pika, celery
+	- [Examples](examples/python.md)
+- C#
+	- ASP.NET Core:
+		- NuGet	
+		- Razor Pages, MVC, Web API
+		- Entity Framework, Code generator, Identity
+	- [Examples](examples/cs.md)
+
+
+
+
+
+## Microservices Architecture (Beginner):
+- Docker
+- Docker Compose
+- CircleCI
+- [Examples](examples/microservices.md)
+
+
+
+
+
+
+
+
+## Frontend:
+- HTML
+	CSS,
+	BootStrap
+- JavaScript
+	- NPM and NodeJS
+		- React, Redux
+		- Axios
+- [Examples](examples/javascript.md)
+
+
+
+
+
+
+
+
+
+
+## Others:
+- Git, Github
+- Postman
+- Waterfall and Agile Frameworks
+
+
+
+
+
+
+
+
+
+<!--
+
 
 
 
@@ -55,6 +126,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	- [redis-py](https://github.com/andymccurdy/redis-py) 
 	- [pika](https://pika.readthedocs.io/en/stable/), 
 	[celery](https://docs.celeryproject.org/)
+	- Examples
 - [C#](https://www.w3schools.com/cs/)
 	- [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core):
 		- [NuGet](https://www.nuget.org/)	
@@ -114,7 +186,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
-
+-->
 
 
 
@@ -163,9 +235,8 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
-## What am I doing now?
-Currently, I am unemployed.  
-So, I am applying for work from home jobs.  
+## What am I doing now?  
+I am applying for jobs.  
 And I am adding more skills.  
 
 
