@@ -96,7 +96,7 @@ An MVC Social app using ASP.NET Core MVC.
 
 ## Links:
 
-https://raw.githubusercontent.com/OmarThinks/.NET-Razor-Pages-Project/master/images/posts.gif
+https://github.com/OmarThinks/.NET-Razor-Pages-Project/
 
 
 
