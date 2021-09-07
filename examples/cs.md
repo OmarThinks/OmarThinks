@@ -12,14 +12,19 @@ An MVC Social app using ASP.NET Core MVC.
 
 <img src="https://github.com/OmarThinks/.NET-MVC-Project/blob/master/images/posts_list.gif?raw=true"/>
 
+Using Data Annotations: 
 
-## Technoligies used:
+<img src="https://github.com/OmarThinks/.NET-MVC-Project/blob/master/images/validation.gif?raw=true"/>
+
+
+## Technologies used:
 1. ASP.NET Core MVC
 2. Razor Pages
 3. Entity Framework
 4. Code Generator
 5. Identity
 6. NuGet
+7. Data Annotations
 
 
 
@@ -46,7 +51,7 @@ An MVC Social app using ASP.NET Core Web API.
 
 
 
-## Technoligies used:
+## Technologies used:
 1. ASP.NET Core Web API
 2. Entity Framework
 3. Code Generator
@@ -87,7 +92,7 @@ An MVC Social app using ASP.NET Core MVC.
 
 
 
-## Technoligies used:
+## Technologies used:
 1. ASP.NET Core Razor Pages
 2. Entity Framework
 3. Code Generator
