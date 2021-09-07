@@ -12,12 +12,6 @@ Giza, 6th of October city.
 
 
 
-### Examples:
-- **My Website: https://www.cantiin.com/** (Using Django)
-- There are more examples related to each skill
-
-
-
 
 # Skills?
 I am a full stack web developer (I Build Websites), and these are my skills:
@@ -44,6 +38,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	- pymongo, redis-py 
 	- pika, celery
 	- [Examples](examples/python.md)
+	- [Cantiin.com](https://www.cantiin.com/)
 - C#
 	- ASP.NET Core:
 		- NuGet	
