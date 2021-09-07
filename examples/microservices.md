@@ -8,29 +8,40 @@
 # 1) AWS-Full-Stack-Project:
 
 
+
+
+
+
+
+
+**React App on Amplify:**
+
+<img src="https://raw.githubusercontent.com/OmarThinks/AWS-Full-Stack-Project/master/images/amplify.gif?raw=true"/>
+<br>
+
+**DynamoDB:**
+<img src="https://raw.githubusercontent.com/OmarThinks/AWS-Full-Stack-Project/master/images/dynamo.gif?raw=true"/>
+<br>
+
+**Lambda:**
+<img src="https://raw.githubusercontent.com/OmarThinks/AWS-Full-Stack-Project/master/images/lambda.gif?raw=true"/>
+
+
+
+
+
+
+
+
+
 ## About:
 
 This is a full stack project with has both frontend and backend.  
 It is deployed on AWS.  
  
 
-## Technologies Used:
 
-<b>
 
-1. AWS
-    1. Amazon API Gateway
-    2. Amazon DynamoDB (NoSQL DB)
-    3. AWS Lambda (Serverless)
-    4. IAM (Identity)
-    5. AWS Amplify (Frontend) (With React Application)
-2. JavaScript
-    1. NodeJS
-        1. React
-3. Python
-4. Postman
-
-</b>
 
 
 
@@ -75,17 +86,26 @@ AWS free Tier.
 
 
 
-**React App on Amplify:**
 
-<img src="https://raw.githubusercontent.com/OmarThinks/AWS-Full-Stack-Project/master/images/amplify.gif?raw=true"/>
-<br>
 
-**DynamoDB:**
-<img src="https://raw.githubusercontent.com/OmarThinks/AWS-Full-Stack-Project/master/images/dynamo.gif?raw=true"/>
-<br>
+## Technologies Used:
 
-**Lambda:**
-<img src="https://raw.githubusercontent.com/OmarThinks/AWS-Full-Stack-Project/master/images/lambda.gif?raw=true"/>
+<b>
+
+1. AWS
+    1. Amazon API Gateway
+    2. Amazon DynamoDB (NoSQL DB)
+    3. AWS Lambda (Serverless)
+    4. IAM (Identity)
+    5. AWS Amplify (Frontend) (With React Application)
+2. JavaScript
+    1. NodeJS
+        1. React
+3. Python
+4. Postman
+
+</b>
+
 
 
 
