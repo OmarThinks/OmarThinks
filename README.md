@@ -55,7 +55,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
-## Microservices Architecture (Beginner):
+## Microservices Architecture:
 - AWS
 	- Amplify
 	- Lambda
