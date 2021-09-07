@@ -56,8 +56,11 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 ## Microservices Architecture (Beginner):
-- Docker
-- Docker Compose
+- AWS
+	- Amplify
+	- Lambda
+	- DynamoDB
+- Docker, Docker Compose
 - CircleCI
 - [Examples](examples/microservices.md)
 
