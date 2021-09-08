@@ -2,7 +2,60 @@
 
 
 
-# 1) .NET-MVC-Project:
+
+
+
+
+# 1) Blazor Project:
+
+## Links:
+
+https://github.com/OmarThinks/Blazor-Project
+
+## About:
+
+A project that contains several practices on Blazor.
+
+This is a **Counter** Example:
+
+<img src="https://github.com/OmarThinks/Blazor-Project/blob/master/images/counter.gif?raw=true"/>
+
+This is a **Message** Example:
+
+<img src="https://github.com/OmarThinks/Blazor-Project/blob/master/images/message.gif?raw=true"/>
+
+This is a **Todo List** Example:
+
+<img src="https://github.com/OmarThinks/Blazor-Project/blob/master/images/todo.gif?raw=true"/>
+
+
+
+
+
+## Technologies used:
+1. C#
+2. ASP.NET Core
+3. Blazor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 2) .NET-MVC-Project:
+## Links:
+
+https://github.com/OmarThinks/.NET-MVC-Project
+
 
 ## About:
 
@@ -29,13 +82,14 @@ Using Data Annotations:
 
 
 
+
+
+
+# 3) .NET-Web-API-Project:
+
 ## Links:
 
-https://github.com/OmarThinks/.NET-MVC-Project
-
-
-
-# 2) .NET-Web-API-Project:
+https://github.com/OmarThinks/.NET-Web-API-Project
 
 ## About:
 
@@ -59,25 +113,27 @@ An MVC Social app using ASP.NET Core Web API.
 5. Postman
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 4) .NET-Razor-Pages-Project:
+
 ## Links:
 
-https://github.com/OmarThinks/.NET-Web-API-Project
+https://github.com/OmarThinks/.NET-Razor-Pages-Project/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 3) .NET-Razor-Pages-Project:
 
 ## About:
 
@@ -99,9 +155,6 @@ An MVC Social app using ASP.NET Core MVC.
 4. NuGet
 
 
-## Links:
-
-https://github.com/OmarThinks/.NET-Razor-Pages-Project/
 
 
 
