@@ -3,35 +3,6 @@
 # 1) Cantiin.com
 
 
-## About:
-
-Cantiin is a website for ecommerce, it has  
-
-<img src="https://raw.githubusercontent.com/OmarThinks/cantiin_django/master/images/frontend.gif?raw=true"/>
-<br>
-
-- **Frontend**: (JavaScript and Jinja) and
-
-<img src="https://raw.githubusercontent.com/OmarThinks/cantiin_django/master/images/pagination.gif?raw=true"/>
-<br>
-
-- **Backend RESTful API**: Django REST Framework
-
-
-
-
-## Technologies used:
-
-
-1. Python
-2. Django
-3. Django REST Framework
-4. Djoser (Header Auth)
-5. django_filter
-6. Jinja
-7. unittest
-8. pytest
-9. CircleCI
 
 
 
@@ -67,6 +38,44 @@ It is deployed and live.
 
 
 
+## About:
+
+Cantiin is a website for ecommerce, it has  
+
+<img src="https://raw.githubusercontent.com/OmarThinks/cantiin_django/master/images/frontend.gif?raw=true"/>
+<br>
+
+- **Frontend**: (JavaScript and Jinja) and
+
+<img src="https://raw.githubusercontent.com/OmarThinks/cantiin_django/master/images/pagination.gif?raw=true"/>
+<br>
+
+- **Backend RESTful API**: Django REST Framework
+
+
+
+
+## Technologies used:
+
+
+1. Python
+2. Django
+3. Django REST Framework
+4. Djoser (Header Auth)
+5. django_filter
+6. Jinja
+7. unittest
+8. pytest
+9. CircleCI
+
+
+
+
+
+
+
+
+
 
 
 
@@ -74,6 +83,32 @@ It is deployed and live.
 
 
 # 2) cantiin_flask:
+
+
+
+
+
+## Links:
+
+
+<table>
+    <tr>
+        <th></th>
+        <th>Link</th>        
+    </tr>
+    <tr>
+        <td>Source Code and Documentation</td>
+        <td><a href="https://github.com/OmarThinks/cantiin_flask">
+        https://github.com/OmarThinks/cantiin_flask</a></td>     
+    </tr>    
+</table>
+
+
+
+
+
+
+
 
 ## About:
 
@@ -120,45 +155,10 @@ Additional Technologies:
 
 
 
-## Links:
-
-
-<table>
-    <tr>
-        <th></th>
-        <th>Link</th>        
-    </tr>
-    <tr>
-        <td>Source Code and Documentation</td>
-        <td><a href="https://github.com/OmarThinks/cantiin_flask">
-        https://github.com/OmarThinks/cantiin_flask</a></td>     
-    </tr>    
-</table>
-
-
-
 
 
 
 # 3) Rabbitmq Celery Django Project:
-
-
-## About:
-An exercise on RabbitMQ with celery.
-
-
-
-<img src="https://raw.githubusercontent.com/OmarThinks/rabbitmq_celery_django_project/master/images/rabbitmq.gif?raw=true"/>
-<br>
-
-
-## Teachnologies used: 
-
-1. Django
-2. Django REST Framework
-3. Celery
-4. RabbitMQ
-
 
 ## Links:
 
@@ -178,11 +178,49 @@ An exercise on RabbitMQ with celery.
 
 
 
+## About:
+An exercise on RabbitMQ with celery.
+
+
+
+<img src="https://raw.githubusercontent.com/OmarThinks/rabbitmq_celery_django_project/master/images/rabbitmq.gif?raw=true"/>
+<br>
+
+
+## Teachnologies used: 
+
+1. Django
+2. Django REST Framework
+3. Celery
+4. RabbitMQ
+
+
+
+
+
 
 
 # 4) RabbitMQ_Project: 
 
 
+
+## Links:
+
+<table>
+    <tr>
+        <th></th>
+        <th>Link</th>        
+    </tr>
+    <tr>
+        <td>Source Code and Documentation</td>
+        <td>
+        <a href="https://github.com/OmarThinks/RabbitMQ_Project">
+        https://github.com/OmarThinks/RabbitMQ_Project
+        </a></td>     
+    </tr>    
+</table>
+
+## About
 
 
 An exercise on RabbitMQ with Pika.
@@ -201,21 +239,7 @@ https://github.com/OmarThinks/RabbitMQ_Project/blob/master/images/statistics.png
 4. RabbitMQ
 
 
-## Links:
 
-<table>
-    <tr>
-        <th></th>
-        <th>Link</th>        
-    </tr>
-    <tr>
-        <td>Source Code and Documentation</td>
-        <td>
-        <a href="https://github.com/OmarThinks/RabbitMQ_Project">
-        https://github.com/OmarThinks/RabbitMQ_Project
-        </a></td>     
-    </tr>    
-</table>
 
 
 

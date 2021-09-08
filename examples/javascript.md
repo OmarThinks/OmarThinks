@@ -3,52 +3,22 @@
 
 # 1) React Cheatsheet:
 
-## About:
-Here I summerized most important React lessons.
-
 
 ## Links:
 
 https://github.com/OmarThinks/react-cheat-sheet
 
 
+## About:
+Here I summerized most important React lessons.
+
+
+
+
+
 
 
 # 2) Cantiin.com
-
-
-## About:
-This is an example of using 
-**JavaScript, CSS, Bootstrap and AJAX**.  
-
-
-Cantiin is a website for ecommerce, it has  
-
-<img src="https://raw.githubusercontent.com/OmarThinks/cantiin_django/master/images/frontend.gif?raw=true"/>
-<br>
-
-- **Frontend**: (JavaScript and Jinja) and
-
-<img src="https://raw.githubusercontent.com/OmarThinks/cantiin_django/master/images/pagination.gif?raw=true"/>
-<br>
-
-- **Backend RESTful API**: Django REST Framework
-
-
-
-
-## Technologies used:
-
-
-1. Python
-2. Django
-3. Django REST Framework
-4. Djoser (Header Auth)
-5. django_filter
-6. Jinja
-7. unittest
-8. pytest
-9. CircleCI
 
 
 
@@ -79,4 +49,46 @@ It is deployed and live.
         https://github.com/OmarThinks/cantiin_django</a></td>     
     </tr>    
 </table>
+
+
+## About:
+This is an example of using 
+**JavaScript, CSS, Bootstrap and AJAX**.  
+
+
+Cantiin is a website for ecommerce, it has  
+
+- **Frontend**: (JavaScript and Jinja) and
+
+<img src="https://raw.githubusercontent.com/OmarThinks/cantiin_django/master/images/frontend.gif?raw=true"/>
+<br>
+
+
+
+- **Backend RESTful API**: Django REST Framework
+
+
+<img src="https://raw.githubusercontent.com/OmarThinks/cantiin_django/master/images/pagination.gif?raw=true"/>
+<br>
+
+
+
+
+
+## Technologies used:
+
+
+1. Python
+2. Django
+3. Django REST Framework
+4. Djoser (Header Auth)
+5. django_filter
+6. Jinja
+7. unittest
+8. pytest
+9. CircleCI
+
+
+
+
 

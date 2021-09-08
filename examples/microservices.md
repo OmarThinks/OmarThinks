@@ -12,39 +12,6 @@
 
 
 
-
-
-**React App on Amplify:**
-
-<img src="https://raw.githubusercontent.com/OmarThinks/AWS-Full-Stack-Project/master/images/amplify.gif?raw=true"/>
-<br>
-
-**DynamoDB:**
-<img src="https://raw.githubusercontent.com/OmarThinks/AWS-Full-Stack-Project/master/images/dynamo.gif?raw=true"/>
-<br>
-
-**Lambda:**
-<img src="https://raw.githubusercontent.com/OmarThinks/AWS-Full-Stack-Project/master/images/lambda.gif?raw=true"/>
-
-
-
-
-
-
-
-
-
-## About:
-
-This is a full stack project with has both frontend and backend.  
-It is deployed on AWS.  
- 
-
-
-
-
-
-
 ## Links:
 
 **Deployments:**  
@@ -88,6 +55,45 @@ AWS free Tier.
 
 
 
+
+
+
+**React App on Amplify:**
+
+<img src="https://raw.githubusercontent.com/OmarThinks/AWS-Full-Stack-Project/master/images/amplify.gif?raw=true"/>
+<br>
+
+**DynamoDB:**
+<img src="https://raw.githubusercontent.com/OmarThinks/AWS-Full-Stack-Project/master/images/dynamo.gif?raw=true"/>
+<br>
+
+**Lambda:**
+<img src="https://raw.githubusercontent.com/OmarThinks/AWS-Full-Stack-Project/master/images/lambda.gif?raw=true"/>
+
+
+
+
+
+
+
+
+
+## About:
+
+This is a full stack project with has both frontend and backend.  
+It is deployed on AWS.  
+ 
+
+
+
+
+
+
+
+
+
+
+
 ## Technologies Used:
 
 <b>
@@ -119,6 +125,21 @@ AWS free Tier.
 
 # 2) Flask Microservices Project:
 
+
+
+
+
+
+## Links:
+
+https://github.com/OmarThinks/flask_microservices_project
+
+
+
+
+
+
+
 ## About:
 running 2 seperate Flask application using Docker and Docker-Compose.
 
@@ -131,12 +152,6 @@ running 2 seperate Flask application using Docker and Docker-Compose.
 3. Docker
 4. Docker Compose
 
-
-
-
-## Links:
-
-https://github.com/OmarThinks/flask_microservices_project
 
 
 
@@ -159,19 +174,6 @@ https://github.com/OmarThinks/flask_microservices_project
 
 
 
-
-## About:
-In this project I used flask with CircleCI.
-
-
-
-## Technlologies used:
-
-
-1. Flask
-2. CircleCI
-
-
 ## Links:
 
 <table>
@@ -191,6 +193,27 @@ In this project I used flask with CircleCI.
     </tr>
 </table>
 
+
+
+
+
+
+
+
+
+
+
+
+## About:
+In this project I used flask with CircleCI.
+
+
+
+## Technlologies used:
+
+
+1. Flask
+2. CircleCI
 
 
 
@@ -250,13 +273,17 @@ Here I used CircleCI with a django Project.
 # 5) Docker Cheatsheet:
 
 
-## About:
-Here I summerized most important docker lessons.
-
 
 
 ## Links:
 
 https://github.com/OmarThinks/docker-cheat-sheet
+
+
+
+
+## About:
+Here I summerized most important docker lessons.
+
 
 
