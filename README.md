@@ -44,6 +44,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 		- NuGet	
 		- Razor Pages, MVC, Web API
 		- Entity Framework, Code generator, Identity
+		- Blazor
 	- [Examples](examples/cs.md)
 
 
