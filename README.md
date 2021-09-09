@@ -30,6 +30,14 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 ## Backend:
 
 
+
+- C#
+	- ASP.NET Core:
+		- NuGet	
+		- Razor Pages, MVC, Web API
+		- Entity Framework, Code generator, Identity
+		- Blazor
+	- [Examples](examples/cs.md)
 - Python
 	- Django, Django REST Framework (DRF), django_filter, 
 	Djoser
@@ -39,26 +47,16 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	- pika, celery
 	- [Examples](examples/python.md)
 	- [Cantiin.com](https://www.cantiin.com/)
-- C#
-	- ASP.NET Core:
-		- NuGet	
-		- Razor Pages, MVC, Web API
-		- Entity Framework, Code generator, Identity
-		- Blazor
-	- [Examples](examples/cs.md)
 
 
 
 
+## AWS:
+- Amplify
+- Lambda
+- DynamoDB
+-[Example](https://github.com/OmarThinks/AWS-Full-Stack-Project)
 
-## Microservices Architecture:
-- AWS
-	- Amplify
-	- Lambda
-	- DynamoDB
-- Docker, Docker Compose
-- CircleCI
-- [Examples](examples/microservices.md)
 
 
 
@@ -90,6 +88,9 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 - Git, Github
 - Postman
 - Waterfall and Agile Frameworks
+- Docker, Docker Compose
+- CircleCI
+- [Examples](examples/microservices.md)
 
 
 
