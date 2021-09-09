@@ -55,7 +55,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 - Amplify
 - Lambda
 - DynamoDB
--[Example](https://github.com/OmarThinks/AWS-Full-Stack-Project)
+- [Example](https://github.com/OmarThinks/AWS-Full-Stack-Project)
 
 
 
