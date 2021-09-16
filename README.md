@@ -50,14 +50,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
-## AWS:
-- Amplify
-- Lambda
-- DynamoDB
-- [Example](https://github.com/OmarThinks/AWS-Full-Stack-Project)
-
-
-
 
 
 
@@ -80,6 +72,14 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
+## AWS (Beginner):
+- Amplify
+- Lambda
+- DynamoDB
+- [Example](https://github.com/OmarThinks/AWS-Full-Stack-Project)
+
+
+
 
 
 
@@ -90,6 +90,12 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 - Docker, Docker Compose
 - CircleCI
 - [Examples](examples/microservices.md)
+
+
+
+
+
+
 
 
 
