@@ -8,7 +8,7 @@ Giza, 6th of October city.
 
 ### Certificates:
 
-- [Full Stack Web Development Nano Degree (With Egypt FWD)](https://graduation.udacity.com/confirm/ELAEXGHP)
+- [Full Stack Web Development Nano Degree](https://graduation.udacity.com/confirm/ELAEXGHP)
 
 
 
