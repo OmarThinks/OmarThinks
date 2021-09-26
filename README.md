@@ -36,7 +36,9 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	- NPM and NodeJS
 		- React, Redux
 		- Axios
-- [Examples](examples/javascript.md)
+- Examples:
+	- [Cantiin-React](https://github.com/OmarThinks/Cantiin-React)
+	- [More Examples](examples/javascript.md)
 
 
 
