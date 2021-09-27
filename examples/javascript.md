@@ -1,19 +1,6 @@
 # JavaScript Examples:
 
 
-# 1) React Cheatsheet:
-
-
-## Links:
-
-https://github.com/OmarThinks/react-cheat-sheet
-
-
-## About:
-Here I summerized most important React lessons.
-
-
-
 
 
 
@@ -78,15 +65,56 @@ Cantiin is a website for ecommerce, it has
 ## Technologies used:
 
 
+### 1) Backend:
+
 1. Python
 2. Django
 3. Django REST Framework
 4. Djoser (Header Auth)
 5. django_filter
-6. Jinja
-7. unittest
-8. pytest
-9. CircleCI
+6. unittest
+7. pytest
+
+
+
+### 2) Frontend:
+
+
+1. HTML
+2. CSS
+3. JavaScript
+4. BootStrap
+4. Jinja
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 1) React Cheatsheet:
+
+
+## Links:
+
+https://github.com/OmarThinks/react-cheat-sheet
+
+
+## About:
+Here I summerized most important React lessons.
 
 
 
