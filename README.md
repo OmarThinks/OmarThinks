@@ -66,7 +66,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	- Eloquent
 	- Blade
 	- [Example](https://github.com/OmarThinks/Laravel-Project)
-
+- Docker, Docker Compose
 
 
 
@@ -92,7 +92,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 - Git, Github
 - Postman
 - Waterfall and Agile Frameworks
-- Docker, Docker Compose
 - CircleCI
 - [Examples](examples/microservices.md)
 
