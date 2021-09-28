@@ -91,7 +91,8 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 - Postman
 - Waterfall and Agile Frameworks
 - CircleCI
-- [Examples](examples/microservices.md)
+
+<!--- [Examples](examples/microservices.md)-->
 
 
 
