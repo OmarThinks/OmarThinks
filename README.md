@@ -28,18 +28,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
-## Frontend:
-- HTML
-	CSS,
-	BootStrap
-- JavaScript
-	- NPM and NodeJS
-		- React, Redux
-		- Axios
-- [Examples](examples/javascript.md)
-
-
-
 
 
 
@@ -66,6 +54,23 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	- [Example](https://github.com/OmarThinks/Laravel-Project)
 - Docker, Docker Compose
 
+
+
+
+
+
+## Frontend:
+- HTML
+	CSS,
+	BootStrap
+- JavaScript
+	- NPM and NodeJS
+		- React 
+			- Redux
+			- Context
+			- Hooks
+		- Axios
+- [Examples](examples/javascript.md)
 
 
 
