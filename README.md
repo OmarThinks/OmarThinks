@@ -61,10 +61,16 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	- unittest, pytest
 	- pymongo, redis-py 
 	- pika, celery
+	- [Examples](examples/python.md)
+	- [Cantiin.com](https://www.cantiin.com/)
+- PHP
+	- Laravel
+	- Eloquent
+	- Blade
+	- [Example](https://github.com/OmarThinks/Laravel-Project)
 - Docker, Docker Compose
 - CircleCI
-- [Examples](examples/python.md)
-- [Cantiin.com](https://www.cantiin.com/)
+
 
 
 
@@ -143,11 +149,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 		- [Entity Framework](https://docs.microsoft.com/en-us/ef/core/), [Code generator](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator), [Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
 
 
-- PHP
-	- Laravel
-	- Eloquent
-	- Blade
-	- [Example](https://github.com/OmarThinks/Laravel-Project)
+
 
 
 ## Microservices Architecture (Beginner):
