@@ -31,6 +31,22 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
+## Frontend:
+- HTML
+	CSS,
+	BootStrap
+- JavaScript
+	- NPM and NodeJS
+		- Axios
+		- React 
+			- Redux
+			- Context
+			- Hooks
+- [Examples](examples/javascript.md)
+
+
+
+
 
 
 
@@ -45,32 +61,11 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	- unittest, pytest
 	- pymongo, redis-py 
 	- pika, celery
-	- [Examples](examples/python.md)
-	- [Cantiin.com](https://www.cantiin.com/)
-- PHP
-	- Laravel
-	- Eloquent
-	- Blade
-	- [Example](https://github.com/OmarThinks/Laravel-Project)
 - Docker, Docker Compose
+- CircleCI
+- [Examples](examples/python.md)
+- [Cantiin.com](https://www.cantiin.com/)
 
-
-
-
-
-
-## Frontend:
-- HTML
-	CSS,
-	BootStrap
-- JavaScript
-	- NPM and NodeJS
-		- React 
-			- Redux
-			- Context
-			- Hooks
-		- Axios
-- [Examples](examples/javascript.md)
 
 
 
@@ -95,7 +90,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 - Git, Github
 - Postman
 - Waterfall and Agile Frameworks
-- CircleCI
 
 <!--- [Examples](examples/microservices.md)-->
 
@@ -149,7 +143,11 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 		- [Entity Framework](https://docs.microsoft.com/en-us/ef/core/), [Code generator](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator), [Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
 
 
-
+- PHP
+	- Laravel
+	- Eloquent
+	- Blade
+	- [Example](https://github.com/OmarThinks/Laravel-Project)
 
 
 ## Microservices Architecture (Beginner):
