@@ -1,4 +1,95 @@
-# AWS-Full-Stack-Project
+# 1) Cantiin-React (Deployed on AWS):
+
+## About:
+Recreating the frontend of Cantiin using React, deployed on AWS.
+
+
+
+## Links:
+
+<table>
+<tr>
+<th>Description</th>
+<th>Link</th>
+</tr>
+<tr>
+<td>Deployed on <b>AWS Amplify</b></td>
+<td>
+<a href="https://cantiin.d3thsty4rzma1i.amplifyapp.com" >https://cantiin.d3thsty4rzma1i.amplifyapp.com</a>
+</td>
+</tr>
+<tr>
+<td>Github Repository <b>(Source Code and Documentation)</b></td>
+<td>
+<a href="https://github.com/OmarThinks/Cantiin-React" >https://github.com/OmarThinks/Cantiin-React</a>
+</td>
+</tr>
+<tr>
+<td>RESTful API <b>Backend</b> (That this react app communicates with)</td>
+<td>
+<a href="https://cantiin.com/api/" >https://cantiin.com/api/</a>
+</td>
+</tr>
+
+
+</table>
+
+
+## Technologies Used:
+
+<b>
+
+1. HTML
+2. CSS
+3. JavaScript
+4. React
+    - Functional Components
+    - Contexts
+    - Hooks
+    - Authentication
+    - React-Router-Dom
+5. Testing
+6. Axios
+7. AWS Amplify
+
+</b>
+
+
+<img src="https://raw.githubusercontent.com/OmarThinks/Cantiin-React/master/images/products_list_2.gif?raw=true">
+
+
+<img src="https://raw.githubusercontent.com/OmarThinks/Cantiin-React/master/images/front_signup.gif?raw=true">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 2) AWS-Full-Stack-Project
 
 Releases: https://github.com/OmarThinks/AWS-Full-Stack-Project/tags
 
@@ -82,8 +173,8 @@ Keeping these links alive might get me out of AWS Free Tier.**
 
 
 
-<img src="images/arch.gif">
 
+<img src="https://raw.githubusercontent.com/OmarThinks/AWS-Full-Stack-Project/master/images/arch.gif?raw=true">
 
 
 
@@ -96,8 +187,8 @@ Keeping these links alive might get me out of AWS Free Tier.**
 This is the link of the Frontend Application with **React**.  
 You can input first name and last name.
 
-<img src="images/amplify.gif">
 
+<img src="https://raw.githubusercontent.com/OmarThinks/AWS-Full-Stack-Project/master/images/amplify.gif?raw=true">
 
 
 
@@ -134,8 +225,8 @@ This is a very basic lambda function.
 ## C-3) Amazon API Gateway:
 
 
-<img src="images/gateway.gif">
 
+<img src="https://raw.githubusercontent.com/OmarThinks/AWS-Full-Stack-Project/master/images/gateway.gif?raw=true">
 
 
 
@@ -177,9 +268,9 @@ Output:
 
 
 
-<img src="images/postman.gif">
 
 
+<img src="https://raw.githubusercontent.com/OmarThinks/AWS-Full-Stack-Project/master/images/postman.gif?raw=true">
 
 
 
@@ -213,7 +304,10 @@ This is the permissions JSON.
 }
 ```
 
-<img src="images/iam.gif">
+
+<img src="https://raw.githubusercontent.com/OmarThinks/AWS-Full-Stack-Project/master/images/iam.gif?raw=true">
+
+
 
 And this is the New python code:
 
@@ -241,7 +335,7 @@ def lambda_handler(event, context):
 ```
 
 
-<img src="images/lambda.gif">
+<img src="https://raw.githubusercontent.com/OmarThinks/AWS-Full-Stack-Project/master/images/lambda.gif?raw=true">
 
 
 There is a unique ID to each record.
@@ -249,8 +343,8 @@ There is a unique ID to each record.
 
 
 
-<img src="images/dynamo.gif">
 
+<img src="https://raw.githubusercontent.com/OmarThinks/AWS-Full-Stack-Project/master/images/dynamo.gif?raw=true">
 
 
 

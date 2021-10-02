@@ -10,7 +10,7 @@
 # 1) Cantiin-React:
 
 ## About:
-Recreating the frontend of Cantiin using React.
+Recreating the frontend of Cantiin using React, deployed on AWS.
 
 
 
