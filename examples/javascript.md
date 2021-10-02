@@ -5,7 +5,89 @@
 
 
 
-# 1) Cantiin.com
+
+
+# 1) Cantiin-React:
+
+## About:
+Recreating the frontend of Cantiin using React.
+
+
+
+## Links:
+
+<table>
+<tr>
+<th>Description</th>
+<th>Link</th>
+</tr>
+<tr>
+<td>Deployed on <b>AWS Amplify</b></td>
+<td>
+<a href="https://cantiin.d3thsty4rzma1i.amplifyapp.com" >https://cantiin.d3thsty4rzma1i.amplifyapp.com</a>
+</td>
+</tr>
+<tr>
+<td>Github Repository <b>(Source Code and Documentation)</b></td>
+<td>
+<a href="https://github.com/OmarThinks/Cantiin-React" >https://github.com/OmarThinks/Cantiin-React</a>
+</td>
+</tr>
+<tr>
+<td>RESTful API <b>Backend</b> (That this react app communicates with)</td>
+<td>
+<a href="https://cantiin.com/api/" >https://cantiin.com/api/</a>
+</td>
+</tr>
+
+
+</table>
+
+
+## Technologies Used:
+
+<b>
+
+1. HTML
+2. CSS
+3. JavaScript
+4. React
+    - Functional Components
+    - Contexts
+    - Hooks
+    - Authentication
+    - React-Router-Dom
+5. Testing
+6. Axios
+7. AWS Amplify
+
+</b>
+
+
+<img src="https://raw.githubusercontent.com/OmarThinks/Cantiin-React/master/images/products_list_2.gif?raw=true">
+
+
+<img src="https://raw.githubusercontent.com/OmarThinks/Cantiin-React/master/images/front_signup.gif?raw=true">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 2) Cantiin.com
 
 
 
@@ -91,62 +173,6 @@ Cantiin is a website for ecommerce, it has
 
 
 
-
-
-
-# 2) Cantiin-React:
-
-## About:
-Recreating the frontend of Cantiin using React.
-
-
-
-## Links:
-
-<table>
-<tr>
-<th>Description</th>
-<th>Link</th>
-</tr>
-<tr>
-<td>Deployed on <b>AWS Amplify</b></td>
-<td>
-<a href="https://cantiin.d3thsty4rzma1i.amplifyapp.com" >https://cantiin.d3thsty4rzma1i.amplifyapp.com</a>
-</td>
-</tr>
-<tr>
-<td>Github Repository <b>(Source Code and Documentation)</b></td>
-<td>
-<a href="https://github.com/OmarThinks/Cantiin-React" >https://github.com/OmarThinks/Cantiin-React</a>
-</td>
-</tr>
-<tr>
-<td>RESTful API <b>Backend</b> (That this react app communicates with)</td>
-<td>
-<a href="https://cantiin.com/api/" >https://cantiin.com/api/</a>
-</td>
-</tr>
-
-
-</table>
-
-
-## Technologies Used:
-
-<b>
-
-1. HTML
-2. CSS
-3. JavaScript
-4. React
-5. Testing
-6. Axios
-7. AWS Amplify
-
-</b>
-
-
-<img src="https://raw.githubusercontent.com/OmarThinks/Cantiin-React/master/images/products_list_1.gif?raw=true">
 
 
 
