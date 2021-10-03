@@ -7,7 +7,7 @@
 
 
 
-# 1) Cantiin-React:
+# 1) Cantiin-React (deployed on AWS Amplify):
 
 ## About:
 Recreating the frontend of Cantiin using React, deployed on AWS.
