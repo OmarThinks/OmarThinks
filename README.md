@@ -60,7 +60,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	- Flask, SQLAlchemy, Pydantic 
 	- unittest, pytest
 	- pymongo, redis-py 
-	- pika, celery
+	- pika, celery (RabbitMQ)
 	- [Examples](examples/python.md)
 	- [Cantiin.com](https://www.cantiin.com/)
 - PHP
@@ -68,8 +68,24 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	- Eloquent
 	- Blade
 	- [Example](https://github.com/OmarThinks/Laravel-Project)
-- Docker, Docker Compose
-- CircleCI
+- C#
+	- ASP.NET Core:
+		- NuGet
+		- Razor Pages, MVC, Web API
+		- Blazor
+		- Entity Framework, Code generator, Identity
+		- [Examples](examples/cs.md)
+- JavaScript
+	- ExpressJS, EJS
+	- Mongoose, Sequelize
+	- Mocha, Chai
+	- [Examples](examples/javascript_backend.md)
+
+
+- Architecture:
+	- Docker, Docker Compose
+	- CircleCI
+	- [Examples](examples/microservices.md)
 
 
 
