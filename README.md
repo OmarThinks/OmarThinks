@@ -55,12 +55,11 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 - Python
-	- Django, Django REST Framework (DRF), django_filter, 
-	Djoser
+	- Django, Django REST Framework (DRF), django_filter
 	- Flask, SQLAlchemy, Pydantic 
 	- unittest, pytest
 	- pymongo, redis-py 
-	- pika, celery (RabbitMQ)
+	- pika, celery
 	- [Examples](examples/python.md)
 	- [Cantiin.com](https://www.cantiin.com/)
 - PHP
@@ -84,6 +83,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 - Architecture:
 	- Docker, Docker Compose
+	- RabbitMQ
 	- CircleCI
 	- [Examples](examples/microservices.md)
 

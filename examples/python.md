@@ -229,14 +229,13 @@ An exercise on RabbitMQ with Pika.
 
 <img src="https://raw.githubusercontent.com/OmarThinks/RabbitMQ_Project/master/images/statistics.png?raw=true"/>
 <br>
-https://github.com/OmarThinks/RabbitMQ_Project/blob/master/images/statistics.png
+
 
 ## Teachnologies used: 
 
 1. Django
 2. Django REST Framework
-3. Celery
-4. RabbitMQ
+3. RabbitMQ
 
 
 
