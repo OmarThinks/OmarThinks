@@ -79,7 +79,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	- ExpressJS, EJS
 	- Mongoose, Sequelize
 	- Mocha, Chai
-	- [Examples](examples/javascript_backend.md)
+	- [Example](https://github.com/OmarThinks/expressjs_mongo_project)
 
 
 - Architecture:
