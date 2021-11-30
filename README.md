@@ -266,6 +266,8 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 ## What am I doing now?  
 I am applying for jobs.  
 And I am adding more skills.  
+I am studying React Native.  
+
 
 
 
