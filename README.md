@@ -13,6 +13,12 @@ Giza, 6th of October city.
 
 
 
+
+### Experiences:
+
+- **Interview Engineer Training at [Karat](https://www.karat.com) until 2021-Nov**
+
+
 # Skills?
 I am a full stack web developer (I Build Websites), and these are my skills:
 
@@ -42,8 +48,9 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 			- Redux
 			- Context
 			- Hooks
-- [Examples](examples/javascript.md)
-
+	- [Examples](examples/javascript.md)
+- React Native
+	- [Example](https://github.com/OmarThinks/react-native-app)
 
 
 
@@ -55,7 +62,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 - Python
-	- Django, Django REST Framework (DRF), django_filter
+	- Django, Django REST Framework, django_filter
 	- Flask, SQLAlchemy, Pydantic 
 	- unittest, pytest
 	- pymongo, redis-py 
@@ -100,8 +107,10 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 ## AWS (Beginner):
 - Amplify
 - Lambda
-- DynamoDB
 - [Examples](examples/aws.md)
+
+
+<!-- DynamoDB -->
 
 
 
@@ -264,9 +273,9 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 ## What am I doing now?  
-I am applying for jobs.  
+I am applying for React Native jobs.  
 And I am adding more skills.  
-I am studying React Native.  
+I am studying React Native Paper, then I am planning to build a project and call it "Cantiin React Native".
 
 
 
@@ -276,7 +285,7 @@ I am studying React Native.
 
 ### Contacts:
 - Linkedin: https://www.linkedin.com/in/omar-magdy-28497a200/
-
+- Facebook: https://www.facebook.com/profile.php?id=100030832995538
 
 ### Thank you for reading :)
 
