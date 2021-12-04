@@ -70,15 +70,11 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	- [Examples](examples/python.md)
 	- [Cantiin.com](https://www.cantiin.com/)
 - PHP
-	- Laravel
-	- Eloquent
-	- Blade
+	- Laravel, Eloquent, Blade
 	- [Example](https://github.com/OmarThinks/Laravel-Project)
 - C#
 	- ASP.NET Core:
-		- NuGet
-		- Razor Pages, MVC, Web API
-		- Blazor
+		- NuGet, Razor Pages, MVC, Web API, Blazor
 		- Entity Framework, Code generator, Identity
 		- [Examples](examples/cs.md)
 - JavaScript
@@ -93,8 +89,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	- RabbitMQ
 	- CircleCI
 	- [Examples](examples/microservices.md)
-
-
 
 
 
