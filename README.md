@@ -269,7 +269,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 ## What am I doing now?  
 I am applying for React Native jobs.  
 And I am adding more skills.  
-I am studying React Native Paper, then I am planning to build a project and call it "Cantiin React Native".
+I am building a project called "Cantiin-React-Native".
 
 
 
