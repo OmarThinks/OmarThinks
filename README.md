@@ -41,6 +41,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 - HTML
 	CSS,
 	BootStrap
+- Google Charts
 - JavaScript
 	- NPM and NodeJS
 		- Axios
