@@ -52,7 +52,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	- [Examples](examples/javascript.md)
 - React Native
 	- React Native Paper
-	- [Example](https://github.com/OmarThinks/Cantiin-React-Native), [Youtube](https://www.youtube.com/watch?v=4nlIVCSuJrw)
+	- [Example](https://github.com/OmarThinks/Cantiin-React-Native), [Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c)
 
 
 
@@ -100,11 +100,14 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
+<!--
+
 ## AWS (Beginner):
 - Amplify
 - Lambda
 - [Examples](examples/aws.md)
 
+-->
 
 <!-- DynamoDB -->
 
@@ -117,12 +120,38 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 - Postman
 - Waterfall and Agile Frameworks
 
-<!--- [Examples](examples/microservices.md)-->
+<!-- [Examples](examples/microservices.md)-->
 
 
 
 
 
+</b>
+
+
+
+
+
+
+
+
+
+## What am I doing now?  
+I am applying for React Native jobs.  
+And I am adding more skills.  
+Learning MaterialUI.
+
+
+
+
+
+
+
+### Contacts:
+- Linkedin: https://www.linkedin.com/in/omar-magdy-28497a200/
+- Facebook: https://www.facebook.com/profile.php?id=100030832995538
+
+### Thank you for reading :)
 
 
 
@@ -231,9 +260,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
-</b>
-
-
 
 
 <!--
@@ -261,29 +287,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 -->
 
 
-
-
-
-
-
-
-
-## What am I doing now?  
-I am applying for React Native jobs.  
-And I am adding more skills.  
-Learning Google Charts.
-
-
-
-
-
-
-
-### Contacts:
-- Linkedin: https://www.linkedin.com/in/omar-magdy-28497a200/
-- Facebook: https://www.facebook.com/profile.php?id=100030832995538
-
-### Thank you for reading :)
 
 
 
