@@ -86,11 +86,11 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	- [Example](https://github.com/OmarThinks/expressjs_mongo_project)
 
 
+
+<!--
+
 - Architecture:
-	- Docker, Docker Compose
-	- RabbitMQ
-	- CircleCI
-	- [Examples](examples/microservices.md)
+-->
 
 
 
@@ -119,6 +119,10 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 - Git, Github
 - Postman
 - Waterfall and Agile Frameworks
+- Docker, Docker Compose
+- RabbitMQ
+- CircleCI
+- [Examples](examples/microservices.md)
 
 <!-- [Examples](examples/microservices.md)-->
 
