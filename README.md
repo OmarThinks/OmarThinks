@@ -72,6 +72,11 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	- pika, celery
 	- [Examples](examples/python.md)
 	- [Cantiin.com](https://www.cantiin.com/)
+
+
+<!--
+
+
 - PHP
 	- Laravel, Eloquent, Blade
 	- [Example](https://github.com/OmarThinks/Laravel-Project)
@@ -85,6 +90,9 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	- Mongoose, Sequelize
 	- Mocha, Chai
 	- [Example](https://github.com/OmarThinks/expressjs_mongo_project)
+
+-->
+
 
 
 
