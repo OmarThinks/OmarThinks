@@ -155,7 +155,7 @@ I am applying for React Native jobs.
 And I am adding more skills.  
 I have just learned Material UI.  
 So currently I am building an application with it.  
-[Canttin-React-MaterialUI](https://github.com/OmarThinks/Canttin-React-MaterialUI)
+[Cantiin-React-MaterialUI](https://github.com/OmarThinks/Cantiin-React-MaterialUI)
 
 
 
