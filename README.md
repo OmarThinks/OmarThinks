@@ -50,15 +50,14 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 			- React-Router-Dom
 			- Material UI
 		- [Example](https://github.com/OmarThinks/Cantiin-React-MaterialUI), [Cantiin-React.com](https://www.cantiin-react.com/), [Youtube](https://www.youtube.com/watch?v=tV87kHBrct0)
-	
-- React Native
-	- React Native Paper
-	- React Navigation
-	- Async Storage
-	- [Example](https://github.com/OmarThinks/Cantiin-React-Native), 
-	[Google Play Store](https://play.google.com/store/apps/details?id=com.cantiinreactnative), 
-	[Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c)
-	
+		- React Native
+			- React Native Paper
+			- React Navigation
+			- Async Storage
+			- [Example](https://github.com/OmarThinks/Cantiin-React-Native), 
+			[Google Play Store](https://play.google.com/store/apps/details?id=com.cantiinreactnative), 
+			[Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c)
+			
 
 
 
