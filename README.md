@@ -154,11 +154,9 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 ## What am I doing now?  
-I am applying for React Native jobs.  
+I am applying for React (Native) jobs.  
 And I am adding more skills.  
-I have just learned Material UI.  
-So currently I am building an application with it.  
-[Cantiin-React-MaterialUI](https://github.com/OmarThinks/Cantiin-React-MaterialUI)
+I am studying [AWS Amplify](https://docs.amplify.aws/) 
 
 
 
