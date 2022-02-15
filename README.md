@@ -42,7 +42,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	CSS,
 	BootStrap
 - Google Charts
-- JavaScript
+- JavaScript & TypeScript
 	- NPM and NodeJS
 		- Axios
 		- React 
@@ -76,6 +76,68 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	- pika, celery
 	- [Examples](examples/python.md)
 	- [Cantiin.com](https://www.cantiin.com/)
+
+
+
+
+
+
+
+## Others:
+- Git, Github
+- Postman
+- Waterfall and Agile Frameworks
+- Docker, Docker Compose
+- RabbitMQ
+- CircleCI
+- [Examples](examples/microservices.md)
+
+<!-- [Examples](examples/microservices.md)-->
+
+
+
+
+
+</b>
+
+
+
+
+
+
+
+
+
+## What am I doing now?  
+I am applying for React (Native) jobs.  
+And I am adding more skills.  
+I am studying Formik.
+
+
+
+
+
+
+
+### Contacts:
+- Linkedin: https://www.linkedin.com/in/omar-magdy-28497a200/
+- Facebook: https://www.facebook.com/profile.php?id=100030832995538
+
+### Thank you for reading :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
@@ -128,47 +190,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
-## Others:
-- Git, Github
-- Postman
-- Waterfall and Agile Frameworks
-- Docker, Docker Compose
-- RabbitMQ
-- CircleCI
-- [Examples](examples/microservices.md)
-
-<!-- [Examples](examples/microservices.md)-->
-
-
-
-
-
-</b>
-
-
-
-
-
-
-
-
-
-## What am I doing now?  
-I am applying for React (Native) jobs.  
-And I am adding more skills.  
-I am stduying TypeScript.
-
-
-
-
-
-
-
-### Contacts:
-- Linkedin: https://www.linkedin.com/in/omar-magdy-28497a200/
-- Facebook: https://www.facebook.com/profile.php?id=100030832995538
-
-### Thank you for reading :)
 
 
 
