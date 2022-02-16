@@ -112,7 +112,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 ## What am I doing now?  
 I am applying for React (Native) jobs.  
 And I am adding more skills.  
-I am studying Formik.
+I am studying NextJS.
 
 
 
