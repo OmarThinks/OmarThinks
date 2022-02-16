@@ -42,13 +42,14 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 	CSS,
 	BootStrap
 - Google Charts
-- JavaScript & TypeScript
+- JavaScript / TypeScript
 	- NPM and NodeJS
 		- Axios
 		- React 
 			- Context, Hooks, Redux
 			- React-Router-Dom
 			- Material UI
+			- Formik, Yup
 		- [Example](https://github.com/OmarThinks/Cantiin-React-MaterialUI), [Cantiin-React.com](https://www.cantiin-react.com/), [Youtube](https://www.youtube.com/watch?v=tV87kHBrct0)
 		- React Native
 			- React Native Paper
