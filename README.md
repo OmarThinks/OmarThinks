@@ -46,7 +46,7 @@ I am a front-end web developer (I Build Websites' Layout), and these are my skil
 	- NPM and NodeJS
 		- Axios
 		- React 
-			- Context, Hooks, Redux
+			- Context, Hooks
 			- React-Router-Dom
 			- Material UI
 			- Formik, Yup
