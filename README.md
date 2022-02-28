@@ -16,11 +16,11 @@ Giza, 6th of October city.
 
 ### Experiences:
 
-- **Interview Engineer Training at [Karat](https://www.karat.com) until 2021-Nov**
+- **Intern Interview Engineer at [Karat](https://www.karat.com) until 2021-Nov**
 
 
 # Skills?
-I am a full stack web developer (I Build Websites), and these are my skills:
+I am a front-end web developer (I Build Websites' Layout), and these are my skills:
 
 
 
@@ -50,6 +50,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 			- React-Router-Dom
 			- Material UI
 			- Formik, Yup
+			- NextJS
 		- [Example](https://github.com/OmarThinks/Cantiin-React-MaterialUI), [Cantiin-React.com](https://www.cantiin-react.com/), [Youtube](https://www.youtube.com/watch?v=tV87kHBrct0)
 		- React Native
 			- React Native Paper
@@ -66,18 +67,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 
 
 
-## Backend:
-
-
-- Python
-	- Django, Django REST Framework, django_filter
-	- Flask, SQLAlchemy, Pydantic 
-	- unittest, pytest
-	- pymongo, redis-py 
-	- pika, celery
-	- [Examples](examples/python.md)
-	- [Cantiin.com](https://www.cantiin.com/)
-
 
 
 
@@ -88,10 +77,6 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 - Git, Github
 - Postman
 - Waterfall and Agile Frameworks
-- Docker, Docker Compose
-- RabbitMQ
-- CircleCI
-- [Examples](examples/microservices.md)
 
 <!-- [Examples](examples/microservices.md)-->
 
@@ -112,7 +97,7 @@ I am a full stack web developer (I Build Websites), and these are my skills:
 ## What am I doing now?  
 I am applying for React (Native) jobs.  
 And I am adding more skills.  
-I am studying NextJS.
+I am studying SWR.
 
 
 
@@ -142,6 +127,45 @@ I am studying NextJS.
 
 
 <!--
+
+
+
+
+
+
+## Backend:
+
+
+- Python
+	- Django, Django REST Framework, django_filter
+	- Flask, SQLAlchemy, Pydantic 
+	- unittest, pytest
+	- pymongo, redis-py 
+	- pika, celery
+	- [Examples](examples/python.md)
+	- [Cantiin.com](https://www.cantiin.com/)
+
+
+
+
+
+## Others:
+- Git, Github
+- Postman
+- Waterfall and Agile Frameworks
+- Docker, Docker Compose
+- RabbitMQ
+- CircleCI
+- [Examples](examples/microservices.md)
+
+
+
+
+
+
+
+
+
 
 
 - PHP
