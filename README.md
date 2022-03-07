@@ -51,7 +51,7 @@ I am a front-end web developer (I Build Websites' Layout), and these are my skil
 			- Material UI
 			- Formik, Yup
 			- NextJS
-		- [Example](https://github.com/OmarThinks/Cantiin-React-MaterialUI), [Cantiin-React.com](https://www.cantiin-react.com/), [Youtube](https://www.youtube.com/watch?v=tV87kHBrct0)
+			- [Example](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [Youtube](https://www.youtube.com/watch?v=sBj2vWlMLfc)
 		- React Native
 			- React Native Paper
 			- React Navigation
