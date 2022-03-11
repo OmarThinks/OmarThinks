@@ -96,8 +96,8 @@ I am a front-end web developer (I Build Websites' Layout), and these are my skil
 
 ## What am I doing now?  
 I am applying for React (Native) jobs.  
-Rebuilding `Cantiin-React-MateruilUI` Project using TypeScript and NextJS.
-
+And I am adding more skills.  
+Currently learning GatsbyJS.
 
 
 
