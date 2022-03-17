@@ -97,7 +97,8 @@ I am a front-end web developer (I Build Websites' Layout), and these are my skil
 ## What am I doing now?  
 I am applying for React (Native) jobs.  
 And I am adding more skills.  
-Currently learning GatsbyJS.
+Currently revising Git.
+Then I am planning to learn GatsbyJS.
 
 
 
