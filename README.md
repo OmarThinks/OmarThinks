@@ -19,6 +19,11 @@ Giza, 6th of October city.
 - **Intern Interview Engineer at [Karat](https://www.karat.com) until 2021-Nov**
 
 
+On-Board: April 2022
+Apprentice: Jun 02, 2022 12:00am UTC (+0000)
+
+
+
 # Skills?
 I am a front-end web developer (I Build Websites' Layout), and these are my skills:
 
@@ -95,9 +100,9 @@ I am a front-end web developer (I Build Websites' Layout), and these are my skil
 
 
 ## What am I doing now?  
-I am applying for React (Native) jobs.  
-And I am adding more skills.  
-Currently studying Redux.
+I am in an internship.  
+And currently, I am styudying C#, I am trying to become ASP.NET developer.  
+https://docs.microsoft.com/en-us/users/omarthinks/
 
 
 
