@@ -101,7 +101,7 @@ I am a front-end web developer (I Build Websites' Layout), and these are my skil
 
 ## What am I doing now?  
 I am in an internship.  
-And currently, I am styudying C#, I am trying to become ASP.NET developer.  
+And currently, I am styudying Django.
 https://docs.microsoft.com/en-us/users/me/achievements
 
 
