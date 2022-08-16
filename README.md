@@ -12,7 +12,7 @@ Giza, 6th of October city.
 
 
 
-
+<!--
 
 ### Experiences:
 
@@ -21,7 +21,7 @@ Giza, 6th of October city.
 
 On-Board: April 2022
 Apprentice: Jun 02, 2022 12:00am UTC (+0000)
-
+-->
 
 
 # Skills?
@@ -98,11 +98,9 @@ I am a front-end web developer (I Build Websites' Layout), and these are my skil
 
 
 
-
 ## What am I doing now?  
-I am in an internship.  
-And currently, I am styudying Django.
-https://docs.microsoft.com/en-us/users/me/achievements
+Thank God, I started a part-time job.  
+And in my free time, I might study more Django.
 
 
 
