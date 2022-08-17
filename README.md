@@ -12,16 +12,67 @@ Giza, 6th of October city.
 
 
 
-<!--
 
 ### Experiences:
 
 - **Intern Interview Engineer at [Karat](https://www.karat.com) until 2021-Nov**
 
+<table>
+
+<tr>
+	<th>Title</th>
+	<th>Job</th>
+	<th>Company</th>
+	<th>From</th>
+	<th>To</th>
+	<th>Duration</th>
+	<th>Notes</th>
+</tr>
+
+
+
+
+<tr>
+	<td>On-Board</td>
+	<td>Interview Engineer</td>
+	<td><a href="https://karat.com/">Karat</a></td>
+	<th>April 2022</th>
+	<th>June 2022</th>
+	<td>2 Months</td>
+	<td>I started the training</td>
+</tr>
+
+
+<tr>
+	<td>Apprentice</td>
+	<td>Interview Engineer</td>
+	<td><a href="https://karat.com/">Karat</a></td>
+	<th>June 2022</th>
+	<th>August 2022</th>
+	<td>2 Months</td>
+	<td>I passed the initial training</td>
+</tr>
+
+
+<tr>
+	<td>Expert</td>
+	<td>Interview Engineer</td>
+	<td><a href="https://karat.com/">Karat</a></td>
+	<th>August 2022</th>
+	<th>Now</th>
+	<td>~</td>
+	<td>I got promoted to Expert and started interviewing</td>
+</tr>
+
+
+
+</table>
+
+
+
 
 On-Board: April 2022
 Apprentice: Jun 02, 2022 12:00am UTC (+0000)
--->
 
 
 # Skills?
@@ -99,8 +150,8 @@ I am a front-end web developer (I Build Websites' Layout), and these are my skil
 
 
 ## What am I doing now?  
-Thank God, I started a part-time job.  
-And in my free time, I might study more Django.
+Thank God, I started working at <a href="https://karat.com/">Karat</a>.  
+And in my free time, I might study more Django.  
 
 
 
