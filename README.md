@@ -15,7 +15,6 @@ Giza, 6th of October city.
 
 ### Experiences:
 
-- **Intern Interview Engineer at [Karat](https://www.karat.com) until 2021-Nov**
 
 <table>
 
@@ -69,10 +68,6 @@ Giza, 6th of October city.
 </table>
 
 
-
-
-On-Board: April 2022
-Apprentice: Jun 02, 2022 12:00am UTC (+0000)
 
 
 # Skills?
