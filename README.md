@@ -11,7 +11,7 @@ Giza, 6th of October city.
 - [Full Stack Web Development Nano Degree](https://graduation.udacity.com/confirm/ELAEXGHP)
 
 
-
+<!--
 
 ### Experiences:
 
@@ -67,7 +67,7 @@ Giza, 6th of October city.
 
 </table>
 
-
+-->
 
 
 # Skills?
@@ -144,9 +144,15 @@ I am a front-end web developer (I Build Websites' Layout), and these are my skil
 
 
 
-## What am I doing now?  
+## What am I doing now?
+
+<!--
+
 Thank God, I started working at <a href="https://karat.com/">Karat</a>.  
-And in my free time, I might study more Django.  
+And in my free time, 
+-->
+
+I might study more Django.  
 
 
 
