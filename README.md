@@ -6,12 +6,7 @@ Giza, 6th of October city.
 
 
 
-### Certificates:
 
-- [Full Stack Web Development Nano Degree](https://graduation.udacity.com/confirm/ELAEXGHP)
-
-
-<!--
 
 ### Experiences:
 
@@ -67,7 +62,6 @@ Giza, 6th of October city.
 
 </table>
 
--->
 
 
 # Skills?
@@ -88,7 +82,7 @@ I am a full stack web developer, and these are my skills:
 
 
 
-## Frontend:
+# Frontend:
 - HTML
 	CSS,
 	BootStrap
@@ -113,7 +107,7 @@ I am a full stack web developer, and these are my skills:
 			
 
 
-## Backend
+# Backend
 
 - Python
 	- Django
@@ -125,17 +119,22 @@ I am a full stack web developer, and these are my skills:
 
 
 
-## Cloud:
+# Cloud (Beginner):
 
-I deply Django applications on:
-- AWS Elastic Bean Stalk
-- Azure App Services
+- AWS (Beginner):
+	- Elastic Beanstalk 
+		- Example:  [Github](https://github.com/OmarThinks/cantiin_django), [Deployment](http://cantiin-dev.us-east-2.elasticbeanstalk.com/)
+- Azure App Services (Biginner)
 
 
 
 
 <!-- [Examples](examples/microservices.md)-->
 
+
+### Certificates:
+
+- [Full Stack Web Development Nano Degree](https://graduation.udacity.com/confirm/ELAEXGHP)
 
 
 
@@ -150,7 +149,7 @@ I deply Django applications on:
 
 
 ## What am I doing now?
-I am applying for Django/React jobs.  
+I have a part-time job at <a href="https://karat.com/">Karat</a>, meanwhile, I am applying for Django/React jobs.  
 And I am revising Django REST Framework.
 
 
