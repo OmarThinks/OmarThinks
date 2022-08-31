@@ -71,7 +71,7 @@ Giza, 6th of October city.
 
 
 # Skills?
-I am a front-end web developer (I Build Websites' Layout), and these are my skills:
+I am a full stack web developer, and these are my skills:
 
 
 
@@ -102,32 +102,37 @@ I am a front-end web developer (I Build Websites' Layout), and these are my skil
 			- Material UI
 			- Formik, Yup
 			- NextJS
-			- [Example](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [Youtube](https://www.youtube.com/watch?v=sBj2vWlMLfc)
+			- Example: [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [Youtube](https://www.youtube.com/watch?v=sBj2vWlMLfc)
 		- React Native
 			- React Native Paper
 			- React Navigation
 			- Async Storage
-			- [Example](https://github.com/OmarThinks/Cantiin-React-Native), 
+			- Example: [Github](https://github.com/OmarThinks/Cantiin-React-Native), 
 			[Google Play Store](https://play.google.com/store/apps/details?id=com.cantiinreactnative), 
 			[Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c)
 			
 
 
+## Backend
+
+- Python
+	- Django
+	- Django REST Framework
+	- Example: [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [Youtube](https://www.youtube.com/watch?v=4RjUJZSEsS0)
 
 
 
 
 
 
+## Cloud:
+
+I deply Django applications on:
+- AWS Elastic Bean Stalk
+- Azure App Services
 
 
 
-
-
-## Others:
-- Git, Github
-- Postman
-- Waterfall and Agile Frameworks
 
 <!-- [Examples](examples/microservices.md)-->
 
@@ -145,6 +150,10 @@ I am a front-end web developer (I Build Websites' Layout), and these are my skil
 
 
 ## What am I doing now?
+I am applying for Django/React jobs.  
+And I am revising Django REST Framework.
+
+
 
 <!--
 
@@ -152,7 +161,6 @@ Thank God, I started working at <a href="https://karat.com/">Karat</a>.
 And in my free time, 
 -->
 
-I might study more Django.  
 
 
 
