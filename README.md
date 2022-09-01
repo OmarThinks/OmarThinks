@@ -112,7 +112,7 @@ I am a full stack web developer, and these are my skills:
 - Python
 	- Django
 	- Django REST Framework
-	- Example: [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [Youtube](https://www.youtube.com/watch?v=4RjUJZSEsS0)
+	- Example: [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/)
 
 
 
