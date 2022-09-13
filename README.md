@@ -150,7 +150,7 @@ I am a full stack web developer, and these are my skills:
 
 ## What am I doing now?
 I have a part-time job at <a href="https://karat.com/">Karat</a>, meanwhile, I am applying for Django/React jobs.  
-And I am revising Django REST Framework.
+And I am revising frontend.
 
 
 
