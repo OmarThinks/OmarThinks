@@ -96,11 +96,16 @@ I am a full stack web developer, and these are my skills:
 			- Material UI
 			- Formik, Yup
 			- NextJS
+			- SWR
 			- Example: [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [Youtube](https://www.youtube.com/watch?v=sBj2vWlMLfc)
+		- Redux
+			- Redux Toolkit
+			- Redux Thunk
 		- React Native
 			- React Native Paper
 			- React Navigation
 			- Async Storage
+			- Note: I am using [Windows](pc.md)
 			- Example: [Github](https://github.com/OmarThinks/Cantiin-React-Native), 
 			[Google Play Store](https://play.google.com/store/apps/details?id=com.cantiinreactnative), 
 			[Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c)
@@ -125,6 +130,19 @@ I am a full stack web developer, and these are my skills:
 	- Elastic Beanstalk 
 		- Example:  [Github](https://github.com/OmarThinks/cantiin_django), [Deployment](http://cantiin-dev.us-east-2.elasticbeanstalk.com/)
 - Azure App Services (Biginner)
+
+
+
+## PC Specifications:
+
+Here are the [details](pc.md).
+
+
+
+
+
+
+
 
 
 
