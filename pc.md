@@ -1,6 +1,6 @@
 # My PC Specifications:
 
-- Opertaing System: Windows 11
+- Operating System: Windows 11
 - CPU: intel i5 10400
 - RAM: 16 GB (and I can add more RAM if necessary)
 - Max RAM (That the mother-board can handle): 128 GB
