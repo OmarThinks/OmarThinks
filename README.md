@@ -168,7 +168,7 @@ Here are the [details](pc.md).
 
 ## What am I doing now?
 I have a part-time job at <a href="https://karat.com/">Karat</a>, meanwhile, I am applying for Django/React jobs.  
-And I am studying RTK Query.
+And I am revising TypeScript.
 
 
 
