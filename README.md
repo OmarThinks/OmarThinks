@@ -92,7 +92,7 @@ I am a full stack web developer, and these are my skills:
 		- Axios
 		- React 
 			- Context, Hooks
-			- React-Router-Dom
+			- React Router
 			- Material UI
 			- Formik, Yup
 			- NextJS
@@ -185,7 +185,6 @@ And in my free time,
 
 ### Contacts:
 - Linkedin: https://www.linkedin.com/in/omar-magdy-28497a200/
-- Facebook: https://www.facebook.com/profile.php?id=100030832995538
 
 ### Thank you for reading :)
 
