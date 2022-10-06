@@ -65,7 +65,7 @@ Giza, 6th of October city.
 
 
 # Skills?
-I am a full stack web developer, and these are my skills:
+I am a React developer, and these are my skills:
 
 
 
@@ -103,7 +103,6 @@ I am a full stack web developer, and these are my skills:
 			- Redux Thunk
 		- React Native
 			- React Native Paper
-			- React Navigation
 			- Async Storage
 			- Note: I am using [Windows](pc.md)
 			- Example: [Github](https://github.com/OmarThinks/Cantiin-React-Native), 
@@ -167,8 +166,8 @@ Here are the [details](pc.md).
 
 
 ## What am I doing now?
-I have a part-time job at <a href="https://karat.com/">Karat</a>, meanwhile, I am applying for Django/React jobs.  
-And I am revising TypeScript.
+I have a part-time job at <a href="https://karat.com/">Karat</a>, meanwhile, I am applying for React jobs.  
+And I am studying RTK Query.
 
 
 
