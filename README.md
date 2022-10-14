@@ -99,8 +99,9 @@ I am a React developer, and these are my skills:
 			- SWR
 			- Example: [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [Youtube](https://www.youtube.com/watch?v=sBj2vWlMLfc)
 		- Redux
-			- Redux Toolkit
+			- Redux Toolkit (RTK), RTK Query
 			- Redux Thunk
+			- Redux Saga
 		- React Native
 			- React Native Paper
 			- Async Storage
@@ -167,7 +168,7 @@ Here are the [details](pc.md).
 
 ## What am I doing now?
 I have a part-time job at <a href="https://karat.com/">Karat</a>, meanwhile, I am applying for React jobs.  
-And I am studying RTK Query.
+And I am [building an example with Redux](https://github.com/OmarThinks/Cantiin-Redux).
 
 
 
