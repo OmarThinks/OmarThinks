@@ -166,9 +166,14 @@ Here are the [details](pc.md).
 
 
 ## What am I doing now?
-I have a part-time job at <a href="https://karat.com/">Karat</a>, meanwhile, I am applying for React jobs.  
-And I am [building an example with Redux](https://github.com/OmarThinks/Cantiin-Redux).
+I have a part-time job at <a href="https://karat.com/">Karat</a>, meanwhile.
 
+
+<!--
+
+, I am applying for React jobs.  
+And I am [building an example with Redux](https://github.com/OmarThinks/Cantiin-Redux).
+-->
 
 
 <!--
