@@ -101,7 +101,6 @@ I am a React developer, and these are my skills:
 		- Redux
 			- Redux Toolkit (RTK), RTK Query
 			- Redux Thunk
-			- Redux Saga
 		- React Native
 			- React Native Paper
 			- Async Storage
