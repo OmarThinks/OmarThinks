@@ -166,7 +166,7 @@ Here are the [details](pc.md).
 
 
 ## What am I doing now?
-I have a part-time job at <a href="https://karat.com/">Karat</a>, meanwhile.
+I have a part-time job at <a href="https://karat.com/">Karat</a>, meanwhile I am learing testing.
 
 
 <!--
