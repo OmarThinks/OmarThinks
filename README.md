@@ -8,9 +8,242 @@ Giza, 6th of October city.
 
 
 
-### Experiences:
+## Education:
+
+- I Graduated from the **College of Engineering**, Helwan university, 
+Mattaria branch, Civil Engineering department in June 2018. I scored Good. And scored Excellent for the graduation project 
+which specialized in Surveying and Remote Sensing.
+- **[Full Stack Web Development Nano Degree](https://graduation.udacity.com/confirm/ELAEXGHP)**
 
 
+
+
+## Experiences:
+
+- **Interview Engineer at <a href="https://karat.com/">Karat</a>.** (From April 2022 until now)
+	- **Job Description**: I interview Software Developers technically, 
+	and evaluate the code they write during the coding section 
+	according to Data Structures, Algorithms, and Time and Space 
+	complexities.
+
+
+
+
+
+
+# Skills
+I am a React developer, and these are my skills:
+
+
+<b>
+
+
+### Programming Languages:
+- Python
+- JavaScript
+- TypeScript
+
+
+
+### Frontend:
+
+
+- HTML, CSS
+- React, React Router, MaterialUI, Formik, Yup, SWR
+- React Native, React Native Paper, Async Storage
+- Redux, Redux Toolkit (RTK), RTK Query, Redux Thunk
+- NextJS
+
+
+### Backend:
+
+- Django, Django REST Framework
+
+### Cloud (Beginner):
+- AWS Elastic Beanstalk (Beginner)
+- Azure App Services (Beginner)
+
+
+
+
+</b>
+
+
+### PC Specifications:
+
+
+- **PC Build, Windows 11**, CPU i5 10400, RAM 16GB (Motherboard's max 128GB), 
+500 GB SSD, 22 inches screen, UPS
+- [More Details](pc.md)
+
+
+
+
+
+
+# Projects:
+
+
+
+
+### React Project ([Cantiin-React.com](https://www.cantiin-react.com/)):
+- **Description**: A React project that renders data from a [RESTful API](https://www.cantiin.com/api/) backend.
+- **Technologies used: React, NextJS, MaterialUI, Formik, Yup, AWS Amplify (Frontend Only)**
+- **Links: [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [Youtube](https://www.youtube.com/watch?v=sBj2vWlMLfc)**
+
+
+
+
+
+### React Native Project ([Cantiin React Native](https://github.com/OmarThinks/Cantiin-React-Native)):
+- **Description**: An android application that is built using React Native, and renders data from a [RESTful API](https://www.cantiin.com/api/) backend.
+- **Technologies used: React Native, React Native Paper, Async Storge**
+- **Links: [Github](https://github.com/OmarThinks/Cantiin-React-Native), [Google Play Store](https://play.google.com/store/apps/details?id=com.cantiinreactnative), [Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c)**
+
+
+
+
+
+
+
+### Django Project ([Cantiin.com](https://www.cantiin.com/)):
+- **Description**: A backend project for a small ecommerce website that 
+has a [RESTful API](https://www.cantiin.com/api/) with authentication 
+and permissions.
+- **Technologies used: Django, Django REST Framework, Django Filter, CircleCI**
+- **Links: [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [RESTful API](https://www.cantiin.com/api/)**
+
+
+
+
+
+
+
+
+<!-- [Examples](examples/microservices.md)-->
+
+
+
+
+
+
+
+
+
+
+
+
+## What am I doing now?
+I have a part-time job at <a href="https://karat.com/">Karat</a>, meanwhile I am studying Jest.
+
+
+
+
+
+
+
+
+### Contacts:
+- Linkedin: https://www.linkedin.com/in/omar-magdy-28497a200/
+
+### Thank you for reading :)
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+
+
+
+
+# Frontend:
+
+- HTML
+	CSS,
+	BootStrap
+- Google Charts
+- JavaScript / TypeScript
+	- NPM and NodeJS
+		- Axios
+		- React 
+			- Context, Hooks
+			- React Router
+			- Material UI
+			- Formik, Yup
+			- NextJS
+			- SWR
+			- Example: [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [Youtube](https://www.youtube.com/watch?v=sBj2vWlMLfc)
+		- Redux
+			- Redux Toolkit (RTK), RTK Query
+			- Redux Thunk
+		- React Native
+			- React Native Paper
+			- Async Storage
+			- Note: I am using [Windows](pc.md)
+			- Example: [Github](https://github.com/OmarThinks/Cantiin-React-Native), 
+			[Google Play Store](https://play.google.com/store/apps/details?id=com.cantiinreactnative), 
+			[Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c)
+			
+
+
+# Backend
+
+- Python
+	- Django
+	- Django REST Framework
+	- Example: [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [Browsable API](https://www.cantiin.com/api/)
+
+
+
+
+
+
+# Cloud (Beginner):
+
+- AWS (Beginner):
+	- Elastic Beanstalk 
+		- Example:  [Github](https://github.com/OmarThinks/cantiin_django), [Deployment](http://cantiin-dev.us-east-2.elasticbeanstalk.com/)
+- Azure App Services (Biginner)
+
+
+
+
+
+
+
+
+, I am applying for React jobs.  
+And I am [building an example with Redux](https://github.com/OmarThinks/Cantiin-Redux).
+-->
+
+
+<!--
+
+Thank God, I started working at <a href="https://karat.com/">Karat</a>.  
+And in my free time, 
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 <table>
 
 <tr>
@@ -61,146 +294,7 @@ Giza, 6th of October city.
 
 
 </table>
-
-
-
-# Skills?
-I am a React developer, and these are my skills:
-
-
-
-
-<b>
-
-
-
-
-
-
-
-
-
-
-
-# Frontend:
-- HTML
-	CSS,
-	BootStrap
-- Google Charts
-- JavaScript / TypeScript
-	- NPM and NodeJS
-		- Axios
-		- React 
-			- Context, Hooks
-			- React Router
-			- Material UI
-			- Formik, Yup
-			- NextJS
-			- SWR
-			- Example: [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [Youtube](https://www.youtube.com/watch?v=sBj2vWlMLfc)
-		- Redux
-			- Redux Toolkit (RTK), RTK Query
-			- Redux Thunk
-		- React Native
-			- React Native Paper
-			- Async Storage
-			- Note: I am using [Windows](pc.md)
-			- Example: [Github](https://github.com/OmarThinks/Cantiin-React-Native), 
-			[Google Play Store](https://play.google.com/store/apps/details?id=com.cantiinreactnative), 
-			[Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c)
-			
-
-
-# Backend
-
-- Python
-	- Django
-	- Django REST Framework
-	- Example: [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [Browsable API](https://www.cantiin.com/api/)
-
-
-
-
-
-
-# Cloud (Beginner):
-
-- AWS (Beginner):
-	- Elastic Beanstalk 
-		- Example:  [Github](https://github.com/OmarThinks/cantiin_django), [Deployment](http://cantiin-dev.us-east-2.elasticbeanstalk.com/)
-- Azure App Services (Biginner)
-
-
-
-## PC Specifications:
-
-Here are the [details](pc.md).
-
-
-
-
-
-
-
-
-
-
-
-<!-- [Examples](examples/microservices.md)-->
-
-
-### Certificates:
-
-- [Full Stack Web Development Nano Degree](https://graduation.udacity.com/confirm/ELAEXGHP)
-
-
-
-
-</b>
-
-
-
-
-
-
-
-
-## What am I doing now?
-I have a part-time job at <a href="https://karat.com/">Karat</a>, meanwhile I am learing testing.
-
-
-<!--
-
-, I am applying for React jobs.  
-And I am [building an example with Redux](https://github.com/OmarThinks/Cantiin-Redux).
 -->
-
-
-<!--
-
-Thank God, I started working at <a href="https://karat.com/">Karat</a>.  
-And in my free time, 
--->
-
-
-
-
-
-
-### Contacts:
-- Linkedin: https://www.linkedin.com/in/omar-magdy-28497a200/
-
-### Thank you for reading :)
-
-
-
-
-
-
-
-
-
-
 
 
 
