@@ -55,7 +55,7 @@ Giza, 6th of October city.
 	<th>August 2022</th>
 	<th>Now</th>
 	<td>~</td>
-	<td>I got promoted to Expert and started interviewing</td>
+	<td>I got promoted to Expert and started interviewing Software Developers</td>
 </tr>
 
 
