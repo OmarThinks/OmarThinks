@@ -97,7 +97,7 @@ I am a React developer, and these are my skills:
 
 ### React Native Project ([Cantiin React Native](https://github.com/OmarThinks/Cantiin-React-Native)):
 - **Description**: An android application that is built using React Native, and renders data from a [RESTful API](https://www.cantiin.com/api/) backend.
-- **Technologies used: React Native, React Native Paper, Async Storge**
+- **Technologies used: React Native, React Native Paper, Async Storage**
 - **Links: [Github](https://github.com/OmarThinks/Cantiin-React-Native), [Google Play Store](https://play.google.com/store/apps/details?id=com.cantiinreactnative), [Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c)**
 
 
@@ -110,7 +110,7 @@ I am a React developer, and these are my skills:
 - **Description**: A backend project for a small ecommerce website that 
 has a [RESTful API](https://www.cantiin.com/api/) with authentication 
 and permissions.
-- **Technologies used: Django, Django REST Framework, Django Filter, CircleCI**
+- **Technologies used: Django, Django REST Framework, Django Filter, CircleCI, AWS Elastic Beanstalk**
 - **Links: [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [RESTful API](https://www.cantiin.com/api/)**
 
 
@@ -139,14 +139,6 @@ I have a part-time job at <a href="https://karat.com/">Karat</a>, meanwhile I am
 
 
 
-
-
-
-
-### Contacts:
-- Linkedin: https://www.linkedin.com/in/omar-magdy-28497a200/
-
-### Thank you for reading :)
 
 
 
@@ -548,3 +540,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
+### Contacts:
+- Linkedin: https://www.linkedin.com/in/omar-magdy-28497a200/
+
+### Thank you for reading :)
+
