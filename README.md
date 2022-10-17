@@ -69,12 +69,7 @@ I am a React developer, and these are my skills:
 </b>
 
 
-### PC Specifications:
 
-
-- **PC Build, Windows 11**, CPU i5 10400, RAM 16GB (Motherboard's max 128GB), 
-500 GB SSD, 22 inches screen, UPS
-- [More Details](pc.md)
 
 
 
@@ -116,6 +111,15 @@ and permissions.
 
 
 
+
+
+
+### PC Specifications:
+
+
+- **PC Build, Windows 11**, CPU i5 10400, RAM 16GB (Motherboard's max 128GB), 
+500 GB SSD, 22 inches screen, UPS
+- [More Details](pc.md)
 
 
 
