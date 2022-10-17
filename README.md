@@ -110,7 +110,7 @@ I am a React developer, and these are my skills:
 - **Description**: A backend project for a small ecommerce website that 
 has a [RESTful API](https://www.cantiin.com/api/) with authentication 
 and permissions.
-- **Technologies used: Django, Django REST Framework, Django Filter, CircleCI, AWS Elastic Beanstalk**
+- **Technologies used: Django, Django REST Framework, Django Filter, CircleCI**
 - **Links: [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [RESTful API](https://www.cantiin.com/api/)**
 
 
