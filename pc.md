@@ -6,7 +6,7 @@
 - RAM: 16 GB (and I can add more RAM if necessary)
 - Max RAM (That the mother-board can handle): 128 GB
 - Hard: 500 GB SSD (I can add more memory if necessary)
-- Screen: (22 or 24) inches (Not sure)
+- Screen: 22 inches
 - I use UPS (Uninterruptible Power Supply)
 
 # About React Native:
