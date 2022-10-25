@@ -1,11 +1,14 @@
 Hi there 👋! My name is Omar Magdy, I live in Egypt,
 Giza, 6th of October city.
 
-## Education:
+## Certificates:
 
+<!--
 - I Graduated from the **College of Engineering**, Helwan university,
   Mattaria branch, Civil Engineering department in June 2018. I scored Good. And scored Excellent for the graduation project
   which specialized in Surveying and Remote Sensing.
+-->
+
 - **[Full Stack Web Development Nano Degree](https://graduation.udacity.com/confirm/ELAEXGHP)**
 
 ## Experiences:
