@@ -404,5 +404,6 @@ Here are some ideas to get you started:
 ### Contacts:
 
 - Linkedin: https://www.linkedin.com/in/omar-magdy-28497a200/
+- Facebook: https://www.facebook.com/profile.php?id=100030832995538
 
 ### Thank you for reading :)
