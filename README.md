@@ -32,7 +32,7 @@ I am a React developer, and these are my skills:
 
   - HTML, CSS
   - React, React Router, MaterialUI, Formik, Yup, SWR
-  - React Native, React Native Paper, Async Storage
+  - React Native, React Navigation, React Native Paper, Async Storage
   - Redux, Redux Toolkit (RTK), RTK Query, Redux Thunk
   - NextJS
 
@@ -48,28 +48,28 @@ I am a React developer, and these are my skills:
 
 # Projects:
 
-- **React Project ([Cantiin-React.com](https://www.cantiin-react.com/)):**
+- React Project ([Cantiin-React.com](https://www.cantiin-react.com/)):
 
-  - **Description**: A React project that renders data from a [RESTful API](https://www.cantiin.com/api/) backend.
-  - **Technologies used: React, NextJS, MaterialUI, Formik, Yup, AWS Amplify (Frontend Only)**
-  - **Links: [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [Youtube](https://www.youtube.com/watch?v=sBj2vWlMLfc)**
+  - Description: A React project that renders data from a [RESTful API](https://www.cantiin.com/api/) backend.
+  - Technologies used: React, NextJS, MaterialUI, Formik, Yup, AWS Amplify (Frontend Only)
+  - Links: [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [Youtube](https://www.youtube.com/watch?v=sBj2vWlMLfc)
 
-- **React Native Project ([Cantiin React Native](https://github.com/OmarThinks/Cantiin-React-Native)):**
+- React Native Project ([Cantiin React Native](https://github.com/OmarThinks/Cantiin-React-Native)):
 
-  - **Description**: An android application that is built using React Native, and renders data from a [RESTful API](https://www.cantiin.com/api/) backend.
-  - **Technologies used: React Native, React Native Paper, Async Storage**
-  - **Links: [Github](https://github.com/OmarThinks/Cantiin-React-Native), [Google Play Store](https://play.google.com/store/apps/details?id=com.cantiinreactnative), [Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c)**
+  - Description: An android application that is built using React Native, and renders data from a [RESTful API](https://www.cantiin.com/api/) backend.
+  - Technologies used: React Native, React Native Paper, Async Storage
+  - Links: [Github](https://github.com/OmarThinks/Cantiin-React-Native), [Google Play Store](https://play.google.com/store/apps/details?id=com.cantiinreactnative), [Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c)
 
-- **Django Project ([Cantiin.com](https://www.cantiin.com/)):**
-  - **Description**: A backend project for a small ecommerce website that
+- Django Project ([Cantiin.com](https://www.cantiin.com/)):
+  - Description: A backend project for a small ecommerce website that
     has a [RESTful API](https://www.cantiin.com/api/) with authentication
     and permissions.
-  - **Technologies used: Django, Django REST Framework, Django Filter, CircleCI**
-  - **Links: [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [RESTful API](https://www.cantiin.com/api/)**
+  - Technologies used: Django, Django REST Framework, Django Filter, CircleCI
+  - Links: [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [RESTful API](https://www.cantiin.com/api/)
 
 ### PC Specifications:
 
-- **PC Build, Windows 11**, CPU i5 10400, RAM 16GB (Motherboard's max 128GB),
+- PC Build, Windows 11, CPU i5 10400, RAM 16GB (Motherboard's max 128GB),
   500 GB SSD, 22 inches screen, UPS
 - [More Details](pc.md)
 
