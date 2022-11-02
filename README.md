@@ -24,8 +24,8 @@ I am a React developer, and these are my skills:
 
 - Languages:
 
-  - Arabic: Native
   - English: Professional
+  - Arabic: Native
   - German: Beginner
 
 - Programming Languages:
