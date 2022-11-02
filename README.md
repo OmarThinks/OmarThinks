@@ -22,6 +22,12 @@ I am a React developer, and these are my skills:
 
 <b>
 
+- Languages:
+
+  - Arabic: Native
+  - English: Professional
+  - German: Beginner
+
 - Programming Languages:
 
   - JavaScript
