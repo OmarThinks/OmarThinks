@@ -83,7 +83,7 @@ I am a React developer, and these are my skills:
 
 ## What am I doing now?
 
-I have a part-time job at <a href="https://karat.com/">Karat</a>, meanwhile I am studying Jest.
+I have a part-time job at <a href="https://karat.com/">Karat</a>, meanwhile I am studying ASP.NET.
 
 <!--
 
