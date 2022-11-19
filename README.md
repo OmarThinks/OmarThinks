@@ -8,6 +8,8 @@ Giza, 6th of October city.
   which specialized in Surveying and Remote Sensing.
 - **[Full Stack Web Development Nano Degree](https://graduation.udacity.com/confirm/ELAEXGHP)**
 
+- **Military Service**: Completed. One year. From 1st of June 2019 until 1st of June 2020.
+
 ## Experiences:
 
 - **Interview Engineer at <a href="https://karat.com/">Karat</a>.** (From April 2022 until now)
