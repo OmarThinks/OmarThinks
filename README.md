@@ -8,7 +8,7 @@ Giza, 6th of October city.
   which specialized in Surveying and Remote Sensing.
 - **[Full Stack Web Development Nano Degree](https://graduation.udacity.com/confirm/ELAEXGHP)**
 
-- **Military Service**: Completed. One year. From 1st of June 2019 until 1st of June 2020.
+- **Military Service**: Completed. From May 2019 until June 2020 (One year of military service + 1 month of training center).
 
 ## Experiences:
 
@@ -56,24 +56,30 @@ I am a React developer, and these are my skills:
 
 # Projects:
 
-- React Project ([Cantiin-React.com](https://www.cantiin-react.com/)):
+1. **[Pokemon React Native](https://github.com/OmarThinks/Pokemon-React-Native)**:
 
-  - Description: A React project that renders data from a [RESTful API](https://www.cantiin.com/api/) backend.
-  - Technologies used: React, NextJS, MaterialUI, Formik, Yup, AWS Amplify (Frontend Only)
-  - Links: [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [Youtube](https://www.youtube.com/watch?v=sBj2vWlMLfc)
+   - Description: An android application that is built using React Native, and renders data from Pokemon API backend, while implementing a Figma Design.
+   - Technologies used: React Native, React Native Paper, Redux ToolKit, RTK Query
+   - Links: [GitHub Repo](https://github.com/OmarThinks/Pokemon-React-Native), [Youtube](https://www.youtube.com/watch?v=iATI7d0WdeI), [Pokemon API](https://pokeapi.co/docs/v2), [Figma Design](https://www.figma.com/community/file/1169058964714403349)
 
-- React Native Project ([Cantiin React Native](https://github.com/OmarThinks/Cantiin-React-Native)):
+2. React Project ([Cantiin-React.com](https://www.cantiin-react.com/)):
 
-  - Description: An android application that is built using React Native, and renders data from a [RESTful API](https://www.cantiin.com/api/) backend.
-  - Technologies used: React Native, React Native Paper, Async Storage
-  - Links: [Github](https://github.com/OmarThinks/Cantiin-React-Native), [Google Play Store](https://play.google.com/store/apps/details?id=com.cantiinreactnative), [Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c)
+   - Description: A React project that renders data from a RESTful API backend.
+   - Technologies used: React, NextJS, MaterialUI, Formik, Yup, AWS Amplify (Frontend Only)
+   - Links: [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [Youtube](https://www.youtube.com/watch?v=sBj2vWlMLfc), [RESTful API](https://www.cantiin.com/api/)
 
-- Django Project ([Cantiin.com](https://www.cantiin.com/)):
-  - Description: A backend project for a small ecommerce website that
-    has a [RESTful API](https://www.cantiin.com/api/) with authentication
-    and permissions.
-  - Technologies used: Django, Django REST Framework, Django Filter, CircleCI
-  - Links: [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [RESTful API](https://www.cantiin.com/api/)
+3. React Native Project ([Cantiin React Native](https://github.com/OmarThinks/Cantiin-React-Native)):
+
+   - Description: An android application that is built using React Native, and renders data from a [RESTful API](https://www.cantiin.com/api/) backend.
+   - Technologies used: React Native, React Native Paper, Async Storage
+   - Links: [Github](https://github.com/OmarThinks/Cantiin-React-Native), [Google Play Store](https://play.google.com/store/apps/details?id=com.cantiinreactnative), [Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c)
+
+4. Django Project ([Cantiin.com](https://www.cantiin.com/)):
+   - Description: A backend project for a small ecommerce website that
+     has a [RESTful API](https://www.cantiin.com/api/) with authentication
+     and permissions.
+   - Technologies used: Django, Django REST Framework, Django Filter, CircleCI
+   - Links: [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [RESTful API](https://www.cantiin.com/api/)
 
 ### PC Specifications:
 
