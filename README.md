@@ -43,6 +43,7 @@ I am a React developer, and these are my skills:
   - React Native, React Navigation, React Native Paper, Async Storage
   - Redux, Redux Toolkit (RTK), RTK Query, Redux Thunk
   - NextJS
+  - React Native Maps
 
 - Backend:
 
