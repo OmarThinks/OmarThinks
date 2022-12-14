@@ -44,6 +44,7 @@ I am a React developer, and these are my skills:
   - Redux, Redux Toolkit (RTK), RTK Query, Redux Thunk
   - NextJS
   - React Native Maps, React Native Maps Directions
+  - GraphQL
 
 - Backend:
 
@@ -99,7 +100,7 @@ I am a React developer, and these are my skills:
 ## What am I doing now?
 
 I have a part-time job at <a href="https://karat.com/">Karat</a>.  
-Meanwhile, I am adding more skills.
+Meanwhile, I am adding more skills. I am learning about Relay.
 
 <!--
 
