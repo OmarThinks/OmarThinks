@@ -122,8 +122,10 @@ I am a React developer, and these are my skills:
 
 ## What am I doing now?
 
-I have a part-time job at <a href="https://karat.com/">Karat</a>.  
-Meanwhile, I am adding more skills. I am learning about Relay.
+Thank God, I have 2 jobs now:
+
+1. React Native developer at <a href="https://vekelz.com/">Vekelz</a> - Full time
+2. Interview engineer at <a href="https://karat.com/">Karat</a> - Contract
 
 <!--
 
@@ -451,5 +453,6 @@ Here are some ideas to get you started:
 
 - Linkedin: https://www.linkedin.com/in/omar-magdy-28497a200/
 - Facebook: https://www.facebook.com/profile.php?id=100030832995538
+- Twitter: https://twitter.com/OmarThinks_ 
 
 ### Thank you for reading :)
