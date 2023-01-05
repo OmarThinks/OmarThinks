@@ -453,6 +453,6 @@ Here are some ideas to get you started:
 
 - Linkedin: https://www.linkedin.com/in/omar-magdy-28497a200/
 - Facebook: https://www.facebook.com/profile.php?id=100030832995538
-- Twitter: https://twitter.com/Omar__Thinks
+- Twitter: https://twitter.com/_OmarThinks
 
 ### Thank you for reading :)
