@@ -22,14 +22,14 @@ Giza, 6th of October city.
 
 <tr>
 <td>Interview Engineer <sup>[1]</sup></td>
-<td><a href="https://www.vekelz.com/">Vekelz</a></td>
+<td><a href="https://karat.com/">Karat</a></td>
 <td>April 2022</td>
 <td>Now</td>
 </tr>
 
 <tr>
 <td>React Native Developer</td>
-<td><a href="https://karat.com/">Karat</a></td>
+<td><a href="https://www.vekelz.com/">Vekelz</a></td>
 <td>17th of December 2022</td>
 <td>Now</td>
 </tr>
