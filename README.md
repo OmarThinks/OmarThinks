@@ -47,18 +47,6 @@ I am a React developer, and these are my skills:
 
 <b>
 
-- Languages:
-
-  - English: Professional
-  - Arabic: Native
-  - German: Beginner
-
-- Programming Languages:
-
-  - JavaScript
-  - TypeScript
-  - Python
-
 - Frontend:
 
   - HTML, CSS
@@ -66,6 +54,7 @@ I am a React developer, and these are my skills:
   - React Native, React Navigation, React Native Paper, Async Storage
   - Redux, Redux Toolkit (RTK), RTK Query, Redux Thunk
   - NextJS
+  - Tailwind CSS, NativeWind
   - React Native Maps, React Native Maps Directions
   - GraphQL
 
@@ -74,8 +63,21 @@ I am a React developer, and these are my skills:
   - Django, Django REST Framework
 
 - Cloud (Beginner):
+
   - AWS Elastic Beanstalk (Beginner)
   - Azure App Services (Beginner)
+
+- Programming Languages:
+
+  - JavaScript
+  - TypeScript
+  - Python
+
+- Languages:
+
+  - English: Professional
+  - Arabic: Native
+  - German: Beginner
 
 </b>
 
@@ -127,7 +129,7 @@ Thank God, I have 2 jobs now:
 1. React Native developer at <a href="https://vekelz.com/">Vekelz</a> - Full time
 2. Interview engineer at <a href="https://karat.com/">Karat</a> - Contract
 
-In my free time, I am learning: TailwindCSS and NativeWind
+In my free time, I am learning: Animations.
 
 <!--
 
