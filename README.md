@@ -51,7 +51,7 @@ I am a React developer, and these are my skills:
 
   - HTML, CSS
   - React, React Router, MaterialUI, Formik, Yup, SWR
-  - React Native, React Navigation, React Native Paper, Async Storage
+  - React Native, React Navigation, React Native Paper, Async Storage, React Native Reanimated
   - Redux, Redux Toolkit (RTK), RTK Query, Redux Thunk
   - NextJS
   - Tailwind CSS, NativeWind
