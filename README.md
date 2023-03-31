@@ -129,7 +129,7 @@ Thank God, I have 2 jobs now:
 1. React Native developer at <a href="https://vekelz.com/">Vekelz</a> - Full time
 2. Interview engineer at <a href="https://karat.com/">Karat</a> - Contract
 
-In my free time, I am learning: Animations.
+In my free time, I am revising JavaScript, TypeScript and React.
 
 <!--
 
