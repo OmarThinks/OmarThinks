@@ -56,6 +56,7 @@ I am a React developer, and these are my skills:
   - NextJS
   - Tailwind CSS, NativeWind
   - React Native Maps, React Native Maps Directions
+  - Jest
   - GraphQL
 
 - Backend:
