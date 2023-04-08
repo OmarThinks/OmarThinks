@@ -50,9 +50,10 @@ I am a React developer, and these are my skills:
 - Frontend:
 
   - HTML, CSS
-  - React, React Router, MaterialUI, Formik, Yup, SWR
+  - React, React Router, MaterialUI, Formik, Yup
   - React Native, React Navigation, React Native Paper, Async Storage, React Native Reanimated, React Native Material
-  - Redux, Redux Toolkit (RTK), RTK Query, Redux Thunk
+  - Redux, Redux Toolkit (RTK), Redux Thunk
+  - RTK Query, SWR
   - NextJS
   - Tailwind CSS, NativeWind
   - React Native Maps, React Native Maps Directions
@@ -458,6 +459,5 @@ Here are some ideas to get you started:
 
 - Linkedin: https://www.linkedin.com/in/omar-magdy-28497a200/
 - Facebook: https://www.facebook.com/profile.php?id=100030832995538
-- Twitter: https://twitter.com/_OmarThinks
 
 ### Thank you for reading :)
