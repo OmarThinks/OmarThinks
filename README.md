@@ -50,12 +50,12 @@ I am a React developer, and these are my skills:
 - Frontend:
 
   - HTML, CSS
-  - React, React Router, MaterialUI, Formik, Yup
-  - React Native, React Navigation, React Native Paper, Async Storage, React Native Reanimated, React Native Material
+  - React, React Router, MaterialUI, Formik
+  - React Native, React Navigation, React Native Paper, Async Storage, React Native Reanimated
   - Redux, Redux Toolkit (RTK), Redux Thunk
-  - RTK Query, SWR
+  - Axios, React Query, RTK Query, SWR
   - NextJS
-  - Tailwind CSS, NativeWind
+  - TailwindCSS
   - React Native Maps, React Native Maps Directions
   - Jest
   - GraphQL
