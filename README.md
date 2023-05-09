@@ -131,7 +131,8 @@ I am a React and React Native developer, and these are my skills:
 
 I am an Interview engineer at <a href="https://karat.com/">Karat</a> - Part Time
 
-Meanwhile, I am revising and adding more skills.
+Meanwhile, I am revising and adding more skills.  
+And also I am recreating a personal project in my CV. [Pokemon React Native](https://github.com/OmarThinks/Pokemon-React-Native)
 
 ### Contacts:
 
