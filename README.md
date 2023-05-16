@@ -51,7 +51,6 @@ I am a React and React Native developer, and these are my skills:
 <b>
 
 - Frontend:
-
   - HTML, CSS
   - React, React Router, MaterialUI, Formik
   - React Native, React Navigation, React Native Paper, Async Storage, React Native Reanimated
@@ -62,24 +61,16 @@ I am a React and React Native developer, and these are my skills:
   - React Native Maps, React Native Maps Directions
   - Jest
   - GraphQL
-
 - Backend:
-
   - Django, Django REST Framework
-
 - Cloud (Beginner):
-
   - AWS Elastic Beanstalk (Beginner)
   - Azure App Services (Beginner)
-
 - Programming Languages:
-
   - JavaScript
   - TypeScript
   - Python
-
 - Languages:
-
   - English: Professional
   - Arabic: Native
   - German: Beginner
@@ -88,36 +79,22 @@ I am a React and React Native developer, and these are my skills:
 
 # Projects:
 
-1. **[React Native Job Finder App](https://github.com/OmarThinks/React-Native-Job-Finder-App)**:
 
-   - An android appliaction that was developed using React Native, by implementing a [Figma Design](https://www.figma.com/file/MhW5fBvYX41AITpgRwFDzc/React-Developer-Task-2022)
-   - Technologies used: React Native, React Native Paper, Redux ToolKit, Figma
-   - Links: [GitHub Repo](https://github.com/OmarThinks/React-Native-Job-Finder-App), [Youtube](https://www.youtube.com/watch?v=cr00PrrGccs), [Figma Design](https://www.figma.com/file/MhW5fBvYX41AITpgRwFDzc/React-Developer-Task-2022)
+- **React Native**:
+  - **React Native Job Finder App**:
+    - [GitHub](https://github.com/OmarThinks/React-Native-Job-Finder-App), [Youtube](https://www.youtube.com/watch?v=cr00PrrGccs), [Figma Design](https://www.figma.com/file/MhW5fBvYX41AITpgRwFDzc/React-Developer-Task-2022)
+  - **Pokemon React Native**:
+    -  [GitHub](https://github.com/OmarThinks/Pokemon-React-Native), [Youtube](https://www.youtube.com/watch?v=iATI7d0WdeI), [PokeAPI](https://pokeapi.co/docs/v2), [Figma Design](https://www.figma.com/community/file/1169058964714403349)
+  - **Cantiin React Native**:
+    - [Github](https://github.com/OmarThinks/Cantiin-React-Native), [Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c)
+- **React**:
+  - **React Project ([Cantiin-React.com](https://www.cantiin-react.com/))**:
+    - [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [Youtube](https://www.youtube.com/watch?v=sBj2vWlMLfc), [RESTful API](https://www.cantiin.com/api/)
+- **Django**:
+  - **Django Project ([Cantiin.com](https://www.cantiin.com/))**:
+    - [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [RESTful API](https://www.cantiin.com/api/)
 
-2. **[Pokemon React Native](https://github.com/OmarThinks/Pokemon-React-Native)**:
 
-   - Description: An android application that is built using React Native, and renders data from [Pokemon API](https://pokeapi.co/docs/v2) backend, while implementing a [Figma Design](https://www.figma.com/community/file/1169058964714403349).
-   - Technologies used: React Native, React Native Paper, Redux ToolKit, RTK Query, Figma
-   - Links: [GitHub Repo](https://github.com/OmarThinks/Pokemon-React-Native), [Youtube](https://www.youtube.com/watch?v=iATI7d0WdeI), [Pokemon API](https://pokeapi.co/docs/v2), [Figma Design](https://www.figma.com/community/file/1169058964714403349)
-
-3. **[Cantiin React Native](https://github.com/OmarThinks/Cantiin-React-Native)**:
-
-   - Description: An android application that is built using React Native, and renders data from a [RESTful API](https://www.cantiin.com/api/) backend.
-   - Technologies used: React Native, React Native Paper, Async Storage
-   - Links: [Github](https://github.com/OmarThinks/Cantiin-React-Native), [Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c)
-
-4. **React Project ([Cantiin-React.com](https://www.cantiin-react.com/))**:
-
-   - Description: A React project that renders data from a RESTful API backend.
-   - Technologies used: React, NextJS, MaterialUI, Formik, Yup, AWS Amplify (Frontend Only)
-   - Links: [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [Youtube](https://www.youtube.com/watch?v=sBj2vWlMLfc), [RESTful API](https://www.cantiin.com/api/)
-
-5. **Django Project ([Cantiin.com](https://www.cantiin.com/))**:
-   - Description: A backend project for a small ecommerce website that
-     has a [RESTful API](https://www.cantiin.com/api/) with authentication
-     and permissions.
-   - Technologies used: Django, Django REST Framework, Django Filter, CircleCI
-   - Links: [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [RESTful API](https://www.cantiin.com/api/)
 
 ### PC Specifications:
 
@@ -125,14 +102,13 @@ I am a React and React Native developer, and these are my skills:
   500 GB SSD, 22 inches screen, UPS
 - [More Details](pc.md)
 
-<!-- [Examples](examples/microservices.md)-->
 
 ## What am I doing now?
 
 I am an Interview engineer at <a href="https://karat.com/">Karat</a> - Part Time
 
 Meanwhile, I am revising and adding more skills.  
-And also I am recreating a personal project in my CV. [Pokemon React Native](https://github.com/OmarThinks/Pokemon-React-Native)
+
 
 ### Contacts:
 
