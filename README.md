@@ -83,6 +83,8 @@ I am a React and React Native developer, and these are my skills:
 - **React Native**:
   - **React Native Job Finder App**:
     - [GitHub](https://github.com/OmarThinks/React-Native-Job-Finder-App), [Youtube](https://www.youtube.com/watch?v=cr00PrrGccs), [Figma Design](https://www.figma.com/file/MhW5fBvYX41AITpgRwFDzc/React-Developer-Task-2022)
+  - **React Native Maps Project**:
+    - [GitHub](https://github.com/OmarThinks/React-Native-Maps-Project), [Youtube](https://www.youtube.com/watch?v=P655DFkNkYs)
   - **Pokemon React Native**:
     - [GitHub](https://github.com/OmarThinks/Pokemon-React-Native), [Youtube](https://www.youtube.com/watch?v=iATI7d0WdeI), [PokeAPI](https://pokeapi.co/docs/v2), [Figma Design](https://www.figma.com/community/file/1169058964714403349)
   - **Cantiin React Native**:
