@@ -82,12 +82,12 @@ I am a React and React Native developer, and these are my skills:
 
 - **React Native**:
   - **React Native Shop Project**:
-    - [GitHub](https://github.com/OmarThinks/React-Native-Task-01), [Youtube](https://www.youtube.com/watch?v=dTSoL403MG4), [Adobe XD Design](https://xd.adobe.com/view/c051e850-df50-4652-be4f-2912e2ed33ad-9502/)
+    - [GitHub](https://github.com/OmarThinks/React-Native-Task-01), [YouTube](https://www.youtube.com/watch?v=dTSoL403MG4), [Adobe XD Design](https://xd.adobe.com/view/c051e850-df50-4652-be4f-2912e2ed33ad-9502/)
   - **React Native Maps Project**:
-    - [GitHub](https://github.com/OmarThinks/React-Native-Maps-Project), [Youtube](https://www.youtube.com/watch?v=P655DFkNkYs)
+    - [GitHub](https://github.com/OmarThinks/React-Native-Maps-Project), [YouTube](https://www.youtube.com/watch?v=P655DFkNkYs)
 - **React**:
   - **React Project ([Cantiin-React.com](https://www.cantiin-react.com/))**:
-    - [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [Youtube](https://www.youtube.com/watch?v=sBj2vWlMLfc), [RESTful API](https://www.cantiin.com/api/)
+    - [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [YouTube](https://www.youtube.com/watch?v=sBj2vWlMLfc), [RESTful API](https://www.cantiin.com/api/)
 - **Django**:
   - **Django Project ([Cantiin.com](https://www.cantiin.com/))**:
     - [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [RESTful API](https://www.cantiin.com/api/)
