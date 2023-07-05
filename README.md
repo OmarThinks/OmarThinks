@@ -82,7 +82,7 @@ I am a React and React Native developer, and these are my skills:
 
 - **React Native**:
   - **React Native Shop Project**:
-    - [GitHub](https://github.com/OmarThinks/React-Native-Task-01), [Youtube](https://www.youtube.com/watch?v=dTSoL403MG4), [AdobeXD Design](https://xd.adobe.com/view/c051e850-df50-4652-be4f-2912e2ed33ad-9502/)
+    - [GitHub](https://github.com/OmarThinks/React-Native-Task-01), [Youtube](https://www.youtube.com/watch?v=dTSoL403MG4), [Adobe XD Design](https://xd.adobe.com/view/c051e850-df50-4652-be4f-2912e2ed33ad-9502/)
   - **React Native Maps Project**:
     - [GitHub](https://github.com/OmarThinks/React-Native-Maps-Project), [Youtube](https://www.youtube.com/watch?v=P655DFkNkYs)
 - **React**:
