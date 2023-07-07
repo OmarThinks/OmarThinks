@@ -93,6 +93,9 @@ I am a React and React Native developer, and these are my skills:
 - **Django**:
   - **Django Project ([Cantiin.com](https://www.cantiin.com/))**:
     - [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [RESTful API](https://www.cantiin.com/api/)
+- **Figma**:
+  - **This and That** (Small Figma Project):
+    - [Figma](https://www.figma.com/community/file/1258689995235847502/This-%26-That)
 
 ### PC Specifications:
 
