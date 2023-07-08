@@ -23,7 +23,7 @@ Giza, 6th of October city.
 </tr>
 
 <tr>
-<td>Interview Engineer <sup>[1]</sup></td>
+<td>Interview Engineer</td>
 <td><a href="https://karat.com/">Karat</a></td>
 <td>April 2022</td>
 <td>Now</td>
@@ -39,11 +39,6 @@ Giza, 6th of October city.
 </tr>
 
 </table>
-
-- <sup>\[1]</sup> : My role at Karat is interviewing Software Developers technically,
-  and evaluate the code they write during the coding section
-  according to Data Structures, Algorithms, and Time and Space
-  complexities.
 
 # Skills:
 
