@@ -62,11 +62,11 @@ I am a React and React Native developer, and these are my skills:
   - React Native Maps, React Native Maps Directions
   - Jest
   - GraphQL
-- Design:
-  - Figma
-  - Locofy
 - Backend:
   - Django, Django REST Framework
+- Design (Beginner):
+  - Figma
+  - Locofy
 - Cloud (Beginner):
   - AWS Elastic Beanstalk (Beginner)
   - Azure App Services (Beginner)
