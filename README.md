@@ -23,7 +23,7 @@ Giza, 6th of October city.
 </tr>
 
 <tr>
-<td>Interview Engineer</td>
+<td><b>Interview Engineer</b></td>
 <td><a href="https://karat.com/">Karat</a></td>
 <td>April 2022</td>
 <td>Now</td>
@@ -31,7 +31,7 @@ Giza, 6th of October city.
 </tr>
 
 <tr>
-<td>React Native Developer</td>
+<td><b>React Native Developer</b></td>
 <td><a href="https://www.vekelz.com/">Vekelz</a></td>
 <td>17th of December 2022</td>
 <td>3rd of May 2023</td>
