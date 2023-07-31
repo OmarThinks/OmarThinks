@@ -80,10 +80,16 @@ I am a React and React Native developer, and these are my skills:
 # Projects:
 
 - **React Native**:
+  - **React Native Job Finder App**:
+    - [GitHub](https://github.com/OmarThinks/React-Native-Job-Finder-App), [Youtube](https://www.youtube.com/watch?v=cr00PrrGccs), [Figma Design](https://www.figma.com/file/MhW5fBvYX41AITpgRwFDzc/React-Developer-Task-2022)
   - **React Native Shop Project**:
     - [GitHub](https://github.com/OmarThinks/React-Native-Task-01), [YouTube](https://www.youtube.com/watch?v=dTSoL403MG4), [Adobe XD Design](https://xd.adobe.com/view/c051e850-df50-4652-be4f-2912e2ed33ad-9502/)
   - **React Native Maps Project**:
     - [GitHub](https://github.com/OmarThinks/React-Native-Maps-Project), [YouTube](https://www.youtube.com/watch?v=P655DFkNkYs)
+  - **Pokemon React Native**:
+    - [GitHub](https://github.com/OmarThinks/Pokemon-React-Native), [Youtube](https://www.youtube.com/watch?v=iATI7d0WdeI), [PokeAPI](https://pokeapi.co/docs/v2), [Figma Design](https://www.figma.com/community/file/1169058964714403349)
+  - **Cantiin React Native**:
+    - [Github](https://github.com/OmarThinks/Cantiin-React-Native), [Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c)
 - **React**:
   - **React Project ([Cantiin-React.com](https://www.cantiin-react.com/))**:
     - [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [YouTube](https://www.youtube.com/watch?v=sBj2vWlMLfc), [RESTful API](https://www.cantiin.com/api/)
