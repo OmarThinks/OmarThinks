@@ -57,6 +57,7 @@ I am a React and React Native developer, and these are my skills:
   - React Native Maps, React Native Maps Directions
   - Jest
   - GraphQL
+  - Kotlin, Jetpack Compose
 - Backend:
   - Django, Django REST Framework
 - Design (Beginner):
