@@ -53,7 +53,7 @@ I am a React and React Native developer, and these are my skills:
   - Redux, Redux Toolkit (RTK), Redux Thunk
   - Axios, React Query, RTK Query, SWR
   - NextJS
-  - TailwindCSS
+  - TailwindCSS, NativeWind
   - React Native Maps, React Native Maps Directions
   - Jest
   - GraphQL
