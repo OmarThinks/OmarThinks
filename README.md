@@ -52,7 +52,6 @@ I am a React and React Native developer, and these are my skills:
   - React Native, React Navigation, React Native Paper, Async Storage, React Native Reanimated
   - Redux, Redux Toolkit (RTK), Redux Thunk
   - Axios, React Query, RTK Query, SWR
-  - NextJS
   - TailwindCSS, NativeWind
   - React Native Maps, React Native Maps Directions
   - Jest
