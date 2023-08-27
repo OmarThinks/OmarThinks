@@ -101,8 +101,8 @@ I am a React and React Native developer, and these are my skills:
 
 ### PC Specifications:
 
-- PC Build, Windows 11, CPU i5 10400, RAM 32 GB (Motherboard's max 128GB),
-  500 GB SSD, 27 inches screen, UPS
+- PC Build, Windows 11, i5 10400 CPU, 32 GB RAM (Motherboard's max 128GB),
+  500 GB SSD, 27 inches screen, NVIDIA GTX 1060 6GB GPU, UPS
 - [More Details](pc.md)
 
 ## What am I doing now?
