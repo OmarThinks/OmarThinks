@@ -46,17 +46,19 @@ I am a React and React Native developer, and these are my skills:
 
 <b>
 
-- Frontend:
+- React:
   - HTML, CSS
   - React, React Router, MaterialUI, Formik
-  - React Native, React Navigation, React Native Paper, Async Storage, React Native Reanimated
   - Redux, Redux Toolkit (RTK), Redux Thunk
   - Axios, React Query, RTK Query, SWR
   - NextJS
-  - TailwindCSS, NativeWind
-  - React Native Maps, React Native Maps Directions
+  - TailwindCSS
   - Jest
   - GraphQL
+- React Native:
+  - React Native, React Navigation, React Native Paper, Async Storage, React Native Reanimated
+  - NativeWind
+  - React Native Maps, React Native Maps Directions
   - Kotlin, Jetpack Compose
 - Backend:
   - Django, Django REST Framework
