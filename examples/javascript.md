@@ -1,18 +1,10 @@
 # JavaScript Examples:
 
-
-
-
-
-
-
-
 # 1) Cantiin-React (deployed on AWS Amplify):
 
 ## About:
+
 Recreating the frontend of Cantiin using React, deployed on AWS.
-
-
 
 ## Links:
 
@@ -40,9 +32,7 @@ Recreating the frontend of Cantiin using React, deployed on AWS.
 </td>
 </tr>
 
-
 </table>
-
 
 ## Technologies Used:
 
@@ -52,50 +42,27 @@ Recreating the frontend of Cantiin using React, deployed on AWS.
 2. CSS
 3. JavaScript
 4. React
-    - Functional Components
-    - Contexts
-    - Hooks
-    - Authentication
-    - React-Router-Dom
+   - Functional Components
+   - Contexts
+   - Hooks
+   - Authentication
+   - React-Router-Dom
 5. Testing
 6. Axios
 7. AWS Amplify
 
 </b>
 
-
 <img src="https://raw.githubusercontent.com/OmarThinks/Cantiin-React/master/images/products_list_2.gif?raw=true">
-
 
 <img src="https://raw.githubusercontent.com/OmarThinks/Cantiin-React/master/images/front_signup.gif?raw=true">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 2) Cantiin.com
-
-
 
 ## Links
 
 This is a website.  
 It is deployed and live.
-
 
 <table>
     <tr>
@@ -119,33 +86,24 @@ It is deployed and live.
     </tr>    
 </table>
 
-
 ## About:
-This is an example of using 
-**JavaScript, CSS, Bootstrap and AJAX**.  
 
+This is an example of using
+**JavaScript, CSS, Bootstrap and AJAX**.
 
-Cantiin is a website for ecommerce, it has  
+Cantiin is a website for ecommerce, it has
 
 - **Frontend**: (JavaScript and Jinja) and
 
 <img src="https://raw.githubusercontent.com/OmarThinks/cantiin_django/master/images/frontend.gif?raw=true"/>
 <br>
 
-
-
 - **Backend RESTful API**: Django REST Framework
-
 
 <img src="https://raw.githubusercontent.com/OmarThinks/cantiin_django/master/images/pagination.gif?raw=true"/>
 <br>
 
-
-
-
-
 ## Technologies used:
-
 
 ### 1) Backend:
 
@@ -157,39 +115,20 @@ Cantiin is a website for ecommerce, it has
 6. unittest
 7. pytest
 
-
-
 ### 2) Frontend:
-
 
 1. HTML
 2. CSS
 3. JavaScript
 4. BootStrap
-4. Jinja
-
-
-
-
-
-
-
-
-
-
+5. Jinja
 
 # 3) React Cheatsheet:
-
 
 ## Links:
 
 https://github.com/OmarThinks/react-cheat-sheet
 
-
 ## About:
+
 Here I summerized most important React lessons.
-
-
-
-
-
