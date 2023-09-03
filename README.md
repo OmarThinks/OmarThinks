@@ -59,7 +59,6 @@ I am a React and React Native developer, and these are my skills:
   - React Native, React Navigation, React Native Paper, Async Storage, React Native Reanimated
   - NativeWind
   - React Native Maps, React Native Maps Directions
-  - Kotlin, Jetpack Compose
 - Backend:
   - Django, Django REST Framework
 - Design (Beginner):
@@ -81,11 +80,11 @@ I am a React and React Native developer, and these are my skills:
 # Projects:
 
 - **React Native**:
-  - **OmarThinks-React-Native-Template**:
+  - **OmarThinks React Native Template**:
     - [GitHub](https://github.com/OmarThinks/OmarThinks-React-Native-Template), [Youtube](https://www.youtube.com/watch?v=VN2tiZ5bv7M)
   - **Cantiin React Native**:
     - [Github](https://github.com/OmarThinks/Cantiin-React-Native), [Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c), [Backend RESTful API](https://cantiin.com/api)
-  - [All Examples](https://github.com/OmarThinks/OmarThinks/blob/master/examples/react-native.md)
+  - **[All Examples](https://github.com/OmarThinks/OmarThinks/blob/master/examples/react-native.md)**
 - **React**:
   - **React Project ([Cantiin-React.com](https://www.cantiin-react.com/))**:
     - [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [YouTube](https://www.youtube.com/watch?v=sBj2vWlMLfc), [RESTful API](https://www.cantiin.com/api/)
