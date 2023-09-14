@@ -56,9 +56,12 @@ I am a React and React Native developer, and these are my skills:
   - Jest
   - GraphQL
 - React Native:
-  - React Native, React Navigation, React Native Paper, Async Storage, React Native Reanimated
+  - React Native, React Native Paper, React Native Reanimated
+  - React Navigation
+  - Expo
+  - AsyncStorage
   - NativeWind
-  - React Native Maps, React Native Maps Directions
+  - React Native Maps
 - Backend:
   - Django, Django REST Framework
 - Design (Beginner):
