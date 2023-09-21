@@ -3,13 +3,9 @@ Giza, 6th of October city.
 
 ## Education:
 
-- I Graduated from the **College of Engineering**, Helwan university,
-  Mattaria branch, Civil Engineering department in June 2018. I scored Good. And scored Excellent for the graduation project
-  which specialized in Surveying and Remote Sensing.
-
 - **[Full Stack Web Development Nano Degree](https://graduation.udacity.com/confirm/ELAEXGHP)**
-
-- **Military Service**: Completed. From May 2019 until June 2020 (One year of military service + 1 month of training center).
+- I Graduated from the College of Engineering in June 2018.
+- Military Service: Completed. From March 2019 until June 2020.
 
 ## Experiences:
 
@@ -35,7 +31,7 @@ Giza, 6th of October city.
 <td><a href="https://karat.com/">Karat</a></td>
 <td>April 2022</td>
 <td>Now</td>
-<td>-</td>
+<td>On going</td>
 </tr>
 
 </table>
