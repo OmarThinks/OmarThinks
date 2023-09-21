@@ -38,7 +38,7 @@ Giza, 6th of October city.
 
 # Skills:
 
-I am a React and React Native developer, and these are my skills:
+I am a React Native and React developer, and these are my skills:
 
 <b>
 
@@ -102,9 +102,8 @@ I am a React and React Native developer, and these are my skills:
 
 ## What am I doing now?
 
-I am an Interview engineer at <a href="https://karat.com/">Karat</a> - Part Time
-
-Meanwhile, I am revising and adding more skills.
+I am an Interview engineer at <a href="https://karat.com/">Karat</a> - Contract  
+Meanwhile, I am revising and adding more skills, an applying for jobs.
 
 ### Contacts:
 
