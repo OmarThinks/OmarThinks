@@ -82,7 +82,7 @@ I am a React Native and React developer, and these are my skills:
   - **OmarThinks React Native Template**:
     - [GitHub](https://github.com/OmarThinks/OmarThinks-React-Native-Template), [Youtube](https://www.youtube.com/watch?v=VN2tiZ5bv7M)
   - **Cantiin React Native**:
-    - [Github](https://github.com/OmarThinks/Cantiin-React-Native), [Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c), [Backend RESTful API](https://cantiin.com/api)
+    - [Github](https://github.com/OmarThinks/Cantiin-React-Native), [Google Play Store](https://play.google.com/store/apps/details?id=com.cantiinreactnative), [Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c), [Backend RESTful API](https://cantiin.com/api)
   - **[All React Native Examples](https://github.com/OmarThinks/OmarThinks/blob/master/examples/react-native.md)**
 - **React**:
   - **React Project ([Cantiin-React.com](https://www.cantiin-react.com/))**:

@@ -62,6 +62,12 @@ A pre-configured React-Native template that uses the following technologies:
 </td>
 </tr>
 <tr>
+<td>Google Play Store</td>
+<td>
+<a href="https://play.google.com/store/apps/details?id=com.cantiinreactnative">https://play.google.com/store/apps/details?id=com.cantiinreactnative</a>
+</td>
+</tr>
+<tr>
 <td>YouTube</td>
 <td>
 <a href="https://www.youtube.com/watch?v=16v0MCEKS-c">https://www.youtube.com/watch?v=16v0MCEKS-c</a>
