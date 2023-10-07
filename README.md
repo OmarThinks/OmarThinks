@@ -1,12 +1,6 @@
 Hi there 👋! My name is Omar Magdy, I live in Egypt,
 Giza, 6th of October city.
 
-## More about me:
-
-- I Graduated from the College of Engineering in June 2018
-- **[Full Stack Web Development Nano Degree](https://graduation.udacity.com/confirm/ELAEXGHP)**
-- Military Service: Completed. From March 2019 until June 2020
-
 ## Experiences:
 
 <table>
@@ -105,6 +99,12 @@ I am a React Native and React developer, and these are my skills:
 
 I am an Interview engineer at <a href="https://karat.com/">Karat</a> - Contract  
 Meanwhile, I am revising and adding more skills, an applying for jobs.
+
+## More about me:
+
+- I Graduated from the College of Engineering in June 2018
+- **[Full Stack Web Development Nano Degree](https://graduation.udacity.com/confirm/ELAEXGHP)**
+- Military Service: Completed. From March 2019 until June 2020
 
 ### Contacts:
 
