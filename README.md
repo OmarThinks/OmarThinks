@@ -109,7 +109,10 @@ Meanwhile, I am revising and adding more skills, an applying for jobs.
 ### Contacts:
 
 - Linkedin: <https://www.linkedin.com/in/omar-magdy-28497a200/>
+
+<!--
 - Facebook: <https://www.facebook.com/profile.php?id=100030832995538>
+-->
 
 ### Thank you for reading :)
 
