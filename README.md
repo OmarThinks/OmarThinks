@@ -45,7 +45,7 @@ I am a React Native and React developer, and these are my skills:
   - NextJS
   - TailwindCSS
   - Jest
-  - GraphQL
+  - GraphQL, Relay
 - React Native:
   - React Native, React Native Paper, React Native Reanimated
   - React Navigation
