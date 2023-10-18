@@ -72,6 +72,8 @@ I am a React Native and React developer, and these are my skills:
 
 # Projects:
 
+<font size="4">
+
 <b>
 
 - [React Native](https://github.com/OmarThinks/OmarThinks/blob/master/examples/react-native.md)
@@ -80,6 +82,8 @@ I am a React Native and React developer, and these are my skills:
 - Django: [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [RESTful API](https://www.cantiin.com/api/)
 
 </b>
+
+</font>
 
 ### PC Specifications:
 
