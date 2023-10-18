@@ -1,5 +1,4 @@
-Hi there 👋! My name is Omar Magdy, I live in Egypt,
-Giza, 6th of October city.
+Hi there 👋! My name is Omar Magdy, I live in Egypt.
 
 ## Experiences:
 
