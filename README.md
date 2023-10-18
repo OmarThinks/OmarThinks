@@ -72,27 +72,19 @@ I am a React Native and React developer, and these are my skills:
 
 # Projects:
 
-- **React Native**:
-  - **OmarThinks React Native Template**:
-    - [GitHub](https://github.com/OmarThinks/OmarThinks-React-Native-Template), [Youtube](https://www.youtube.com/watch?v=VN2tiZ5bv7M)
-  - **Cantiin React Native**:
-    - [Github](https://github.com/OmarThinks/Cantiin-React-Native), [Google Play Store](https://play.google.com/store/apps/details?id=com.cantiinreactnative), [Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c), [Backend RESTful API](https://cantiin.com/api)
-  - **[All React Native Examples](https://github.com/OmarThinks/OmarThinks/blob/master/examples/react-native.md)**
-- **React**:
-  - **React Project ([Cantiin-React.com](https://www.cantiin-react.com/))**:
-    - [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [YouTube](https://www.youtube.com/watch?v=sBj2vWlMLfc), [RESTful API](https://www.cantiin.com/api/)
-- **Figma**:
-  - **This and That**:
-    - [GitHub](https://github.com/OmarThinks/This-and-That), [Figma](https://www.figma.com/community/file/1258689995235847502/This-%26-That), [YouTube](https://www.youtube.com/watch?v=Uyq_2uKjExI)
-- **Django**:
-  - **Django Project ([Cantiin.com](https://www.cantiin.com/))**:
-    - [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [RESTful API](https://www.cantiin.com/api/)
+<b>
+
+- [React Native](https://github.com/OmarThinks/OmarThinks/blob/master/examples/react-native.md)
+- React: [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [YouTube](https://www.youtube.com/watch?v=sBj2vWlMLfc), [RESTful API](https://www.cantiin.com/api/)
+- Figma: [GitHub](https://github.com/OmarThinks/This-and-That), [Figma](https://www.figma.com/community/file/1258689995235847502/This-%26-That), [YouTube](https://www.youtube.com/watch?v=Uyq_2uKjExI)
+- Django: [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [RESTful API](https://www.cantiin.com/api/)
+
+</b>
 
 ### PC Specifications:
 
-- PC Build, Windows 11, i5 10400 CPU, 32 GB RAM (Motherboard's max 128GB),
-  500 GB SSD, 27 inches screen, NVIDIA GTX 1060 6GB GPU
-- [More Details](pc.md)
+PC Build, Windows 11, i5 10400 CPU, 32 GB RAM (Motherboard's max 128 GB),
+500 GB SSD, 27 inches screen, NVIDIA GTX 1060 6GB GPU
 
 ## What am I doing now?
 
@@ -124,4 +116,25 @@ Meanwhile, I am revising and adding more skills, and applying for jobs.
     - [GitHub](https://github.com/OmarThinks/Pokemon-React-Native), [Youtube](https://www.youtube.com/watch?v=iATI7d0WdeI), [PokeAPI](https://pokeapi.co/docs/v2), [Figma Design](https://www.figma.com/community/file/1169058964714403349)
   - **Cantiin React Native**:
     - [Github](https://github.com/OmarThinks/Cantiin-React-Native), [Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c)
+-->
+
+<!--
+
+
+- **React Native**:
+  - **OmarThinks React Native Template**:
+    - [GitHub](https://github.com/OmarThinks/OmarThinks-React-Native-Template), [Youtube](https://www.youtube.com/watch?v=VN2tiZ5bv7M)
+  - **Cantiin React Native**:
+    - [Github](https://github.com/OmarThinks/Cantiin-React-Native), [Google Play Store](https://play.google.com/store/apps/details?id=com.cantiinreactnative), [Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c), [Backend RESTful API](https://cantiin.com/api)
+  - **[All React Native Examples](https://github.com/OmarThinks/OmarThinks/blob/master/examples/react-native.md)**
+- **React**:
+  - **React Project ([Cantiin-React.com](https://www.cantiin-react.com/))**:
+    - [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [YouTube](https://www.youtube.com/watch?v=sBj2vWlMLfc), [RESTful API](https://www.cantiin.com/api/)
+- **Figma**:
+  - **This and That**:
+    - [GitHub](https://github.com/OmarThinks/This-and-That), [Figma](https://www.figma.com/community/file/1258689995235847502/This-%26-That), [YouTube](https://www.youtube.com/watch?v=Uyq_2uKjExI)
+- **Django**:
+  - **Django Project ([Cantiin.com](https://www.cantiin.com/))**:
+    - [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [RESTful API](https://www.cantiin.com/api/)
+
 -->
