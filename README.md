@@ -43,6 +43,7 @@ I am a React Native and React developer, and these are my skills:
   - Axios, React Query, RTK Query, SWR
   - NextJS
   - TailwindCSS
+  - Styled Components
   - Jest
   - GraphQL, Relay
 - React Native:
