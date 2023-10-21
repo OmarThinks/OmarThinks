@@ -44,6 +44,7 @@ I am a React Native and React developer, and these are my skills:
   - NextJS
   - TailwindCSS
   - Styled Components
+  - i18next
   - Jest
   - GraphQL, Relay
 - React Native:
