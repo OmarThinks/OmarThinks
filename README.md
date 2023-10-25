@@ -11,12 +11,17 @@ Hi there 👋! My name is Omar Magdy, I live in Egypt.
 <th>Duration</th>
 </tr>
 
+<!--
+
 <tr>
 <td><b>Interview Engineer</b></td>
 <td><a href="https://karat.com/">Karat</a></td>
 <td>April 2022</td>
 <td>Now</td>
 <td>On going</td>
+</tr>
+
+-->
 
 <tr>
 <td><b>React Native Developer</b></td>
@@ -24,8 +29,6 @@ Hi there 👋! My name is Omar Magdy, I live in Egypt.
 <td>17th of December 2022</td>
 <td>3rd of May 2023</td>
 <td>5 Months</td>
-</tr>
-
 </tr>
 
 </table>
