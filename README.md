@@ -58,7 +58,7 @@ I am a React Native and React developer, and these are my skills:
   - NativeWind
   - React Native Maps
 - Computer Science:
-  - Object-Oriented Programming (OOP)
+  - Object-Oriented Programming
 - Backend:
   - Django, Django REST Framework
 - Design (Beginner):
