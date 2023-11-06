@@ -97,10 +97,13 @@ I am a React Native and React developer, and these are my skills:
 PC Build, Windows 11, i5 10400 CPU, 32 GB RAM (Motherboard's max 128 GB),
 500 GB SSD, 27 inches screen, NVIDIA GTX 1060 6GB GPU
 
+<!--
+
 ## What am I doing now?
 
-I am an Interview engineer at <a href="https://karat.com/">Karat</a> - Contract  
-Meanwhile, I am revising and adding more skills, and applying for jobs.
+I am revising and adding more skills, and applying for jobs.
+
+-->
 
 ## More about me:
 
