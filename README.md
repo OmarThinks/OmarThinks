@@ -57,6 +57,7 @@ I am a React Native and React developer, and these are my skills:
   - AsyncStorage
   - NativeWind
   - React Native Maps
+  - Turbo Native Modules
 - Computer Science:
   - Object-Oriented Programming
 - Backend:
