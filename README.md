@@ -116,6 +116,7 @@ I am revising and adding more skills, and applying for jobs.
 - I Graduated from the College of Engineering in June 2018
 - **[Full Stack Web Development Nano Degree](https://graduation.udacity.com/confirm/ELAEXGHP)**
 - Military Service: Completed. From March 2019 until June 2020
+- I was born on 27th of September 1993
 
 ### Contacts:
 
