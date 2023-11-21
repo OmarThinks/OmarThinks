@@ -58,8 +58,6 @@ I am a React Native and React developer, and these are my skills:
   - NativeWind
   - React Native Maps
   - Native Modules
-- Computer Science:
-  - Object-Oriented Programming
 - Backend:
   - Django, Django REST Framework
 - Design (Beginner):
@@ -77,6 +75,13 @@ I am a React Native and React developer, and these are my skills:
   - German: Beginner
 
 </b>
+
+<!--
+
+- Computer Science:
+  - Object-Oriented Programming
+
+-->
 
 # Projects:
 
