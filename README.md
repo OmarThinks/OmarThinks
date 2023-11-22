@@ -25,7 +25,7 @@ Hi there 👋! My name is Omar Magdy, I live in Egypt.
 
 <tr>
 <td><b>React Native Developer</b></td>
-<td><a href="https://www.vekelz.com/">Vekelz</a></td>
+<td><a href="https://www.linkedin.com/company/vekelz/">Vekelz</a></td>
 <td>17th of December 2022</td>
 <td>3rd of May 2023</td>
 <td>5 Months</td>
