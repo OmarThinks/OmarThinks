@@ -1,161 +1,66 @@
-Hi there 👋! My name is Omar Magdy, I live in Egypt.
+# Omar Magdy
 
-## Experiences:
+React Native & React developer
 
-<table>
-<tr>
-<th>Job</th>
-<th>Company</th>
-<th>From</th>
-<th>Until</th>
-<th>Duration</th>
-</tr>
+# Skills
 
-<!--
+- **React:** HTML, CSS, React Router, MaterialUI, Formik, Redux, Redux Toolkit (RTK), Axios, React Query, RTK Query, SWR, NextJS, TailwindCSS, Styled Components, i18next, Jest, GraphQL, Relay, JavaScript, TypeScript
+- **React Native:** React Native Paper, React Native Reanimated, React Navigation, Expo, AsyncStorage, NativeWind, React Native Maps, Native Modules
+- **Backend:** Django, Django REST Framework
+- **Design:** Figma, Locofy
 
-<tr>
-<td><b>Interview Engineer</b></td>
-<td><a href="https://karat.com/">Karat</a></td>
-<td>April 2022</td>
-<td>Now</td>
-<td>On going</td>
-</tr>
+# Experience
 
--->
+### React Native Developer, Egypt — [Vekelz](https://www.linkedin.com/company/vekelz/)
 
-<tr>
-<td><b>React Native Developer</b></td>
-<td><a href="https://www.linkedin.com/company/vekelz/">Vekelz</a></td>
-<td>17th of December 2022</td>
-<td>3rd of May 2023</td>
-<td>5 Months</td>
-</tr>
+December 2022 - May 2023
 
-</table>
+- Converted design to pixel-perfect React Native code
+- Worked on two React Native projects
+- Intensively used react-native-maps to render responsive maps
+- Implemented top-tier communication with RESTful API backend using React Query and RTK Query
+- Implemented Dependency Injection using Redux
+- Implemented persistent Authentication using AsyncStorage
+- Implemented Localization using react-i18next
+- Implemented type-safety using TypeScript
 
-# Skills:
+### Interview Engineer, USA (Remote) — [Karat](https://karat.com/)
 
-I am a React Native and React developer, and these are my skills:
+April 2022 - September 2023
 
-<b>
-
-- React:
-  - HTML, CSS
-  - React, React Router, MaterialUI, Formik
-  - Redux, Redux Toolkit (RTK), Redux Thunk
-  - Axios, React Query, RTK Query, SWR
-  - NextJS
-  - TailwindCSS
-  - Styled Components
-  - i18next
-  - Jest
-  - GraphQL, Relay
-- React Native:
-  - React Native, React Native Paper, React Native Reanimated
-  - React Navigation
-  - Expo
-  - AsyncStorage
-  - NativeWind
-  - React Native Maps
-  - Native Modules
-- Backend:
-  - Django, Django REST Framework
-- Design (Beginner):
-  - Figma
-  - Locofy
-- Cloud (Beginner):
-  - AWS Elastic Beanstalk (Beginner)
-  - Azure App Services (Beginner)
-- Programming Languages:
-  - JavaScript / TypeScript
-  - Python
-- Languages:
-  - English: Professional
-  - Arabic: Native
-  - German: Beginner
-
-</b>
-
-<!--
-
-- Computer Science:
-  - Object-Oriented Programming
-
--->
+- Interviewed software developers
+- Estimated the code quality of the software developers during the interview based on Data Structures and Algorithms
+- Estimated the Time and Space complexities of the code written by software developer during the coding section of the interview
 
 # Projects:
 
-<font size="4">
+- **React Native:** [All Projects](https://github.com/OmarThinks/OmarThinks/blob/master/examples/react-native.md)
+- **React:** [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [YouTube](https://www.youtube.com/watch?v=sBj2vWlMLfc), [RESTful API](https://www.cantiin.com/api/)
+- **Figma:** [GitHub](https://github.com/OmarThinks/This-and-That), [Figma](https://www.figma.com/community/file/1258689995235847502/This-%26-That), [YouTube](https://www.youtube.com/watch?v=Uyq_2uKjExI)
+- **Django:** [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [RESTful API](https://www.cantiin.com/api/)
 
-<b>
+# Education
 
-- React Native: [All Projects](https://github.com/OmarThinks/OmarThinks/blob/master/examples/react-native.md)
-- React: [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [YouTube](https://www.youtube.com/watch?v=sBj2vWlMLfc), [RESTful API](https://www.cantiin.com/api/)
-- Figma: [GitHub](https://github.com/OmarThinks/This-and-That), [Figma](https://www.figma.com/community/file/1258689995235847502/This-%26-That), [YouTube](https://www.youtube.com/watch?v=Uyq_2uKjExI)
-- Django: [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [RESTful API](https://www.cantiin.com/api/)
+Bachelor Of Engineering, Helwan university, Faculty of Engineering, Civil Engineering Department on 2018
 
-</b>
+# Personal Info
 
-</font>
+- Military Service: Completed. From March 2019 until June 2020.
+- I was born in 1993.
 
-### PC Specifications:
+# Programming Languages
 
-PC Build, Windows 11, i5 10400 CPU, 32 GB RAM (Motherboard's max 128 GB),
-500 GB SSD, 27 inches screen, NVIDIA GTX 1060 6GB GPU
+- JavaScript
+- TypeScript
+- Python
 
-<!--
+# Languages
 
-## What am I doing now?
+- Arabic: Native
+- English: Excellent
+- German: Beginner
 
-I am revising and adding more skills, and applying for jobs.
+# Contacts
 
--->
-
-## More about me:
-
-- I Graduated from the College of Engineering in June 2018
-- **[Full Stack Web Development Nano Degree](https://graduation.udacity.com/confirm/ELAEXGHP)**
-- Military Service: Completed. From March 2019 until June 2020
-- I was born on 27th of September 1993
-
-### Contacts:
-
-- Linkedin: <https://www.linkedin.com/in/omar-magdy-28497a200/>
-
-<!--
-- Facebook: <https://www.facebook.com/profile.php?id=100030832995538>
--->
-
-### Thank you for reading :)
-
-<!--
-  - **React Native Shop Project**:
-    - [GitHub](https://github.com/OmarThinks/React-Native-Task-01), [YouTube](https://www.youtube.com/watch?v=dTSoL403MG4), [Adobe XD Design](https://xd.adobe.com/view/c051e850-df50-4652-be4f-2912e2ed33ad-9502/)
-  - **React Native Maps Project**:
-    - [GitHub](https://github.com/OmarThinks/React-Native-Maps-Project), [YouTube](https://www.youtube.com/watch?v=P655DFkNkYs)
-  - **Pokemon React Native**:
-    - [GitHub](https://github.com/OmarThinks/Pokemon-React-Native), [Youtube](https://www.youtube.com/watch?v=iATI7d0WdeI), [PokeAPI](https://pokeapi.co/docs/v2), [Figma Design](https://www.figma.com/community/file/1169058964714403349)
-  - **Cantiin React Native**:
-    - [Github](https://github.com/OmarThinks/Cantiin-React-Native), [Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c)
--->
-
-<!--
-
-
-- **React Native**:
-  - **OmarThinks React Native Template**:
-    - [GitHub](https://github.com/OmarThinks/OmarThinks-React-Native-Template), [Youtube](https://www.youtube.com/watch?v=VN2tiZ5bv7M)
-  - **Cantiin React Native**:
-    - [Github](https://github.com/OmarThinks/Cantiin-React-Native), [Google Play Store](https://play.google.com/store/apps/details?id=com.cantiinreactnative), [Youtube](https://www.youtube.com/watch?v=16v0MCEKS-c), [Backend RESTful API](https://cantiin.com/api)
-  - **[All React Native Examples](https://github.com/OmarThinks/OmarThinks/blob/master/examples/react-native.md)**
-- **React**:
-  - **React Project ([Cantiin-React.com](https://www.cantiin-react.com/))**:
-    - [Github](https://github.com/OmarThinks/Cantiin-React-NextJS), [Cantiin-React.com](https://www.cantiin-react.com/), [YouTube](https://www.youtube.com/watch?v=sBj2vWlMLfc), [RESTful API](https://www.cantiin.com/api/)
-- **Figma**:
-  - **This and That**:
-    - [GitHub](https://github.com/OmarThinks/This-and-That), [Figma](https://www.figma.com/community/file/1258689995235847502/This-%26-That), [YouTube](https://www.youtube.com/watch?v=Uyq_2uKjExI)
-- **Django**:
-  - **Django Project ([Cantiin.com](https://www.cantiin.com/))**:
-    - [Github](https://github.com/OmarThinks/cantiin_django), [Cantiin.com](https://www.cantiin.com/), [RESTful API](https://www.cantiin.com/api/)
-
--->
+- [Github](https://github.com/OmarThinks)
+- [LinkedIn](https://www.linkedin.com/in/omar-magdy-28497a200/)
