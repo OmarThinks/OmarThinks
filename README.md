@@ -45,8 +45,9 @@ Bachelor Of Engineering, Helwan university, Faculty of Engineering, Civil Engine
 
 # Personal Info
 
-- Military Service: Completed. From March 2019 until June 2020.
-- I was born in 1993.
+- Military Service: Completed. From March 2019 until June 2020
+- I was born in 1993
+- I am ready for immediate hiring
 
 # Programming Languages
 
