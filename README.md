@@ -7,7 +7,7 @@ React Native & React developer
 - **React:** HTML, CSS, React Router, MaterialUI, Formik, Redux, Redux Toolkit (RTK), Axios, React Query, RTK Query, SWR, NextJS, TailwindCSS, Styled Components, i18next, Jest, GraphQL, Relay, JavaScript, TypeScript
 - **React Native:** React Native Paper, React Native Reanimated, React Navigation, Expo, AsyncStorage, NativeWind, React Native Maps, Native Modules
 - **Backend:** Django, Django REST Framework
-- **Design:** Figma, Locofy
+- **Design** (Beginner): Figma, Locofy
 
 # Experience
 
