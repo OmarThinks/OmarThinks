@@ -11,7 +11,7 @@ React Native & React developer
 
 # Experience
 
-### React Native Developer, Egypt — [Vekelz](https://www.linkedin.com/company/vekelz/)
+### React Native Developer — [Vekelz](https://www.linkedin.com/company/vekelz/)
 
 December 2022 - May 2023
 
@@ -24,7 +24,7 @@ December 2022 - May 2023
 - Implemented Localization using react-i18next
 - Implemented type-safety using TypeScript
 
-### Interview Engineer, USA (Remote) — [Karat](https://karat.com/)
+### Interview Engineer — [Karat](https://karat.com/)
 
 April 2022 - September 2023
 
