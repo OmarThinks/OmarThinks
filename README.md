@@ -21,8 +21,8 @@ December 2022 - May 2023
 
 - **React:**
   - HTML, CSS
-  - React, React Router, MaterialUI, Formik
-  - Redux, Redux Toolkit (RTK), Redux Thunk
+  - React Router, MaterialUI, Formik
+  - Redux, Redux Toolkit (RTK)
   - Axios, React Query, RTK Query, SWR
   - NextJS
   - TailwindCSS
@@ -43,13 +43,6 @@ December 2022 - May 2023
 - **Design (Beginner):**
   - Figma
   - Locofy
-- **Programming Languages:**
-  - JavaScript / TypeScript
-  - Python
-- **Languages:**
-  - English: Professional
-  - Arabic: Native
-  - German: Beginner
 
 # Projects:
 
@@ -57,6 +50,17 @@ December 2022 - May 2023
 - **React:** [Project](https://github.com/OmarThinks/Cantiin-React-NextJS)
 - **Figma:** [Project](https://github.com/OmarThinks/This-and-That)
 - **Django:** [Project](https://github.com/OmarThinks/cantiin_django)
+
+# Programming Languages:
+
+- JavaScript / TypeScript
+- Python
+
+# Languages:
+
+- English: Professional
+- Arabic: Native
+- German: Beginner
 
 # Personal Info
 
