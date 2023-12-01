@@ -70,5 +70,4 @@ December 2022 - May 2023
 
 # Contacts
 
-- [Github](https://github.com/OmarThinks)
 - [LinkedIn](https://www.linkedin.com/in/omar-magdy-28497a200/)
