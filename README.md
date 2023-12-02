@@ -9,10 +9,10 @@ React Native & React developer
 December 2022 - May 2023
 
 - Converted design to pixel-perfect React Native code
-- Worked on two React Native projects
-- Intensively used react-native-maps to render responsive maps
-- Implemented top-tier communication with RESTful API backend using React Query and RTK Query
-- Implemented Dependency Injection using Redux
+- Worked on two React Native projects as a solo developer, and received feedback and code-reviews from CTO
+- Used react-native-maps to render maps and directions inside apps
+- Implemented communication with RESTful API backend using React Query and RTK Query
+- Used Redux to provide data, like theme and auth, to the whole application
 - Implemented persistent Authentication using AsyncStorage
 - Implemented Localization using react-i18next
 - Implemented type-safety using TypeScript
