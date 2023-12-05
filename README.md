@@ -71,3 +71,4 @@ December 2022 - May 2023
 # Contacts
 
 - [LinkedIn](https://www.linkedin.com/in/omar-magdy-28497a200/)
+- [LeetCode](https://leetcode.com/OmarThinks/)
