@@ -38,6 +38,7 @@ December 2022 - May 2023
   - NativeWind
   - React Native Maps
   - Native Modules
+  - React Native Web
 - **Backend:**
   - Django, Django REST Framework
 - **Design (Beginner):**
