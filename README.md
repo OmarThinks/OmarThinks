@@ -8,6 +8,10 @@ React Native & React developer
 
 December 2023 - Now
 
+- Collaborated as a React Native developer in an Agile and Scrum environment inside a Software House
+- Intensely edited and modified Figma designs to prepare them to be auto converted to React Native layout code
+- Used Locofy to auto convert the modified figma designs to React Native layouts
+
 ### React Native Developer — [Vekelz](https://www.linkedin.com/company/vekelz/)
 
 December 2022 - May 2023
@@ -44,7 +48,7 @@ December 2022 - May 2023
   - Native Modules
 - **Backend:**
   - Django, Django REST Framework
-- **Design (Beginner):**
+- **Design:**
   - Figma
   - Locofy
 
@@ -57,7 +61,7 @@ December 2022 - May 2023
 
 # Programming Languages:
 
-- JavaScript / TypeScript
+- TypeScript / JavaScript
 - Python
 
 # Languages:
@@ -70,7 +74,7 @@ December 2022 - May 2023
 
 - Military Service: Completed, From March 2019 until June 2020
 - Education: Bachelor Of Engineering, Helwan university, Faculty of Engineering, Civil Engineering Department
-- Notice Period: I am ready for immediate hiring
+- Notice Period: 2 Months
 
 # Contacts
 
