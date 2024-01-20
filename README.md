@@ -4,14 +4,6 @@ React Native & React developer
 
 # Experience
 
-### React Native Developer — [Limitless Labs Egypt](https://www.linkedin.com/company/limitless-labs-egypt/)
-
-December 2023 - Now
-
-- Collaborated as a React Native developer in an Agile and Scrum environment inside a Software House
-- Intensely edited and modified Figma designs to prepare them to be auto converted to React Native layout code
-- Used Locofy to auto convert the modified figma designs to React Native layouts
-
 ### React Native Developer — [Vekelz](https://www.linkedin.com/company/vekelz/)
 
 December 2022 - May 2023
@@ -24,6 +16,14 @@ December 2022 - May 2023
 - Implemented persistent Authentication using AsyncStorage
 - Implemented Localization using react-i18next
 - Implemented type-safety using TypeScript
+
+### React Native Developer — [Limitless Labs Egypt](https://www.linkedin.com/company/limitless-labs-egypt/)
+
+December 2023 - Now
+
+- Collaborated as a React Native developer in an Agile and Scrum environment inside a Software House
+- Intensely edited and modified Figma designs to prepare them to be auto converted to React Native layout code
+- Used Locofy to auto convert the modified figma designs to React Native layouts
 
 # Skills
 
