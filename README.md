@@ -38,6 +38,7 @@ December 2022 - May 2023
   - i18next
   - Jest
   - GraphQL, Relay
+  - [Full Stack Web Development Nano Degree Certificate](https://graduation.udacity.com/confirm/ELAEXGHP)
 - **React Native:**
   - React Native, React Native Paper, React Native Reanimated
   - React Navigation
@@ -51,6 +52,8 @@ December 2022 - May 2023
 - **Design:**
   - Figma
   - Locofy
+- **Agile:**
+  - [Scrum Master Accredited Certification™](https://www.scrum-institute.org/badges/61578236830420)
 
 # Projects:
 
