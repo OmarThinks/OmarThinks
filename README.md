@@ -53,7 +53,7 @@ December 2023 - Now
   - Figma
   - Locofy
 - **Agile:**
-  - [Scrum Master Accredited Certification™](https://www.scrum-institute.org/badges/61578236830420)
+  - [Scrum Master Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SMAC849c2ea792-61578236830420.pdf)
 
 # Projects:
 
