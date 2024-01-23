@@ -78,7 +78,12 @@ December 2023 - Now
 
 - Military Service: Completed, From March 2019 until June 2020
 - Education: Bachelor Of Engineering, Helwan university, Faculty of Engineering, Civil Engineering Department
+
+<!--
+
 - Notice Period: 2 Months
+
+-->
 
 # Contacts
 
