@@ -22,8 +22,7 @@ December 2022 - May 2023
 December 2023 - Now
 
 - Collaborated as a React Native developer in an Agile and Scrum environment inside a Software House
-- Intensely edited and modified Figma designs to prepare them to be auto converted to React Native layout code
-- Used Locofy to auto convert the modified figma designs to React Native layouts
+- Used NativeWind and TypeScript while building React Native Projects
 
 # Skills
 
