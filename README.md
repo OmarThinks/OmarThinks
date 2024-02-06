@@ -50,7 +50,6 @@ December 2023 - Now
   - Django, Django REST Framework
 - **Design:**
   - Figma
-  - Locofy
 - **Agile:**
   - [Scrum Master Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SMAC849c2ea792-61578236830420.pdf)
   - [Scrum Developer Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SDAC16377eaf6d-18373177150264.pdf)
