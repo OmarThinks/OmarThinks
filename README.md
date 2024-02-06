@@ -1,6 +1,6 @@
 # Omar Magdy
 
-React Native & React developer
+React Native developer
 
 # Experience
 
