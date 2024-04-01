@@ -1,6 +1,6 @@
 # Omar Magdy
 
-React Native developer
+React Native developer at RentUp Egypt
 
 # Experience
 
@@ -17,11 +17,10 @@ December 2022 - May 2023
 - Implemented Localization using react-i18next
 - Implemented type-safety using TypeScript
 
-### React Native Developer — [Limitless Labs Egypt](https://www.linkedin.com/company/limitless-labs-egypt/)
+### React Native Developer — [RentUp Egypt](https://www.linkedin.com/company/rentup-egypt/)
 
 December 2023 - Now
 
-- Collaborated as a React Native developer in an Agile and Scrum environment inside a Software House
 - Used NativeWind and TypeScript while building React Native Projects
 
 # Skills
@@ -76,7 +75,6 @@ December 2023 - Now
 
 - Military Service: Completed, From March 2019 until June 2020
 - Education: Bachelor Of Engineering, Helwan university, Faculty of Engineering, Civil Engineering Department
-
 - Notice Period: 1 Month
 
 # Contacts
