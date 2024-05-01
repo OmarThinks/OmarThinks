@@ -81,3 +81,4 @@ December 2022 - May 2023
 
 - [LinkedIn](https://www.linkedin.com/in/omar-magdy-28497a200/)
 - [LeetCode](https://leetcode.com/OmarThinks/)
+- [YouTube](https://www.youtube.com/@Omar_Thinks)
