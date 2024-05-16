@@ -8,7 +8,10 @@ React Native developer at RentUp Egypt
 
 December 2023 - Now
 
-- Used NativeWind and TypeScript while building React Native Projects
+- User React-Navigation to navigate between screens
+- Used TypeScript to implement type-safety
+- Used NativeWind for styling
+- Collaborated with the Figma designer to to convert a huge amount of screens to pixel-perfect React Native code
 
 ### React Native Developer — [Vekelz](https://www.linkedin.com/company/vekelz/)
 
@@ -27,26 +30,21 @@ December 2022 - May 2023
 
 - **React:**
   - HTML, CSS
-  - React Router, MaterialUI, Formik
-  - Redux, Redux Toolkit (RTK)
+  - Formik
+  - Redux, Redux Toolkit (RTK), Redux Persist
   - Axios, React Query, RTK Query, SWR
-  - NextJS
   - TailwindCSS
-  - Styled Components
   - i18next
   - Jest
   - GraphQL, Relay
   - [Full Stack Web Development Nano Degree Certificate](https://graduation.udacity.com/confirm/ELAEXGHP)
-- **React Native:**
+- **React Native**:
   - React Native, React Native Paper, React Native Reanimated
   - React Navigation
   - Expo
   - AsyncStorage
   - NativeWind
   - React Native Maps
-  - Native Modules
-- **Backend:**
-  - Django, Django REST Framework
 - **Design:**
   - Figma
 - **Agile:**
@@ -56,7 +54,6 @@ December 2022 - May 2023
 # Programming Languages:
 
 - TypeScript / JavaScript
-- Python
 
 # Languages:
 
