@@ -8,10 +8,10 @@ React Native developer at RentUp Egypt
 
 December 2023 - Now
 
-- User React-Navigation to navigate between screens
-- Used TypeScript to implement type-safety
-- Used NativeWind for styling
 - Collaborated with the Figma designer to to convert a huge amount of screens to pixel-perfect React Native code
+- Used NativeWind for styling
+- Used TypeScript to implement type-safety
+- Used React-Navigation to navigate between screens
 
 ### React Native Developer — [Vekelz](https://www.linkedin.com/company/vekelz/)
 
