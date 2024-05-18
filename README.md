@@ -30,9 +30,10 @@ December 2022 - May 2023
 
 - **React:**
   - HTML, CSS
-  - Formik
-  - Redux, Redux Toolkit (RTK), Redux Persist
+  - React Router, MaterialUI, Formik
+  - Redux, Redux Toolkit (RTK), Redux Persist, Redux Saga
   - Axios, React Query, RTK Query, SWR
+  - NextJS
   - TailwindCSS
   - i18next
   - Jest
