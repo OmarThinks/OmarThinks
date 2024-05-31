@@ -26,7 +26,7 @@ December 2022 - May 2023
 - Implemented Localization using react-i18next
 - Implemented type-safety using TypeScript
 
-# Skills 💪:
+# Skills:
 
 - **React:**
   - HTML, CSS
@@ -70,10 +70,9 @@ December 2022 - May 2023
 
 # Projects:
 
-- **React Native:** [All Projects](https://github.com/OmarThinks/OmarThinks/blob/master/examples/react-native.md)
-- **React:** [Project](https://github.com/OmarThinks/Cantiin-React-NextJS)
-- **Figma:** [Project](https://github.com/OmarThinks/This-and-That)
-- **Django:** [Project](https://github.com/OmarThinks/cantiin_django)
+- **React Native:** [All Projects](https://github.com/OmarThinks/OmarThinks/blob/master/examples/react-native.md) [<img src="./media/React-icon.svg" height="15"/>](https://github.com/OmarThinks/OmarThinks/blob/master/examples/react-native.md)
+- **npm:** [All Packages](https://www.npmjs.com/~omar_thinks) [<img src="./media/Npm-logo.svg" height="15"/>](https://www.npmjs.com/~omar_thinks)
+- **Figma:** [Project](https://github.com/OmarThinks/This-and-That) [<img src="./media/Figma-logo.svg" height="15"/>](https://github.com/OmarThinks/This-and-That)
 
 # Links:
 
