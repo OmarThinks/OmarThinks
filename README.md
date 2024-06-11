@@ -37,7 +37,7 @@ December 2022 - May 2023
   - TailwindCSS
   - i18next
   - Jest
-  - GraphQL, Relay
+  - GraphQL, Apollo, Relay
   - [Full Stack Web Development Nano Degree Certificate](https://graduation.udacity.com/confirm/ELAEXGHP)
 - **React Native**:
   - React Native, React Native Paper, React Native Reanimated
