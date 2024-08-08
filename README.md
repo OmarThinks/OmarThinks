@@ -1,13 +1,20 @@
 # Omar Magdy
 
-React Native developer at RentUp Egypt
+React Native developer at Spikey Solutions
 
 # Experience
 
+### React Native Developer — [Spikey Solutions](https://www.linkedin.com/company/rentup-egypt/)
+
+July 2024 - Now
+
+- Working as a React Native developer
+
 ### React Native Developer — [RentUp Egypt](https://www.linkedin.com/company/rentup-egypt/)
 
-December 2023 - Now
+December 2023 - August 2024
 
+- Used Expo to build a Cross-Platform apps, the same project can work on both **Android** and **Web**
 - Collaborated with the Figma designer to to convert a huge amount of screens to pixel-perfect React Native code
 - Used NativeWind for styling
 - Used TypeScript to implement type-safety
