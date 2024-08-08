@@ -4,7 +4,7 @@ React Native developer at Spikey Solutions
 
 # Experience
 
-### React Native Developer — [Spikey Solutions](https://www.linkedin.com/company/rentup-egypt/)
+### React Native Developer — Spikey Solutions
 
 July 2024 - Now
 
