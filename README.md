@@ -74,7 +74,16 @@ December 2022 - May 2023
 
 - Military Service: Completed, From March 2019 until June 2020
 - Education: Bachelor Of Engineering, Helwan university, Faculty of Engineering, Civil Engineering Department
-- Notice Period: 1 Month
+
+
+# Hardware:
+
+- PC: CPU i5 10400, 32 GB RAM, 500GB SSD
+- Android Mobile: Samsung
+- MacMini 2018, 250GB, Intel
+- IPhone 11
+- (I can develop React Native apps on Windows, Android, IOS, MacOS and Web)
+
 
 # Projects:
 
