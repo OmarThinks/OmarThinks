@@ -78,7 +78,7 @@ December 2022 - May 2023
 
 # Hardware:
 
-- PC: CPU i5 10400, 32 GB RAM, 500GB SSD
+- PC: CPU i5 10400, 32 GB RAM, 500GB SSD, Windows 11
 - Android Mobile: Samsung
 - MacMini 2018, 250GB, Intel
 - IPhone 11
