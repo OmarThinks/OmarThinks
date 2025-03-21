@@ -8,9 +8,8 @@ React Native developer at Spikey Solutions
 
 July 2024 - Now
 
-- Working as a React Native developer
+- Working as a React Native developer on an application that has more than 1 Million users
 - Using React Native, TypeScript, RTKQuery FireBase and NativeWind
-- Working on a React Native application that has more than 1 Million users
 - Migrated old screens from JavaScript, old Class Components, old Redux and axios to TypeScript, Functional Components, RTK and RTK Query
 
 ### React Native Developer — [RentUp Egypt](https://www.linkedin.com/company/rentup-egypt/)
@@ -78,7 +77,6 @@ December 2022 - May 2023
 - Military Service: Completed, From March 2019 until June 2020
 - Education: Bachelor Of Engineering, Helwan university, Faculty of Engineering, Civil Engineering Department
 
-
 # Hardware:
 
 - PC: CPU i5 10400, 32 GB RAM, 500GB SSD, Windows 11
@@ -86,7 +84,6 @@ December 2022 - May 2023
 - MacMini 2018, 250GB, Intel
 - IPhone 11
 - (I can develop React Native apps on Windows, Android, IOS, MacOS and Web)
-
 
 # Projects:
 
