@@ -9,6 +9,9 @@ React Native developer at Spikey Solutions
 July 2024 - Now
 
 - Working as a React Native developer
+- Using React Native, TypeScript, RTKQuery FireBase and NativeWind
+- Working on a React Native application that has more than 1 Million users
+- Migrated old screens from JavaScript, old Class Components, old Redux and axios to TypeScript, Functional Components, RTK and RTK Query
 
 ### React Native Developer — [RentUp Egypt](https://www.linkedin.com/company/rentup-egypt/)
 
