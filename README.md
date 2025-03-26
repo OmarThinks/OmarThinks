@@ -8,7 +8,7 @@ React Native developer at Spikey Solutions
 
 July 2024 - Now
 
-- Working as solo React Native developer on an application that has more than 1 Million users
+- Working as solo React Native developer on an application that has approximately 1 Million users
 - Using React Native, TypeScript, RTKQuery FireBase and NativeWind
 - Migrated old screens from JavaScript, old Class Components, old Redux and axios to TypeScript, Functional Components, RTK and RTK Query
 
