@@ -75,7 +75,7 @@ December 2022 - May 2023
 # Personal Info
 
 - Military Service: Completed, From March 2019 until June 2020
-- Education: Bachelor Of Engineering, Helwan university, Faculty of Engineering, Civil Engineering Department
+- Education: Bachelor Of Engineering, Helwan university, Faculty of Engineering, Civil Engineering Department in 2018
 
 # Hardware:
 
