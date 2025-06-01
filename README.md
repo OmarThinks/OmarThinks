@@ -11,6 +11,8 @@ July 2024 - Now
 - Working as solo React Native developer
 - Using React Native, TypeScript, RTKQuery FireBase and NativeWind
 - Migrated old screens from JavaScript, old Class Components, old Redux and axios to TypeScript, Functional Components, RTK and RTK Query
+- Created job posts on LinkedIn for job opportunities in my company
+- Interviewed more than 20 React Native developers and recommended the top 3 candidates to management
 
 ### React Native Developer — [RentUp Egypt](https://www.linkedin.com/company/rentup-egypt/)
 
