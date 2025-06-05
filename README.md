@@ -2,8 +2,6 @@
 
 **React Native & CAPM**
 
-React Native developer at Spikey Solutions
-
 # Experience
 
 <details>
