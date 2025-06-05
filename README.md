@@ -1,5 +1,7 @@
 # Omar Magdy
 
+React Native & CAPM
+
 React Native developer at Spikey Solutions
 
 # Experience
@@ -39,6 +41,10 @@ December 2022 - May 2023
 
 # Skills:
 
+- **Management:**
+  - [CAPM®](https://www.credly.com/badges/520f7d9e-3d35-48c6-bf8f-f503b42791f5/public_url) (Certified Associate in Project Management)
+  - [Scrum Master Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SMAC849c2ea792-61578236830420.pdf)
+  - [Scrum Developer Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SDAC16377eaf6d-18373177150264.pdf)
 - **React:**
   - HTML, CSS
   - React Router, MaterialUI, Formik
@@ -49,7 +55,7 @@ December 2022 - May 2023
   - i18next
   - Jest
   - GraphQL, Apollo, Relay
-  - Turborepo
+  - TurboRepo
   - [Full Stack Web Development Nano Degree Certificate](https://graduation.udacity.com/confirm/ELAEXGHP)
 - **React Native**:
   - React Native, React Native Paper, React Native Reanimated
@@ -60,9 +66,6 @@ December 2022 - May 2023
   - React Native Maps
 - **Design:**
   - Figma
-- **Agile:**
-  - [Scrum Master Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SMAC849c2ea792-61578236830420.pdf)
-  - [Scrum Developer Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SDAC16377eaf6d-18373177150264.pdf)
 
 # Programming Languages:
 
