@@ -111,12 +111,7 @@ React Native developer at Spikey Solutions
 
 </details>
 
-<details>
-<summary>
-
 ## Hardware:
-
-</summary>
 
 - PC: CPU i5 10400, 32 GB RAM, 500GB SSD, Windows 11
 - Android Mobile: Samsung
@@ -124,20 +119,11 @@ React Native developer at Spikey Solutions
 - IPhone 11
 - (I can develop React Native apps on Windows, Android, IOS, MacOS and Web)
 
-</details>
-
-<details>
-<summary>
-
 ## Projects:
-
-</summary>
 
 - **React Native:** [All Projects](https://github.com/OmarThinks/OmarThinks/blob/master/examples/react-native.md) [<img src="./media/React-icon.svg" height="15"/>](https://github.com/OmarThinks/OmarThinks/blob/master/examples/react-native.md)
 - **npm:** [All Packages](https://www.npmjs.com/~omar_thinks) [<img src="./media/Npm-logo.svg" height="15"/>](https://www.npmjs.com/~omar_thinks)
 - **Figma:** [Project](https://github.com/OmarThinks/This-and-That) [<img src="./media/Figma-logo.svg" height="15"/>](https://github.com/OmarThinks/This-and-That)
-
-</details>
 
 ## Links:
 
