@@ -1,14 +1,17 @@
 # Omar Magdy
 
-React Native & CAPM
+**React Native & CAPM**
 
 React Native developer at Spikey Solutions
 
 # Experience
 
-### React Native Developer — Spikey Solutions
+<details>
+<summary>
 
-July 2024 - Now
+### React Native Developer — Spikey Solutions - July 2024 - Now
+
+</summary>
 
 - Working as solo React Native developer
 - Using React Native, TypeScript, RTKQuery FireBase and NativeWind
@@ -16,9 +19,14 @@ July 2024 - Now
 - Created job posts on LinkedIn for job opportunities in my company
 - Interviewed more than 20 React Native developers and recommended the top 3 candidates to management
 
-### React Native Developer — [RentUp Egypt](https://www.linkedin.com/company/rentup-egypt/)
+</details>
 
-December 2023 - August 2024
+<details>
+<summary>
+
+### React Native Developer — [RentUp Egypt](https://www.linkedin.com/company/rentup-egypt/) - December 2023 - August 2024
+
+</summary>
 
 - Used Expo to build a Cross-Platform apps, the same project can work on both **Android** and **Web**
 - Collaborated with the Figma designer to to convert a huge amount of screens to pixel-perfect React Native code
@@ -26,9 +34,14 @@ December 2023 - August 2024
 - Used TypeScript to implement type-safety
 - Used React-Navigation to navigate between screens
 
-### React Native Developer — [Vekelz](https://www.linkedin.com/company/vekelz/)
+</details>
 
-December 2022 - May 2023
+<details>
+<summary>
+
+### React Native Developer — [Vekelz](https://www.linkedin.com/company/vekelz/) - December 2022 - May 2023
+
+</summary>
 
 - Converted design to pixel-perfect React Native code
 - Worked on two React Native projects as a solo developer, and received feedback and code-reviews from CTO
@@ -38,6 +51,8 @@ December 2022 - May 2023
 - Implemented persistent Authentication using AsyncStorage
 - Implemented Localization using react-i18next
 - Implemented type-safety using TypeScript
+
+</details>
 
 # Skills:
 
@@ -71,18 +86,37 @@ December 2022 - May 2023
 
 - TypeScript / JavaScript
 
-# Languages:
+<details>
+<summary>
+
+## Languages:
+
+</summary>
 
 - English: Professional
 - Arabic: Native
 - German: Beginner
 
-# Personal Info
+</details>
+
+<details>
+<summary>
+
+## Personal Info
+
+</summary>
 
 - Military Service: Completed, From March 2019 until June 2020
 - Education: Bachelor Of Engineering, Helwan university, Faculty of Engineering, Civil Engineering Department in 2018
 
-# Hardware:
+</details>
+
+<details>
+<summary>
+
+## Hardware:
+
+</summary>
 
 - PC: CPU i5 10400, 32 GB RAM, 500GB SSD, Windows 11
 - Android Mobile: Samsung
@@ -90,13 +124,22 @@ December 2022 - May 2023
 - IPhone 11
 - (I can develop React Native apps on Windows, Android, IOS, MacOS and Web)
 
-# Projects:
+</details>
+
+<details>
+<summary>
+
+## Projects:
+
+</summary>
 
 - **React Native:** [All Projects](https://github.com/OmarThinks/OmarThinks/blob/master/examples/react-native.md) [<img src="./media/React-icon.svg" height="15"/>](https://github.com/OmarThinks/OmarThinks/blob/master/examples/react-native.md)
 - **npm:** [All Packages](https://www.npmjs.com/~omar_thinks) [<img src="./media/Npm-logo.svg" height="15"/>](https://www.npmjs.com/~omar_thinks)
 - **Figma:** [Project](https://github.com/OmarThinks/This-and-That) [<img src="./media/Figma-logo.svg" height="15"/>](https://github.com/OmarThinks/This-and-That)
 
-# Links:
+</details>
+
+## Links:
 
 - [LinkedIn](https://www.linkedin.com/in/omar-magdy-28497a200/) [<img src="./media/LinkedIn_icon.svg" height="15"/>](https://www.linkedin.com/in/omar-magdy-28497a200/)
 - [LeetCode](https://leetcode.com/OmarThinks/) [<img src="./media/LeetCode_logo.svg" height="15"/>](https://leetcode.com/OmarThinks/)
