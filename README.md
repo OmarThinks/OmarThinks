@@ -116,7 +116,7 @@ React Native developer at Spikey Solutions
 - PC: CPU i5 10400, 32 GB RAM, 500GB SSD, Windows 11
 - Android Mobile: Samsung
 - MacMini 2018, 250GB, Intel
-- IPhone 11
+- iPhone 11
 - (I can develop React Native apps on Windows, Android, IOS, MacOS and Web)
 
 ## Projects:
