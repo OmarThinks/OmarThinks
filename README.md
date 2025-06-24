@@ -104,6 +104,7 @@
 
 </summary>
 
+- I live in Egypt, 6th of October city
 - Military Service: Completed, From March 2019 until June 2020
 - Education: Bachelor Of Engineering, Helwan university, Faculty of Engineering, Civil Engineering Department in 2018
 
