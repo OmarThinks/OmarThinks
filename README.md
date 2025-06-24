@@ -69,7 +69,6 @@
   - Jest
   - GraphQL, Apollo, Relay
   - TurboRepo
-  - [Full Stack Web Development Nano Degree Certificate](https://graduation.udacity.com/confirm/ELAEXGHP)
 - **React Native**:
   - React Native, React Native Paper, React Native Reanimated
   - React Navigation
