@@ -62,6 +62,7 @@
   - HTML, CSS
   - React Router, MaterialUI, Formik
   - Redux, Redux Toolkit (RTK), React,Redux, Redux Thunk, Redux Persist, Redux Saga
+  - Zustand
   - Axios, React Query, RTK Query, SWR
   - NextJS
   - TailwindCSS
