@@ -77,6 +77,8 @@
   - AsyncStorage
   - NativeWind
   - React Native Maps
+- **AI:**
+  - AI SDK
 - **Design:**
   - Figma
 
