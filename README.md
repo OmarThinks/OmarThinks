@@ -77,8 +77,6 @@
   - Jest
   - GraphQL, Apollo, Relay
   - TurboRepo
-- **Backend (Beginner):**
-  - NestJS
 - **AI:**
   - AI SDK
 - **Others:**
