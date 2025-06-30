@@ -77,11 +77,15 @@
   - Jest
   - GraphQL, Apollo, Relay
   - TurboRepo
-- **AI:**
-  - AI SDK
 - **Others:**
   - Git
   - Figma
+- **AI:**
+  - AI SDK
+
+<!--
+TODO Reminder: Reorder everything in your CV
+-->
 
 # Programming Languages:
 
