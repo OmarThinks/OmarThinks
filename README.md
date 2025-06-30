@@ -58,6 +58,13 @@
   - [CAPM®](https://www.credly.com/badges/520f7d9e-3d35-48c6-bf8f-f503b42791f5/public_url) (Certified Associate in Project Management)
   - [Scrum Master Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SMAC849c2ea792-61578236830420.pdf)
   - [Scrum Developer Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SDAC16377eaf6d-18373177150264.pdf)
+- **React Native**:
+  - React Native, React Native Paper, React Native Reanimated
+  - React Navigation
+  - Expo
+  - AsyncStorage
+  - NativeWind
+  - React Native Maps
 - **React:**
   - HTML, CSS
   - React Router, MaterialUI, Formik
@@ -70,16 +77,12 @@
   - Jest
   - GraphQL, Apollo, Relay
   - TurboRepo
-- **React Native**:
-  - React Native, React Native Paper, React Native Reanimated
-  - React Navigation
-  - Expo
-  - AsyncStorage
-  - NativeWind
-  - React Native Maps
+- **Backend (Beginner):**
+  - NestJS
 - **AI:**
   - AI SDK
-- **Design:**
+- **Others:**
+  - Git
   - Figma
 
 # Programming Languages:
