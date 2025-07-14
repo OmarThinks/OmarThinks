@@ -81,10 +81,10 @@
   - Git
   - Figma
 - **AI:**
-  - AI SDK
+  - Vercel AI SDK
 
 <!--
-TODO Reminder: Reorder everything in your CV
+TODO Reminder: Reorder everything in your CV, and add AI SDK
 -->
 
 # Programming Languages:
