@@ -80,6 +80,7 @@
 - **Others:**
   - Git
   - Figma
+  - Backend (Beginner): NestJS, PostgresQL, TypeORM, Docker, Google Cloud Platform
 - **AI:**
   - Vercel AI SDK
 
