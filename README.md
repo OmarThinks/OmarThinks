@@ -127,7 +127,7 @@ TODO Reminder: Reorder everything in your CV, and add AI SDK
 - Android Mobile: Samsung
 - MacMini 2018, 250GB, Intel
 - iPhone 11
-- (I can develop React Native apps on Windows, Ubuntu, Android, IOS, MacOS and Web)
+- (I can develop React Native apps on Windows, Ubuntu, Android, iOS, MacOS and Web)
 
 ## Projects:
 
