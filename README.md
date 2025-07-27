@@ -77,10 +77,11 @@
   - Jest
   - GraphQL, Apollo, Relay
   - TurboRepo
+- Backend (Beginner):
+  - NestJS, PostgreSQL, TypeORM, Docker, Google Cloud Platform
 - **Others:**
   - Git
   - Figma
-  - Backend (Beginner): NestJS, PostgresQL, TypeORM, Docker, Google Cloud Platform
 - **AI:**
   - Vercel AI SDK
 
@@ -121,10 +122,12 @@ TODO Reminder: Reorder everything in your CV, and add AI SDK
 ## Hardware:
 
 - PC: CPU i5 10400, 32 GB RAM, 500GB SSD, Windows 11
+  - Windows 11
+  - Ubuntu
 - Android Mobile: Samsung
 - MacMini 2018, 250GB, Intel
 - iPhone 11
-- (I can develop React Native apps on Windows, Android, IOS, MacOS and Web)
+- (I can develop React Native apps on Windows, Ubuntu, Android, IOS, MacOS and Web)
 
 ## Projects:
 
