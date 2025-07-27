@@ -59,19 +59,19 @@
   - [Scrum Master Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SMAC849c2ea792-61578236830420.pdf)
   - [Scrum Developer Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SDAC16377eaf6d-18373177150264.pdf)
 - **React Native**:
-  - React Native, React Native Paper, React Native Reanimated
-  - React Navigation
+  - React Native
   - Expo
+  - React Navigation
   - AsyncStorage
   - NativeWind
+  - React Native Firebase
   - React Native Maps
 - **React:**
   - HTML, CSS
-  - React Router, MaterialUI, Formik
   - Redux, Redux Toolkit (RTK), React,Redux, Redux Thunk, Redux Persist, Redux Saga
-  - Zustand
   - Axios, React Query, RTK Query, SWR
-  - NextJS
+  - Formik
+  - Zustand
   - TailwindCSS
   - i18next
   - Jest
