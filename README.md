@@ -68,6 +68,7 @@
   - React Native Maps
 - **React:**
   - HTML, CSS
+  - React
   - Redux, Redux Toolkit (RTK), React,Redux, Redux Thunk, Redux Persist, Redux Saga
   - Axios, React Query, RTK Query, SWR
   - Formik
