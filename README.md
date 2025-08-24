@@ -85,6 +85,8 @@
   - Figma
 - **AI:**
   - Vercel AI SDK
+  - OpenAI's API Platform
+  - Google Gemini Developer API
 
 <!--
 TODO Reminder: Reorder everything in your CV, and add AI SDK
