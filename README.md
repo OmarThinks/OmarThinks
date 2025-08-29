@@ -66,6 +66,7 @@
   - NativeWind
   - React Native Firebase
   - React Native Maps
+  - React Native Audio API
 - **React:**
   - HTML, CSS
   - React
