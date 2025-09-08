@@ -66,6 +66,7 @@
   - NativeWind
   - React Native Firebase
   - React Native Maps
+  - React Native Audio API
 - **React:**
   - HTML, CSS
   - React
@@ -86,6 +87,8 @@
   - Figma
 - **AI:**
   - Vercel AI SDK
+  - OpenAI's API Platform
+  - Google's Gemini Developer API
 
 <!--
 TODO Reminder: Reorder everything in your CV, and add AI SDK
