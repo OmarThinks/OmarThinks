@@ -78,6 +78,7 @@
   - Jest
   - GraphQL, Apollo, Relay
   - TurboRepo
+  - MobX
 - Backend (Beginner):
   - NestJS, PostgreSQL, TypeORM, Docker, Google Cloud Platform
 - **Others:**
