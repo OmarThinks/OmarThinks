@@ -58,7 +58,7 @@
   - [CAPM®](https://www.credly.com/badges/520f7d9e-3d35-48c6-bf8f-f503b42791f5/public_url) (Certified Associate in Project Management)
   - [Scrum Master Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SMAC849c2ea792-61578236830420.pdf)
   - [Scrum Developer Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SDAC16377eaf6d-18373177150264.pdf)
-  - Books:
+  - Books I've read:
     - The Principles of Scientific Management by Frederick Taylor (1911)
 - **React Native**:
   - React Native
