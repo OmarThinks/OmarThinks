@@ -1,6 +1,6 @@
 # Omar Magdy
 
-**React Native & CAPM**
+**React Native & Management**
 
 # Experience
 
@@ -58,6 +58,8 @@
   - [CAPM®](https://www.credly.com/badges/520f7d9e-3d35-48c6-bf8f-f503b42791f5/public_url) (Certified Associate in Project Management)
   - [Scrum Master Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SMAC849c2ea792-61578236830420.pdf)
   - [Scrum Developer Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SDAC16377eaf6d-18373177150264.pdf)
+  - Books:
+    - The Principles of Scientific Management by Frederick Taylor (1911)
 - **React Native**:
   - React Native
   - Expo
@@ -89,10 +91,6 @@
   - Vercel AI SDK
   - OpenAI's API Platform
   - Google's Gemini Developer API
-
-<!--
-TODO Reminder: Reorder everything in your CV, and add AI SDK
--->
 
 # Programming Languages:
 
