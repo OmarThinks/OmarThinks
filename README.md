@@ -82,6 +82,7 @@
   - GraphQL, Apollo, Relay
   - TurboRepo
   - MobX
+  - Better Auth
 - Backend (Beginner):
   - NestJS, PostgreSQL, TypeORM, Docker, Google Cloud Platform
 - **Others:**
