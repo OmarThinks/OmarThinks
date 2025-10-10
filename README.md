@@ -59,8 +59,9 @@
   - [Scrum Master Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SMAC849c2ea792-61578236830420.pdf)
   - [Scrum Developer Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SDAC16377eaf6d-18373177150264.pdf)
   - Books I've read:
-    - The Principles of Scientific Management by Frederick Taylor (1911)
-    - General and Industrial Management by Henri Fayol (1916)
+    - The Principles of Scientific Management - Frederick Taylor (1911)
+    - General and Industrial Management - Henri Fayol (1916)
+    - Agile Practice Guide - PMI (2017)
 - **React Native**:
   - React Native
   - Expo
