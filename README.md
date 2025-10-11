@@ -1,6 +1,8 @@
 # Omar Magdy
 
-**React Native & Management**
+# About Me:
+
+**Passionate React Native Developer with strong experience in TypeScript, Expo, and modern state management. Certified in Agile project management.**
 
 # Experience
 
@@ -54,14 +56,6 @@
 
 # Skills:
 
-- **Management:**
-  - [CAPM®](https://www.credly.com/badges/520f7d9e-3d35-48c6-bf8f-f503b42791f5/public_url) (Certified Associate in Project Management)
-  - [Scrum Master Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SMAC849c2ea792-61578236830420.pdf)
-  - [Scrum Developer Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SDAC16377eaf6d-18373177150264.pdf)
-  - Books I've read:
-    - The Principles of Scientific Management - Frederick Taylor (1911)
-    - General and Industrial Management - Henri Fayol (1916)
-    - Agile Practice Guide - PMI (2017)
 - **React Native**:
   - React Native
   - Expo
@@ -71,6 +65,14 @@
   - React Native Firebase
   - React Native Maps
   - React Native Audio API
+- **Management:**
+  - [CAPM®](https://www.credly.com/badges/520f7d9e-3d35-48c6-bf8f-f503b42791f5/public_url) (Certified Associate in Project Management)
+  - [Scrum Master Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SMAC849c2ea792-61578236830420.pdf)
+  - [Scrum Developer Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SDAC16377eaf6d-18373177150264.pdf)
+  - Books I've read:
+    - The Principles of Scientific Management - Frederick Taylor (1911)
+    - General and Industrial Management - Henri Fayol (1916)
+    - Agile Practice Guide - PMI (2017)
 - **React:**
   - HTML, CSS
   - React
