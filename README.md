@@ -2,7 +2,8 @@
 
 # About Me:
 
-**Passionate React Native Developer with strong experience in TypeScript, Expo, and modern state management. Certified in Agile project management.**
+- **Experienced React Native developer**
+- **Certified in Agile project management**
 
 # Experience
 
