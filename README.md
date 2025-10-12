@@ -3,7 +3,7 @@
 # About Me:
 
 - **Experienced React Native developer**
-- **Certified in Agile project management**
+- **Certified in Project Management**
 
 # Experience
 
