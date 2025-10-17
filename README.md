@@ -73,6 +73,7 @@
   - Books I've read:
     - The Principles of Scientific Management - Frederick Taylor (1911)
     - General and Industrial Management - Henri Fayol (1916)
+    - The Human Side of Enterprise - Douglas MacGregor (1960)
     - Agile Practice Guide - PMI (2017)
 - **React:**
   - HTML, CSS
