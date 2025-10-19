@@ -89,7 +89,7 @@
   - TurboRepo
   - MobX
   - Better Auth
-- Backend (Beginner):
+- Backend:
   - NestJS, PostgreSQL, TypeORM, Docker, Google Cloud Platform
 - **Others:**
   - Git
