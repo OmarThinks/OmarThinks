@@ -142,6 +142,7 @@
 ## Projects:
 
 - **React Native:** [All Projects](https://github.com/OmarThinks/OmarThinks/blob/master/examples/react-native.md) [<img src="./media/React-icon.svg" height="15"/>](https://github.com/OmarThinks/OmarThinks/blob/master/examples/react-native.md)
+- **AI:** [AI Projects](./examples/ai.md)
 - **npm:** [All Packages](https://www.npmjs.com/~omar_thinks) [<img src="./media/Npm-logo.svg" height="15"/>](https://www.npmjs.com/~omar_thinks)
 - **Figma:** [Project](https://github.com/OmarThinks/This-and-That) [<img src="./media/Figma-logo.svg" height="15"/>](https://github.com/OmarThinks/This-and-That)
 
