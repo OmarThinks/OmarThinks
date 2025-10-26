@@ -2,7 +2,7 @@
 
 # About Me:
 
-- **Experienced React Native developer**
+- **React Native developer with 3 years of experience**
 - **Certified in Project Management**
 
 # Experience
