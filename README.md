@@ -103,7 +103,7 @@
     - General and Industrial Management - Henri Fayol (1916)
     - The Human Side of Enterprise - Douglas McGregor (1960)
     - Agile Practice Guide - PMI (2017)
-- Sales:
+- **Sales:**
   - Course: [Practical Sales Techniques - On Udemy - By Chris Croft](https://www.udemy.com/certificate/UC-ee1be887-e768-49d3-8346-63d181f34fc8/)
 
 # Programming Languages:
