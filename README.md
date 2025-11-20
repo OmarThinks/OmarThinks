@@ -57,7 +57,7 @@
 
 # Skills:
 
-### Technical Skills:
+### A) Technical Skills:
 
 - **React Native**:
   - React Native
@@ -92,7 +92,7 @@
   - OpenAI's API Platform
   - Google's Gemini Developer API
 
-### Project Management Skills:
+### B) Project Management Skills:
 
 - **Project Management:**
   - [CAPM®](https://www.credly.com/badges/520f7d9e-3d35-48c6-bf8f-f503b42791f5/public_url) (Certified Associate in Project Management)
