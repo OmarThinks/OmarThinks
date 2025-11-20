@@ -57,6 +57,8 @@
 
 # Skills:
 
+## Technical Skills:
+
 - **React Native**:
   - React Native
   - Expo
@@ -66,15 +68,6 @@
   - React Native Firebase
   - React Native Maps
   - React Native Audio API
-- **Project Management:**
-  - [CAPM®](https://www.credly.com/badges/520f7d9e-3d35-48c6-bf8f-f503b42791f5/public_url) (Certified Associate in Project Management)
-  - [Scrum Master Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SMAC849c2ea792-61578236830420.pdf)
-  - [Scrum Developer Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SDAC16377eaf6d-18373177150264.pdf)
-  - Books I've read:
-    - The Principles of Scientific Management - Frederick Taylor (1911)
-    - General and Industrial Management - Henri Fayol (1916)
-    - The Human Side of Enterprise - Douglas McGregor (1960)
-    - Agile Practice Guide - PMI (2017)
 - **React:**
   - HTML, CSS
   - React
@@ -98,6 +91,20 @@
   - Vercel AI SDK
   - OpenAI's API Platform
   - Google's Gemini Developer API
+
+## Project Management Skills:
+
+- **Project Management:**
+  - [CAPM®](https://www.credly.com/badges/520f7d9e-3d35-48c6-bf8f-f503b42791f5/public_url) (Certified Associate in Project Management)
+  - [Scrum Master Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SMAC849c2ea792-61578236830420.pdf)
+  - [Scrum Developer Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SDAC16377eaf6d-18373177150264.pdf)
+  - Books I've read:
+    - The Principles of Scientific Management - Frederick Taylor (1911)
+    - General and Industrial Management - Henri Fayol (1916)
+    - The Human Side of Enterprise - Douglas McGregor (1960)
+    - Agile Practice Guide - PMI (2017)
+- Sales:
+  - Course: [Practical Sales Techniques - On Udemy - By Chris Croft](https://www.udemy.com/certificate/UC-ee1be887-e768-49d3-8346-63d181f34fc8/)
 
 # Programming Languages:
 
