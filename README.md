@@ -106,6 +106,8 @@
     - Agile Practice Guide - PMI (2017)
 - **Sales:**
   - Course: [Practical Sales Techniques - On Udemy - By Chris Croft](https://www.udemy.com/certificate/UC-ee1be887-e768-49d3-8346-63d181f34fc8/)
+- **Leadership:**
+  - Course: [Leadership: Practical Leadership Skills](https://www.udemy.com/certificate/UC-101430d6-dc13-448b-bcde-3fb9b1d848b0/)
 - **Social Skills:**
   - Book I've read: How to Win Friends and Influence People - Dale Carnegie (1936) 👍
 
