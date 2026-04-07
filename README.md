@@ -163,4 +163,3 @@
 - [LinkedIn](https://www.linkedin.com/in/omar-magdy-28497a200/) [<img src="./media/LinkedIn_icon.svg" height="15"/>](https://www.linkedin.com/in/omar-magdy-28497a200/)
 - [LeetCode](https://leetcode.com/OmarThinks/) [<img src="./media/LeetCode_logo.svg" height="15"/>](https://leetcode.com/OmarThinks/)
 - [YouTube](https://www.youtube.com/@Omar_Thinks) [<img src="./media/YouTube_icon.svg" height="15"/>](https://www.youtube.com/@Omar_Thinks)
-- [npm](https://www.npmjs.com/~omar_thinks) [<img src="./media/Npm-logo.svg" height="15"/>](https://www.npmjs.com/~omar_thinks)
