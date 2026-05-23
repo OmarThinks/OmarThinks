@@ -58,8 +58,6 @@
 
 # Skills:
 
-### A) Technical Skills:
-
 - **React Native**:
   - React Native
   - Expo
@@ -83,8 +81,16 @@
   - TurboRepo
   - MobX
   - Better Auth
-- Backend:
+- **Backend:**
   - NestJS, PostgreSQL, TypeORM, Docker, Google Cloud Platform
+- **Project Management:**
+  - Certificates:
+    - [CAPM®](https://www.credly.com/badges/520f7d9e-3d35-48c6-bf8f-f503b42791f5/public_url) (Certified Associate in Project Management)
+    - [Scrum Master Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SMAC849c2ea792-61578236830420.pdf)
+    - [Scrum Developer Accredited Certification™](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SDAC16377eaf6d-18373177150264.pdf)
+  - Courses:
+    - [Leadership: Practical Leadership Skills](https://www.udemy.com/certificate/UC-101430d6-dc13-448b-bcde-3fb9b1d848b0/)
+    - [Practical Sales Techniques - On Udemy - By Chris Croft](https://www.udemy.com/certificate/UC-ee1be887-e768-49d3-8346-63d181f34fc8/)
 - **Others:**
   - Git
   - Figma
@@ -92,6 +98,8 @@
   - Vercel AI SDK
   - OpenAI's API Platform
   - Google's Gemini Developer API
+
+<!--
 
 ### B) Project Management Skills:
 
@@ -110,6 +118,8 @@
   - Course: [Practical Sales Techniques - On Udemy - By Chris Croft](https://www.udemy.com/certificate/UC-ee1be887-e768-49d3-8346-63d181f34fc8/)
 - **Social Skills:**
   - Book I've read: How to Win Friends and Influence People - Dale Carnegie (1936) 👍
+
+-->
 
 # Programming Languages:
 
