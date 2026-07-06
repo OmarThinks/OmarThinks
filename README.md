@@ -11,6 +11,17 @@
 <details>
 <summary>
 
+### Interview Engineer — [Karat](https://www.linkedin.com/company/karat/) - June 2026 - Now
+
+</summary>
+
+- Interviewing Software developers
+
+</details>
+
+<details>
+<summary>
+
 ### React Native Developer — Spikey Solutions - July 2024 - Now
 
 </summary>
