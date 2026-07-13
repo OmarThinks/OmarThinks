@@ -4,7 +4,6 @@
 
 - **React Native developer with 4 years of experience**
 - **Certified in Project Management**
-- **Ready for Immediate Hiring**
 
 # Experience
 
