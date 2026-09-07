@@ -2,6 +2,7 @@
 
 # About Me:
 
+- **Interview Engineer at Karat**
 - **React Native developer with 4 years of experience**
 - **Certified in Project Management**
 
