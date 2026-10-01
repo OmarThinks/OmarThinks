@@ -97,6 +97,8 @@
   - Better Auth
 - Backend:
   - NestJS, PostgreSQL, TypeORM, Docker, Google Cloud Platform
+- KMP (Kotlin Multiplatform):
+  - Kotlin
 - **Others:**
   - Git
   - Figma
@@ -126,6 +128,7 @@
 # Programming Languages:
 
 - TypeScript / JavaScript
+- Kotlin
 
 <details>
 <summary>
