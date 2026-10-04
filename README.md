@@ -99,6 +99,7 @@
   - NestJS, PostgreSQL, TypeORM, Docker, Google Cloud Platform
 - KMP (Kotlin Multiplatform):
   - Kotlin
+  - Kotlin Multiplatform
 - **Others:**
   - Git
   - Figma
