@@ -101,6 +101,7 @@
   - Kotlin
   - Kotlin Multiplatform
   - Coroutines, Flows
+  - Ktor
 - **Others:**
   - Git
   - Figma
