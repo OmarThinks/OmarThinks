@@ -100,6 +100,7 @@
 - KMP (Kotlin Multiplatform):
   - Kotlin
   - Kotlin Multiplatform
+  - Coroutines, Flows
 - **Others:**
   - Git
   - Figma
