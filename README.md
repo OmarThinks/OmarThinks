@@ -100,6 +100,7 @@
 - KMP (Kotlin Multiplatform):
   - Kotlin
   - Kotlin Multiplatform
+  - ViewModels
   - Coroutines, Flows
   - Ktor
 - **Others:**
