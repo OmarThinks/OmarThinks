@@ -103,6 +103,7 @@
   - ViewModels, MVVM
   - Coroutines, Flows
   - Ktor
+  - DataStore
 - **Others:**
   - Git
   - Figma
