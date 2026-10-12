@@ -99,7 +99,7 @@
   - NestJS, PostgreSQL, TypeORM, Docker, Google Cloud Platform
 - KMP (Kotlin Multiplatform):
   - Kotlin
-  - Jetpack Compose
+  - Jetpack Compose, Compose Multiplatform
   - Kotlin Multiplatform
   - ViewModels, MVVM
   - Coroutines, Flows
