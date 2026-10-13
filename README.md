@@ -98,13 +98,13 @@
 - Backend:
   - NestJS, PostgreSQL, TypeORM, Docker, Google Cloud Platform
 - KMP (Kotlin Multiplatform):
-  - Kotlin
+  - Kotlin, Coroutines, Flows
   - Jetpack Compose, Compose Multiplatform
-  - Kotlin Multiplatform
   - ViewModels, MVVM
-  - Coroutines, Flows
+  - Kotlin Multiplatform
   - Ktor
   - DataStore
+  - Voyager
 - **Others:**
   - Git
   - Figma
