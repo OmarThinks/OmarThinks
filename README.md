@@ -105,7 +105,7 @@
   - Ktor
   - DataStore
   - Voyager
-  - Koin
+  - Koin, kotlin-inject
   - Store
 - **Others:**
   - Git
