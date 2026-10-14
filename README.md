@@ -105,6 +105,7 @@
   - Ktor
   - DataStore
   - Voyager
+  - Koin
 - **Others:**
   - Git
   - Figma
