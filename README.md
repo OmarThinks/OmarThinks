@@ -100,7 +100,7 @@
 - KMP (Kotlin Multiplatform):
   - Kotlin, Coroutines, Flows
   - Jetpack Compose, Compose Multiplatform
-  - ViewModels, MVVM
+  - ViewModels, MVVM, Repository Pattern
   - Kotlin Multiplatform
   - Ktor
   - DataStore
