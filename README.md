@@ -107,6 +107,7 @@
   - Voyager
   - Koin, kotlin-inject
   - Store
+  - SQLDelight
 - **Others:**
   - Git
   - Figma
