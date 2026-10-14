@@ -106,6 +106,7 @@
   - DataStore
   - Voyager
   - Koin
+  - Store
 - **Others:**
   - Git
   - Figma
